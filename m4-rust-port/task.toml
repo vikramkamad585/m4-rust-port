@@ -1,7 +1,7 @@
 version = "1.0"
 
 [task]
-name = "afterquery/m4-rust-port"
+name = "afterquery/gnu-m4-1419-rust-reimpl"
 description = "Port the GNU m4 1.4.19 macro processor to a dependency-free Rust binary; graded by byte-exact differential comparison against GNU m4 on 2,175 sealed programs."
 
 [metadata]

@@ -1,4 +1,4 @@
-# m4-rust-port
+# gnu-m4-1419-rust-reimpl
 
 A long-horizon software-engineering task: **port GNU m4 1.4.19 to a
 dependency-free Rust binary** that is byte-compatible with the real tool. It
@@ -16,7 +16,7 @@ each one was captured from GNU m4 itself.
 ## Repository layout
 
 ```
-m4-rust-port/              the task bundle (this directory is what gets zipped)
+m4-rust-port/              the task bundle, submitted as `gnu-m4-1419-rust-reimpl`
   task.toml                task metadata, budget, resources
   instruction.md           full engineering brief given to the implementer
   PROVENANCE.md            upstream source, how cases and reference were built

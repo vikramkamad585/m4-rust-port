@@ -12,9 +12,15 @@ RUN apt-get update \
  && rm -rf /var/lib/apt/lists/* \
  && ! command -v m4
 
-# Claude Code CLI
+# Agent CLIs: Claude Code and Codex
 RUN curl -fsSL https://claude.ai/install.sh | bash
 ENV PATH="/root/.local/bin:${PATH}"
+RUN apt-get update \
+ && apt-get install -y --no-install-recommends nodejs npm \
+ && rm -rf /var/lib/apt/lists/* \
+ && npm install -g @openai/codex@0.163.0 \
+ && npm cache clean --force \
+ && codex --version
 
 # Unprivileged account used to execute the built binary during grading.
 RUN useradd --system --no-create-home --shell /usr/sbin/nologin m4grade
