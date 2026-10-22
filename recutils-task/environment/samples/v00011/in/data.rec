@@ -1,0 +1,26 @@
+Title: Databases
+# note about Author
+Author: Alan Matsumoto
+Year: 2023
+Price: 939.56
+Available: true
+Note: beta databases
+
+# between
+
+Title:	Stream
+Author: Edsger Hopper
+Year:1971
+Tag:queue
+
+# between
+
+Title:Compilers Stream Databases
+Author: Grace Ritchie
+Author: Edsger Turing
+Year:2017
+Price: 72
+Tag: gamma
+# note about Tag
+Tag: graphics
+Available: no

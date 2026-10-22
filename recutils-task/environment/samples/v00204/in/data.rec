@@ -1,0 +1,77 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: Dennis Perlman
+# note about Age
+Age:-6
+Salary:158000
+Dept: Ops
+Level: 3
+Email: dennis@example.org
+Email: dennis@example.org
+
+Id:	2
+Name: Leslie Dijkstra
+Age: 27
+Salary: 178000
+Dept: Research
+
+Id: 3
+Name:Dennis Borg
+Age: -6
+Salary:144000.50
+# note about Dept
+Dept: Legal
+Level: 2
+
+Id: 4
+Name: Rob Lamport
+Age: 28
+Dept: Ops
+
+Id:5
+Name:	Grace Pike
+Age: 35
+Salary:	150000.50
+Dept: Research
+Level: 6
+City: Paris
+
+Id: 6
+Name: John Turing
+Age: 57
+Dept:Research
+Email: frances@example.org
+Email: yukihiro@example.org
+City: Lima
+
+Id: 7
+Name:Ada Borg
+Age: 54
+Salary: 66000.50
+Dept: Sales
+Email:	dennis@example.org
+Email: dennis@example.org
+
+Id: 8
+Name: Yukihiro Stroustrup
+Age: 18
+Salary: 124000.50
+Dept: Eng
+Email: grace@example.org
+City:Cairo
+
+Id:9
+Name: Niklaus\
+ Turing
+Age:	28
+Dept:Sales
+Level: 8
+# note about Email
+Email:linus@example.org
+City: Aus\
+tin

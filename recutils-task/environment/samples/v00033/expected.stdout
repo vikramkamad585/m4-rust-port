@@ -1,0 +1,28 @@
+Id: 1
+Name: Niklaus Lamport
+Age: 60
+Salary: 61000.50
+Dept: Ops
+Level: 1
+
+Id: 2
+Name: Radia Knuth
+Age: 05
+Salary: 154000
+Dept: Support
+Level: 7
+
+Id: 3
+Name: Barbara Borg
+Age:
+Salary: 22000.50
+Dept: Sales
+Email: donald@example.org
+Email: ada@example.org
+
+Id: 4
+Name: Niklaus Hamilton
+Age: 0x9D
+Salary: 186000
+Dept: Legal
+Email: anita@example.org

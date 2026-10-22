@@ -1,0 +1,93 @@
+%rec: Book
+%type: Year int
+
+# between
+
+Title:	Alpha Parser Stream
+Author: Leslie Dijkstra
+Year: 71.45
+# note about Tag
+Tag:run\
+time
+Tag: graphics
+Available:	false
+Note: gamma\kernel
+
+# between
+
+Title:	Stream
+Author: Grace Lamport
+Year: 65
+Price: 245
+Tag: graphics
+Tag:	graphics
+# note about Available
+Available: no
+
+# between
+
+Title:Secu\
+rity
+Author: Bjarne Hopper
+Year: 71
+Price: 1e3
+Tag:	systems
+Tag: gamma
+
+# between
+
+Title: Cache
+Author: Yukihiro Thompson
+Year: 1965
+Price: .75
+Tag: alpha
+Tag:parser
+Tag: compilers
+Available: true
+
+# between
+
+Title: Beta Networks
+Author:	Barbara Dijkstra
+Year: 0x13
+Price:	560.07
+Note: GAMMA
+
+# between
+
+Title:	Alpha Kernel
+Author: John Liskov
+Year: 1955
+Price: 1e3
+Tag: theory
+Tag:compilers
+
+# between
+
+Title: System\
+s Alpha
+Author: Bjarne Wirth
+Author:	Donald Thompson
+Year: 46
+Price:414.09
+Tag:systems
+Tag: stream
+Available: maybe
+
+# between
+
+Author:	Yukihiro Perlman
+Price:	1e3
+Title: Editor Databases
+Year:	30
+
+# between
+
+Title: Delta Compilers
+Author: Ken Liskov
+Year:	1953
+Price: .75
+Tag:beta
+Tag: qu\
+eue
+Note: stream systems compilers

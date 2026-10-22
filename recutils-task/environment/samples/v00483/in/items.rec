@@ -1,0 +1,14 @@
+# runtime stream gamma kernel
+
+%rec: Item
+%type: V bool
+
+Name:delta
+V: 29
+
+Name:	cache
+V: 28
+
+Name: str\
+eam
+V:29

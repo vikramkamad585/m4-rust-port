@@ -1,0 +1,53 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title:Parser
+Writer:donald
+Year:2006
+
+Title: Editor
+Year: 1966
+
+# note about Title
+Title: Runtime Runtime
+Writer:dennis
+Writer: nobody
+Year:	1956
+
+Title:Compilers Compilers
+Writer: alan
+Year: 1967
+
+Title: Kernel Kernel Stream
+Writer: dennis
+Year: 1978
+
+Title:Kernel
+Writer:	dennis
+Writer: yukihiro
+Year:	1979
+
+%rec: Author
+%key: Handle
+
+Handle:	alan
+Name: Alan Knuth
+Born: 1983
+
+Handle: yukihiro
+Name:Yukihiro Turing
+Born:	1903
+
+Handle: donald
+Name: Donald Ritchie
+Born: 1939
+
+Handle:	edsger
+Name: Edsger Thompson
+# note about Born
+Born: 1984
+
+Handle:dennis
+Name: Dennis Lovelace
+Born:1988

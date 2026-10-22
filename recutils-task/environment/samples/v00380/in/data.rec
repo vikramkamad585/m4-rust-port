@@ -1,0 +1,59 @@
+# beta databases editor graphics
+
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name: Donald Lamport
+Age:28
+# note about Salary
+Salary:47000
+# note about Dept
+Dept: Support
+
+
+# note about Id
+Id:	2
+Name:Leslie Turing
+Age:	28
+Dept:Research
+Level:	4
+Email:linus@ex\
+ample.org
+Email: margaret@example.org
+
+
+Id:	3
+Name: Rob Stroustrup
+Age: 04
+Salary: 101000
+Dept:Legal
+
+
+Id: 4
+Name:	Guido Matsumoto
+Age: 0x14
+Salary: 98000.50
+Dept:Research
+Level: 4
+
+
+Id: 5
+Name: Guido Borg
+Age: 07
+Salary: 199000.50
+Dept: Support
+Level: 9
+
+
+Id:6
+Name:Leslie Torvalds
+Age:94
+Salary: 404
+Dept: Ops

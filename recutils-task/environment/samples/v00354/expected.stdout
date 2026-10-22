@@ -1,0 +1,6 @@
+"Author","Title","Price","Year","Tag","Note","Author_2","Tag_2","Available","Tag_3"
+"Ada Torvalds","Gamma Alpha","0.5","2024",,,,,,
+"Anita Lovelace","Networks Security","1e3","1987","cache",,,,,
+"Guido McCarthy","Security Parser Queue","1e3","1963","databases","theory","Frances Borg","editor","no","editor"
+"Margaret Torvalds","Parser",,"1996",,"compilers\networks","Radia Dijkstra",,"false",
+"Barbara Lovelace","Kernel","0.5",,"systems","stream theory",,,"yes",

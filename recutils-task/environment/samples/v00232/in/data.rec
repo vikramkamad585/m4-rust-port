@@ -1,0 +1,28 @@
+%rec: Book
+%type: Year int
+
+
+Title: Editor Security Delta
+Author: John Matsumoto
+Year: 1958
+Price:296.74
+
+
+Title:	Kernel Gamma Databases
+Author: Donald Liskov
+Year: 11
+Tag:systems
+Tag:security
+Tag: systems
+Note: say "cache"
+
+
+Title: Security
+Author: Yukihiro \
+Stroustrup
+Year: 1974
+Price: -2.5
+Tag: networks
+Tag:	cache
+# note about Tag
+Tag: networks

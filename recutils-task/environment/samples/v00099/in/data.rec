@@ -1,0 +1,32 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Age
+
+# between
+
+Id:1
+Name:Rob Liskov
+Age: 38
+Salary: 164000.50
+Dept:	Legal
+Email: guido@example.org
+Email: alan@example.org
+
+# between
+
+Id: 2
+Name: Linus Lovelace
+Age: 
+Dept:	Sales
+Level: 3
+
+# between
+
+Id: 3
+Name: Dennis Ritchie
+Age: 99
+Salary: 0.5
+Dept: Support
+Email: ken@example.org
+City:Berlin

@@ -1,0 +1,32 @@
+Id: 7
+Name: Guido Ritchie
+Age: 68
+Salary: 1e3
+Dept: Legal
+Level: 5
+Email: linus@example.org
+
+Id: 3
+Name: Ken Wirth
+Age: 7abc
+Salary: 118000
+Dept: Sales
+Email: guido@example.org
+
+Id: 2
+Name: Yukihiro Thompson
+Age: 66
+Salary: 120000.50
+Dept: Ops
+Level: 2
+Email: grace@example.org
+Email: donald@example.org
+
+Id: 4
+Name: Edsger Stroustrup
+Age:
+Salary: 192000
+Dept: Sales
+Level: 1
+Email: bjarne@example.org
+Email: bjarne@example.org

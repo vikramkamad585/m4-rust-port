@@ -1,0 +1,17 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Author: Guido Matsumoto
+Tag: beta
+Tag:	networks
+Title:Databases
+Year:  7
+Tag: theory
+Price:	0.5
+
+Author:Barbara Borg
+Tag: graphics
+Year: 1980
+Tag: systems
+Title: Theory

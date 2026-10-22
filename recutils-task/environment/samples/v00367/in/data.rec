@@ -1,0 +1,51 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name: Margaret Knuth
+Dept:Legal
+Level: 2
+Email:	bjarne@example.org
+Email: anita@example.org
+
+Id: 2
+Name: Margaret Ritchie
+Age: 22
+Salary: 98000
+Dept: Ops
+Email: leslie@example.org
+# note about City
+City: Paris
+
+Id:	3
+Name: Yukihiro McCarthy
+Age:	13\
+.70
+Salary: 83000.50
+Dept: Legal
+Email: yukihiro@example.org
+Email: john@example.org
+City:Lima
+
+Id: 4
+Name: Anita Dijkstra
+Salary: 36000
+Dept: Eng
+Level: 8
+Email:yukihiro@example.org
+
+Id:5
+Name:	Rob Liskov
+Age:	51
+# note about Dept
+Dept:	Sales
+Level: 8
+
+Id:6
+Name: Radia Stroustrup
+Age: 26
+Salary:-2.5
+Dept: Legal
+Level: 4

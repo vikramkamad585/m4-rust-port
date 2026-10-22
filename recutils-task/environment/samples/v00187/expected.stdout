@@ -1,0 +1,29 @@
+Dept: Eng
+count_Level: 1
+Sum_Id: 9
+Total: 1.79769e+308
+
+Dept: Legal
+count_Level: 1
+Sum_Id: 9
+Total: 1.79769e+308
+
+Dept: Ops
+count_Level: 0
+Sum_Id: 9
+Total: 1.79769e+308
+
+Dept: Research
+count_Level: 1
+Sum_Id: 4
+Total: 1.79769e+308
+
+Dept: Sales
+count_Level: 2
+Sum_Id: 9
+Total: 1.79769e+308
+
+Dept: Support
+count_Level: 1
+Sum_Id: 5
+Total: 1.79769e+308

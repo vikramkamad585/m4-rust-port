@@ -1,0 +1,57 @@
+# compilers graphics
+
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id:1
+Name:Niklaus Liskov
+Age: 52
+Salary: 0.5
+Dept: Legal
+Level:	2
+
+
+Id: 2
+Name:Alan Wirth
+Age:28
+Dept:Research
+Email:dennis@example.org
+Email: john@example.org
+
+
+Id:	3
+Name:Barbara Hopper
+Age:70
+# note about Salary
+Salary:.75
+Dept: Legal
+Level: 1
+
+
+Id: 4
+Name: Bjarne Ritchie
+Salary:94000.50
+Dept:Sales
+Email: ken@example.org
+
+
+Id: 5
+Name:Frances Torvalds
+Age:5
+Salary: 172000.50
+Dept:Eng
+
+
+Id:6
+Name: Alan Wirth
+# note about Age
+Age:	1abc
+Salary: 38000
+Dept: Eng
+Email:dennis@example.org

@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Age}};"
+ ],
+ "stdin": "Id: 1\nName:Bjarne McCarthy\nAge: 29\nSalary: 177000.50\nDept: Research\nLevel: 7\nEmail:anita@example.org\n# note about Email\nEmail:ken@example.org\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

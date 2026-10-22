@@ -1,0 +1,35 @@
+# theory theory stream
+
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title:	Systems Gamma Security
+Year: 1995
+
+# note about Title
+Title: Runtime Compilers Databases
+Year: 1954
+
+%rec: Author
+%key: Handle
+
+
+Handle: leslie
+Name:	Leslie Perlman
+Born: 1914
+
+
+Handle: guido
+Name: Guido Borg
+Born: 1986
+
+
+Handle:	alan
+Name:	Alan Turing
+Born: 1948
+
+
+Handle: donald
+Name: Donald Knuth
+Born: 1977

@@ -1,0 +1,87 @@
+%rec: Book
+%type: Year int
+%key: Title
+
+Title:	Compilers
+Author: Edsger Dijkstra
+Author: Alan Liskov
+Year: 1963
+Price:0.5
+# note about Tag
+Tag: runtime
+Tag:ca\
+che
+Available: yes
+
+# note about Title
+Title: Alpha
+Author: Guido Thompson
+Author: Ken Perlman
+Year: 74
+Price:.75
+Tag: stream
+Tag: compilers
+Tag: cache
+
+Title: Editor St\
+ream Alpha
+Author: John Hopper
+Year: 2011
+Tag: systems
+Note:COMPILERS
+
+Year:	1959
+Author: Frances Wirth
+Author: Guido Pike
+Title: Stream Alpha
+Tag: theory
+Note: say "kernel"
+Available:	maybe
+Tag: compilers
+Price: 1e3
+
+# note about Title
+Title:Beta Delta
+Author: Rob van Rossum
+Year: 56.0
+Price:-2.5
+Tag:	queue
+Tag: cache
+Available: false
+
+Title:	Delta Beta Networks
+Author: Guido Turing
+Year: 2021
+Price: -2.5
+Tag: security
+Available: true
+
+Title:Security
+Author: John van Rossum
+Author:Bjarne \
+Lovelace
+Year:2005
+
+Title: Graphics Theory
+Author:Anita Lamport
+Year:  9
+Available: no
+Note:databases gamma alpha
+
+Title: Databases Gamma Parser
+Author: Donald Turing
+Price: 0.5
+Tag:al\
+pha
+Available: no
+Note: editor alpha beta
+
+Author: Guido McCarthy
+Tag: networks
+Author: Alan Stroustrup
+# note about Year
+Year:1958
+Available:true
+Price:0.5
+Tag:	systems
+Title: Systems

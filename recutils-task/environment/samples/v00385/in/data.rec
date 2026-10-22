@@ -1,0 +1,45 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name:Linus Stroustrup
+Age:	51
+Salary: 43000
+Dept: Legal
+Level:	2
+Email:guido@example.org
+
+Id:2
+Name: Margaret Lovelace
+Age:	-26
+Salary:.75
+Dept: Sup\
+port
+Level:9
+Email: dennis@example.org
+City: Oslo
+
+Id: 3
+Name:	Rob Th\
+ompson
+Salary: 66000.50
+Dept: Ops
+
+Id:	4
+Name: Niklaus Ritchie
+Age:	58
+Dept: Eng
+City: Paris
+
+Id:5
+Name:Guido Turing
+Age: 41
+Salary: 1200\
+00.50
+Dept:	Eng
+Level: 2
+Email:	bjarne@example.org
+Email: alan@example.org
+City:	Tokyo

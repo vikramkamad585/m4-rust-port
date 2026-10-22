@@ -1,0 +1,35 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+# systems security alpha cache
+
+%rec: Book2
+%type: Year int
+%type: Price real
+%sort: Title
+
+Tag: runtime
+Author:	Linus Thompson
+Price: 23
+Tag: beta
+Title: Runtime Compilers Alpha
+Year: 98.41
+Author: Rob Hopper
+
+Title: Networks Theory Beta
+Author: Rob L\
+iskov
+Author:	Yukihiro Stroustrup
+Year: 1966
+# note about Price
+Price: 0.5
+
+Title: Beta Parser Runtime
+Author: Donald van Rossum
+Author: Yukihiro Hopper
+Year: 1970
+Tag: stream
+Tag: stream
+Tag: theory

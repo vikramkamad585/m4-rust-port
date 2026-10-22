@@ -1,0 +1,37 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id:1
+Name:John Wirth
+Age: 30
+Salary:.75
+Dept: Sales
+Email:edsger@example.org
+Email:barbara@example.org
+
+%rec: Book
+%type: Year int
+%sort: Price
+
+Title: Beta Kernel
+Author:Guido T\
+orvalds
+Year: 
+Available: 1
+
+Tag:systems
+Price:	1e3
+Tag:gamma
+Author: Margaret Turing
+Year: 1971
+Title:Compilers
+Tag: editor
+
+Title:Beta Theory Networks
+Author: Ada Stroustrup
+Year: 1961
+Tag: alpha
+Tag: security
+Available:maybe

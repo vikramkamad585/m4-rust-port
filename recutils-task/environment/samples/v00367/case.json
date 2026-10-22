@@ -1,0 +1,13 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-t",
+  "Staff",
+  "-d",
+  "|",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

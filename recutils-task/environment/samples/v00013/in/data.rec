@@ -1,0 +1,48 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+
+Title: Networks Delta
+Author: Margaret Wirth
+Author:Radia Hamilton
+Year: 38
+Price: 486.03
+Tag: beta
+
+
+Title:Kernel Databases
+Author: Guido Stroustrup
+Year:1973
+Price: 186
+Tag:theory
+Tag:	parser
+Available: 0
+
+
+Title: Theory Networks
+Author: Margaret Borg
+Year:	69
+Tag:	kernel
+
+
+Tag: compilers
+Tag: databases
+Price:-2.5
+Year: 1969
+Author:	Ada Lovelace
+Note:	queue queue
++ stream
+Title:Parser Runtime
+Tag:cache
+
+
+# note about Title
+Title: Editor
+Author:	Linus Torvalds
+Year: 2001
+Price:181
+Tag: beta
+Tag: graphics
+Available:	false

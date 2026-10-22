@@ -1,0 +1,39 @@
+# cache alpha alpha
+
+%rec: Book
+%type: Year int
+
+Title: Queue Stream Runtime
+Author: Grace Dijkstra
+Author: Anita Pike
+Year: 2021
+Price:.75
+# note about Tag
+Tag: kernel
+
+Title:Cache Graphics Compilers
+Author: Rob Hamilton
+Year: 26
+Tag: runtime
+Note:	say "theory"
+
+Price:	-2.5
+Title: Cache
+Available: maybe
+Year: 2004
+Author:	Guido Perlman
+
+Title: Alpha Kernel
+Author:	Margaret Knuth
+Year: 1950
+Price: 0.5
+Tag: networks
+
+Title: Systems Compilers Queue
+Author: Grace Borg
+Year: 1960
+Price:1e3
+# note about Tag
+Tag: stream
+Tag: parser
+Tag:stream

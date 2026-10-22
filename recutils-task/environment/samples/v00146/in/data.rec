@@ -1,0 +1,31 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Dept Age
+
+
+Id:	1
+Name:Yukihiro Wirth
+Age:	37
+Salary: 79000.50
+Dept:Eng
+Level: 3
+
+
+Id: 2
+Name: Frances \
+Torvalds
+Age: 52
+Salary: 0.5
+Dept:Ops
+Email: donald@example.org
+
+
+Id:3
+Name: John Knuth
+Age: 43.76
+Salary:	142000.50
+Dept:	Ops
+Email: edsger@example.org

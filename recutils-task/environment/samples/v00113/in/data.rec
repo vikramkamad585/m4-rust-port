@@ -1,0 +1,60 @@
+# gamma runtime compilers
+
+%rec: Book
+%type: Year int
+%key: Title
+
+Title:Security
+Author:	Edsger Matsumoto
+Author: Rob Lovelace
+Year: 2012
+Price:	336
+Available: true
+
+Title: Queue Cache
+Author:Grace Pike
+Year: 1975
+Tag:	qu\
+eue
+# note about Tag
+Tag: kernel
+Available:	maybe
+Note: delta kernel
++ graphics
+
+Title: Alpha Systems
+# note about Author
+Author:Niklaus van Rossum
+Year:	2002
+Price: 1e3
+Tag: delta
+
+Title: Kernel Runtime
+Author:Yukihiro Ritchie
+Author:	Grace van Rossum
+Year: 2002
+Price: 1e3
+Tag:	parser
+Tag:	graphics
+Available:0
+Note:   networks  
+
+Title:	Compilers Compilers
+Author:	Ken Allen
+Year:	1998
+Price: 502.41
+Note: say "alpha"
+
+Title: Editor Security Cache
+Author: Yukihiro Thompson
+Year: 2009
+Tag:	runtime
+Tag:theory
+Tag:	networks
+Available: maybe
+Note: delta\systems
+
+Year: 62
+Author:Linus Wirth
+Title:Delta Kernel
+Price:	219

@@ -1,0 +1,31 @@
+# databases alpha security
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title:	Gamma Cache Systems
+Writer:	barbara
+Writer:dennis
+Year: 1958
+
+Title: Security
+Writer:	barbara
+# note about Writer
+Writer: dennis
+Year: 1998
+
+Title:	Gamma
+Year:1992
+
+%rec: Author
+%key: Handle
+
+Handle: dennis
+Name:Dennis van Rossum
+# note about Born
+Born: 1942
+
+Handle:	barbara
+Name:	Barbara Thompson
+Born: 1903

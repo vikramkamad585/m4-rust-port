@@ -1,0 +1,100 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Salary
+
+# between
+
+Id: 1
+Name:Ken Torvalds
+Age: 
+Salary:	197000
+Dept: Research
+Email:frances@example.org
+Email: yukihiro@example.org
+
+# between
+
+Id:2
+Name: Donald Liskov
+Age:
+Salary: 192
+Dept: Ops
+Level: 4
+Email:barbara@e\
+xample.org
+Email:barbara@example.org
+City:Oslo
+
+# between
+
+Id: 3
+Name: Dennis Liskov
+Age:92
+Salary: 383
+Dept: Sales
+Email:radia@example.org
+City:	Pa\
+ris
+
+# between
+
+Id:	4
+Name: Donald Lovelace
+Age: 52
+Salary: 154000
+# note about Dept
+Dept:	Sales
+Level: 7
+Email: barbara@example.org
+
+# between
+
+Id:	5
+Name: Rob Liskov
+Age: 27
+Dept:Ops
+
+# between
+
+Id: 6
+Name:	Barbara Matsumoto
+Age: 113
+Dept:Sales
+Level:	5
+Email:barbara@example.org
+City:	Austin
+
+# between
+
+Id:	7
+Name: Donald McCarthy
+Age: 36
+Salary: 1e3
+Dept: Eng
+Level: 9
+Email: grace@example.org
+City:	Oslo
+
+# between
+
+Id: 8
+Name: Donald Liskov
+# note about Age
+Age: 46
+Salary: 95000
+Dept:	Research
+Email: ken@example.org
+
+# between
+
+Id:	9
+Name:Leslie Lamport
+Age:  4
+Salary: 823.38
+# note about Dept
+Dept: Legal
+Email: margaret@example.org
+City:	Aus\
+tin

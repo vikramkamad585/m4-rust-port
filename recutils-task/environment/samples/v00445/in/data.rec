@@ -1,0 +1,15 @@
+# gamma systems graphics cache
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# note about Id
+Id: 1
+Name: Frances Allen
+Salary: 0.5
+# note about Dept
+Dept:Ops
+Level: 5

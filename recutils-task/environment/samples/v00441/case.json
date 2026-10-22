@@ -1,0 +1,12 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-z",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "cli"
+}

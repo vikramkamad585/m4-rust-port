@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "- {{Tag[1]}} | {{Price + 4}};"
+ ],
+ "stdin": "Title: Security\nAuthor: Alan Pike\nAuthor: Rob McCarthy\nYear: 15\nPrice: -2.5\n# note about Tag\nTag: beta\nTag:\tdelta\nTag: delta\nNote: networks\\systems\n\n\nTitle: Stream\nAuthor:\tNiklaus \\\nTorvalds\nPrice: -2.5\nAvailable:\tmaybe\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

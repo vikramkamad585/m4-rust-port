@@ -1,0 +1,29 @@
+# graphics compilers graphics editor
+
+%rec: Book
+%type: Year int
+%type: Available bool
+%sort: Year Title
+
+Title:Stream Databases Databases
+Author: Yukihiro Thompson
+Year:	1969
+Price: .75
+
+Title:Cache Security
+Author: Donald Torvalds
+Author: Rob McCarthy
+Price:.75
+# note about Tag
+Tag:kernel
+Available: 0
+
+Tag: stream
+Author:Edsger\
+ Liskov
+Author:	Guido Knuth
+Title:Alpha Theory
+Available: 1
+# note about Price
+Price: -2.5
+Year:  0

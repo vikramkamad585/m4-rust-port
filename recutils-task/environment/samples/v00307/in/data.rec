@@ -1,0 +1,48 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id: 1
+Name: Ken van Rossum
+Age: 70
+Salary: -2.5
+Dept:Support
+Level: 4
+Email: ken@example.org
+Email: alan@example.org
+
+
+Id: 2
+Name:Bjarne Allen
+Age: 64
+Salary:	49000.50
+Dept: Sa\
+les
+
+
+Id:	3
+Name: Anita Thompson
+Age: 37
+Dept:Support
+Level: 4
+Email:	yukihiro@example.org
+Email:margaret@example.org
+
+
+Id:4
+Name: Leslie Matsumoto
+Salary: 59000.50
+Dept:Legal
+Level: 8
+Email: john@example.org
+
+
+Id:5
+Name: Radia Ritchie
+Age: 1abc
+Salary: 32000.50
+Dept:Legal
+Level: 5
+Email:	anita@example.org

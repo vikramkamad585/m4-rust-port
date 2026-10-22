@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Note}} | {{Year + 7}} | {{Price * 1.5}} | {{Price * 1.5}}\n"
+ ],
+ "stdin": "Title:Compilers\nAuthor:Margaret Torvalds\nYear:1976\nPrice: 178\nTag: runtime\nAvailable: no\nNote: gamma\n+ stream systems\n\nTitle:Theory Compilers\nAuthor: Donald Hamilton\nYear: 0xCE\nPrice:\t1e3\nTag:\tkernel\nTag: stream\nTag: queue\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

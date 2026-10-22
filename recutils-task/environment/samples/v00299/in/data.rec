@@ -1,0 +1,11 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:1
+Name: Radia Borg
+Age:47
+Dept:Ops
+City:	Oslo

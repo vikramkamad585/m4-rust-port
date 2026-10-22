@@ -1,0 +1,35 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Year: 1989
+Title: Databases Alpha Theory
+Author: Rob Ritchie
+Author:	Margaret van Rossum
+Tag: systems
+
+
+Author:Frances Torvalds
+Tag: security
+Tag:cache
+Price: 360.88
+Available:maybe
+Tag: beta
+Title:	Gamma
+Year: 1968
+
+
+Year: 1981
+Author:Yukihiro Hamilton
+Tag:runtime
+Price: 0.5
+Title: Parser Alpha
+Tag: delta
+Available:	true
+
+
+Title: Stream Beta
+Author: Rob Lovelace
+Year: 0x7E
+Price: .75

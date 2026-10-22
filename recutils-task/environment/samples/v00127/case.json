@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-C",
+  "-t",
+  "Book",
+  "-R",
+  "Note[0],Available[1-2],Price:out_name",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

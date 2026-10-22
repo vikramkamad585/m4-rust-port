@@ -1,0 +1,106 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id: 1
+Name: Alan Pike
+Age: -7
+Dept: Ops
+Level: 1
+City: Austin
+
+# between
+
+Id:	2
+Name:	Niklaus van Rossum
+Age: 101
+Dept:	Research
+# note about Level
+Level:6
+
+# between
+
+Id:3
+# note about Name
+Name:	Yukihiro Pike
+# note about Age
+Age: 59
+Salary: 145000
+Dept:Eng
+Level: 8
+Email: ada@example.org
+City: Oslo
+
+# between
+
+Id:4
+Name:	Grace Stroustrup
+Age: 9
+Salary: 56000.50
+Dept:	Sales
+
+# between
+
+Id: 5
+Name: Donald Thompson
+Age:6abc
+Salary: 152000.50
+Dept:Eng
+Level: 3
+Email: barbara@example.org
+
+# between
+
+Id:6
+Name: Yukihiro \
+Matsumoto
+Age:56
+Salary: 161000
+Dept:	Support
+
+# between
+
+Id:7
+Name: Alan Wirth
+Salary:	564.37
+# note about Dept
+Dept:	Legal
+Email: margaret@example.org
+Email: frances@example.org
+City:	Paris
+
+# between
+
+Id:	8
+Name:Donald Lovelace
+Age: 73
+Salary:75000
+Dept:Legal
+Level:	4
+Email:	niklaus@example.org
+City:	Austin
+
+# between
+
+Id:	9
+Name: Grace Hamilton
+Age:47
+Salary: 86000.50
+Dept: Ops
+Level: 6
+Email: barbara@example.org
+
+# between
+
+Id:	10
+Name:Rob Pike
+Age:78
+Salary: 0.5
+Dept: Sales
+Email: rob@example.org
+City: Cairo

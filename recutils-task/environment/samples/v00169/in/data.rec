@@ -1,0 +1,58 @@
+# editor runtime graphics
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+%key: Title
+
+Title: Compilers Alpha
+# note about Author
+Author: Anita Lovelace
+Year: 2004
+Price: 1e3
+Available: true
+Note:	editor editor
+
+Author: Guido Hopper
+Year:4abc
+Author: Dennis Perlman
+Tag: systems
+Available: 0
+Tag:	networks
+Title: Systems Networks
+
+Year:	1978
+Author: Yukihiro Matsumoto
+Price: 1e3
+Title: Editor
+Author: Edsger Allen
+
+Title: Graphics Databases Queue
+Author: Barbara Wirth
+Year: 24
+
+Title:	Security Databases Systems
+Author: Ada Dijkstra
+Author:Grace Dijkstra
+Year: 109
+Tag: beta
+Tag: networks
+Tag: security
+
+Tag: cache
+# note about Note
+Note: graphics
+Available: 0
+Title: Runtime
+Year:1998
+Author:	Margaret Borg
+
+Year: 0xFF
+Available: fa\
+lse
+Tag: alpha
+Author:	Dennis Matsumoto
+Price: 1e3
+Author: Dennis Pike
+Title:Security

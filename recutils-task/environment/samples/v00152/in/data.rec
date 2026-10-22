@@ -1,0 +1,87 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id:1
+Name: Ada Lovelace
+Age: 67
+Salary:	152000
+Dept:Support
+Email:guido@example.org
+Email: rob@example.org
+City: Pune
+
+
+Id:	2
+Name:Guido Matsumoto
+Age:31
+Salary: 761.61
+Dept:Ops
+
+
+Id: 3
+Name: Leslie Wirth
+Age:60
+Salary: 0.5
+Dept:Research
+Level: 4
+Email:	radia@example.org
+
+
+Id:4
+Name:Alan Wirth
+Dept:	Eng
+Email: grace@example.org
+Email: donald@example.org
+
+
+Id:	5
+Name: Margaret\
+ Lamport
+Age: 34
+Salary: 134000.50
+Dept: Research
+Level: 6
+# note about Email
+Email: ken@example.org
+Email: niklaus@example.org
+
+
+Id: 6
+Name: Leslie Stroustrup
+Age: 
+Dept:	Support
+Level:8
+
+
+Id:	7
+Name:	Edsger Wirth
+Age: 67
+Salary:161000.50
+Dept: Ops
+Level: 4
+Email:rob@example.org
+Email: margaret@example.org
+
+
+Id: 8
+Name:	Niklaus Lovelace
+Age: 56
+Salary: 0.5
+Dept:	Sales
+Email: frances@example.org
+Email:rob@example.org
+
+
+Id: 9
+Name: Yukihiro Torvalds
+Age:	64
+Salary: 0.5
+Dept: Support
+Level:	4
+Email:alan@example.org
+Email:	anita@example.org

@@ -1,0 +1,17 @@
+%rec: Item
+%type: V regexp /^[0-9]+$/
+
+
+Name: compilers
+V:	30
+
+
+Name:	systems
+V:26
+
+
+Name: editor
+
+
+Name:	queue
+V:true

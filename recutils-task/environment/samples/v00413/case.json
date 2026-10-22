@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Tag}}, {{Year * 2}};"
+ ],
+ "stdin": "Title: Compilers\nAuthor:\tLinus Knuth\nAuthor:Niklaus Turing\nYear:1951\nPrice:\t.75\nTag:\teditor\n# note about Tag\nTag:\tstream\nTag: delta\n\n\nTitle: Queue Compilers Graphics\nAuthor: Edsger Wirth\nPrice: -2.5\nYear: 2016\n\n\n# note about Title\nTitle: Security\nYear: 1971\nAuthor:\tDennis Lamport\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

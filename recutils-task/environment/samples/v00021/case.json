@@ -1,0 +1,7 @@
+{
+ "tool": "recsel",
+ "args": [],
+ "stdin": "Author:John Wirth\nPrice: 1e3\nYear: -22\nTitle:\tRuntime\n\nTitle:Delta Compilers\nAuthor:Ken Dijkstra\nAuthor: Margaret van Rossum\nYear: 7abc\nTag: alpha\n\nTitle: Theory Systems\nAuthor: Radia Matsumoto\nYear: 2015\nPrice: -2.5\nTag:delta\nAvailable:no\n",
+ "compare_stderr": false,
+ "group": "parse"
+}

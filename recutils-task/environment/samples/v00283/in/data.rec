@@ -1,0 +1,43 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Name
+
+Id: 1
+Name:Ada Allen
+Age:	101
+Salary: 405
+Dept:Legal
+Email: leslie@example.org
+Email: anita@ex\
+ample.org
+City: Lima
+
+Id: 2
+Name:	Grace Turing
+Age: 32
+Salary: 132000
+Dept: Sales
+
+Id:	3
+Name: Donald van Rossum
+Age: 0xB3
+Salary: 199000.50
+Dept: Research
+Email: leslie@example.org
+
+# note about Id
+Id:	4
+Name: Anita Borg
+Age: 15
+Salary:99000.50
+Dept:Sales
+Level: 1
+
+Id:	5
+Name: Guido Hopper
+Age:	41
+Salary: 63000
+Dept: Sales
+Email: rob@example.org

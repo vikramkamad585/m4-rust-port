@@ -1,0 +1,27 @@
+%rec: Book
+%type: Year int
+
+Title:Theory
+Author: Anita Torvalds
+Year: 1995
+Price:	.75
+Tag: runtime
+
+Title: Systems
+Author: Bjarne Pike
+Year: 2010
+Price:	-2.5
+
+Author:Leslie Dijkstra
+Author: Yukihiro Borg
+Year: -42
+Price: -2.5
+Title:	Kernel Compilers Theory
+Tag: graphics
+
+Title: Stream Alpha
+Author:Margaret Thompson
+Author:	Bjarne Pike
+Year:	67
+# note about Price
+Price: 1e3

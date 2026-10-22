@@ -1,0 +1,79 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Dept Age
+
+Id:1
+Name: Radia Turing
+# note about Age
+Age:59
+Salary:186000
+Dept:	Ops
+
+Id: 2
+Name: Barbara Wirth
+Age:63.82
+Dept: Ops
+Email: dennis@example.org
+Email:	niklaus@example.org
+City:	Oslo
+
+Id: 3
+Name: Guido McCarthy
+Salary: 94000
+Dept: Legal
+Level:	1
+City: Lima
+
+Id: 4
+Name: John Turing
+Age: 100
+Salary:	355.56
+Dept:Eng
+Level:	4
+Email: ada@example.org
+Email: grace@example.org
+
+# note about Id
+Id: 5
+Name: Dennis Thompson
+Age: 53
+Dept:Support
+Level: 8
+Email:frances@example.org
+
+Id:6
+Name: Leslie McCarthy
+Age: 65
+Salary:	104000.50
+Dept:	Ops
+Level:	8
+Email:anita@example.org
+
+Id: 7
+Name: Ken Wirth
+Age: 26
+Dept: Support
+
+Id:8
+Name: Niklaus Allen
+Age:	61
+Dept:Eng
+Email: grace@example.org
+City: Tokyo
+
+Id: 9
+Name: Guido Pike
+Age: 38
+Salary:	118000.50
+Dept:Sales
+Email:	frances@example.org
+City:Oslo
+
+Id: 10
+# note about Name
+Name: Dennis Matsumoto
+Age:	41
+Salary: 88000.50
+Dept:	Eng

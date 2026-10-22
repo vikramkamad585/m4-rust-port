@@ -1,0 +1,36 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id:	1
+Name: Frances Hopper
+Age: 23
+Salary: 83000
+Dept:Eng
+
+
+Id:	2
+Name: Linus\
+ Pike
+Age: 109
+Salary:	1e3
+Dept:Research
+Level:	7
+Email: linus@example.org
+Email:alan@example.org
+City: Oslo
+
+
+Id: 3
+Name: Grace Borg
+Age: 45
+Salary: 99000
+Dept:Ops
+
+
+Id:	4
+Name:	Grace Knuth
+Salary:0.5
+Dept:	Sales

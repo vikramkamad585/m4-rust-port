@@ -1,0 +1,10 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+
+Year:2013
+Author: Linus Thompson
+Price:24
+Title: Graphics Networks

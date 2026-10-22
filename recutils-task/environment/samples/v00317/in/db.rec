@@ -1,0 +1,27 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:1
+Name: Barbara Thompson
+Age:	28
+Salary: .75
+Dept:Research
+Level:8
+Email: frances@example.org
+
+Id:	2
+Name: Ken Lamport
+Age: -22
+Salary:	.75
+Dept: Eng
+Level: 4
+City: Tokyo
+
+Id: 3
+Name: Barbara Allen
+Age:21
+Dept:Support
+Email: anita@example.org
+Email: frances@example.org
+City:Cairo

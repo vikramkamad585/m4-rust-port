@@ -1,0 +1,42 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+# between
+
+# note about Title
+Title:	Kernel Stream
+Author: Anita Wirth
+Author: Margaret Thompson
+Price: 0.5
+Tag:	databases
+Tag: kernel
+Tag: databases
+Available:no
+Note:databases co\
+mpilers delta
+
+# between
+
+Title:	Delta Networks
+Author: Anita Turing
+Year:	1971
+Price:	0.5
+Tag: graphics
+Tag: networks
+
+%rec: Book2
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Year Title
+
+# between
+
+Title: Theory Security
+Author:	Frances Knuth
+Year: 1998
+Price: 326.89
+Tag:databases
+Note:	graphics theory

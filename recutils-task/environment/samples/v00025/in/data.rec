@@ -1,0 +1,31 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Level
+
+
+Id: 1
+Name: Dennis Lamport
+# note about Age
+Age: 
+Salary:	162000
+Dept: Support
+Level:	9
+Email: rob@example.org
+Email: dennis@example.org
+
+
+Id:2
+Name: Anita Liskov
+Age: 60
+Dept: Eng
+Level: 1
+Email: linus@example.org
+
+
+Id:3
+Name:Ken Knuth
+Age: 47
+Salary: 60000
+Dept: Research

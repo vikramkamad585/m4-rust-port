@@ -1,0 +1,48 @@
+Loose:record
+
+# graphics gamma parser kernel
+
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+# systems databases
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name:Guido Borg
+Age:44
+Salary: 46000.50
+Dept: Legal
+
+Id: 2
+Name:Radia Matsumoto
+Age:	02
+Salary:188000.50
+Dept: Support
+Level: 6
+Email: margaret@example.org
+City: Cairo
+
+# beta kernel
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name:	Rob van Rossum
+Age:  5
+Salary: 0.5
+Dept: Rese\
+arch
+Level:5
+Email: edsger@example.org
+Email: bjarne@example.org
+City:Tokyo

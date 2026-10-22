@@ -1,0 +1,76 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:	1
+Name:	Leslie Wirth
+Age: 
+Salary:103000.50
+Dept: Research
+
+# note about Id
+Id: 2
+Name: Margaret Liskov
+Age: 25
+Salary: 0.5
+Dept: Sales
+Email: anita@example.org
+Email:radia@example.org
+City: Tokyo
+
+Id: 3
+Name:Ada van Rossum
+Age:	61
+Salary: 200000.50
+Dept: Research
+Level: 5
+Email: ada@example.org
+Email: yukihiro@example.org
+City:Paris
+
+Id: 4
+Name:Rob McCarthy
+Age:
+Salary: 83000.50
+Dept: Eng
+Level: 5
+City: Lima
+
+Id:5
+Name: Yukihiro Thompson
+Age:  5
+Dept: Sales
+Email: niklaus@example.org
+Email:	niklaus@example.org
+City: Berlin
+
+Id:	6
+Name: Rob Ritchie
+Age: 3
+Dept:	Sales
+Level:	3
+
+Id: 7
+Name: Radia Lovelace
+Age: 70.18
+Salary: 166000.50
+Dept: Legal
+City: Paris
+
+Id:8
+Name: Rob Stroustrup
+Age: 71.87
+Salary: 152000.50
+Dept:	Sa\
+les
+Level: 8
+
+Id: 9
+Name: Barbara Ritchie
+Age: 
+Salary: 117000.50
+Dept: Sales
+Level: 9
+Email: grace@example.org

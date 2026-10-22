@@ -1,0 +1,55 @@
+# editor cache graphics
+
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title:Security Databases
+Year: 1977
+
+Title: Compilers Networks Alpha
+Year:	2020
+
+Title: Cache
+Writer: donald
+Year:	1988
+
+# systems networks
+
+# between
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: donald
+Name: Donald\
+ Liskov
+Born:	1951
+
+# between
+
+# note about Handle
+Handle: ada
+Name:	Ada Dijkstra
+Born:	1918
+
+# between
+
+Handle: rob
+Name: Rob Hamilton
+Born: 1914
+
+# between
+
+Handle:	alan
+Name: Alan \
+Liskov
+Born: 1945
+
+# between
+
+Handle:niklaus
+Name: Niklaus Hamilton
+Born: 1977

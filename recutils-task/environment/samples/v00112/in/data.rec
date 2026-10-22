@@ -1,0 +1,34 @@
+# kernel alpha
+
+# between
+
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+# between
+
+Title: Security
+Author:Margaret Lamport
+Author: Anita Borg
+Year: 63.81
+Price: 1e3
+
+# between
+
+Title:Compilers Theory
+Author: Grace Liskov
+# note about Year
+Year: 1985
+Price: 1e3
+Note: say "security"
+
+# between
+
+Price: .75
+Tag:	runtime
+Title: Gamma Gamma Networks
+Author:Dennis Thompson
+Author: Alan Dijkstra
+Year: 1980

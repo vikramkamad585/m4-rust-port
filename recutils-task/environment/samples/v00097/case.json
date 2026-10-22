@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-e",
+  "#Name >= 0",
+  "Level,City",
+  "-c",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "select"
+}

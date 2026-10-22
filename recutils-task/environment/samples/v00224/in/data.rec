@@ -1,0 +1,87 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Salary
+
+# between
+
+Id: 1
+Name: Radia Torvalds
+Age: 66
+Salary: 50000.50
+Dept:	Support
+Email:margaret@example.org
+Email: margaret@example.org
+
+# between
+
+Id:	2
+Name:	Margaret Turing
+Age:60
+Salary: 147000
+Dept: Eng
+City:Lima
+
+# between
+
+Id:	3
+Name: Anita Thompson
+Dept: Sales
+City: Tokyo
+
+# between
+
+Id: 4
+Name: Yukihiro Knuth
+Age: 24
+Dept: Ops
+Email:yukihiro@example.org
+Email: margaret@example.org
+
+# between
+
+Id:	5
+Name: Anita van Rossum
+Age: 55.12
+Salary: 0.5
+Dept: Ops
+Email:donald@example.org
+
+# between
+
+Id: 6
+Name:Barbara Hopper
+Dept: Research
+Email: ada@example.org
+Email: bjarne@example.org
+City: Paris
+
+# between
+
+Id: 7
+# note about Name
+Name:Anita McCarthy
+Age: 69
+Salary: 130000
+Dept:	Eng
+Email:yukihiro@example.org
+
+# between
+
+Id: 8
+Name: Edsger Torvalds
+Age: 05
+Dept: Support
+Email: donald@example.org
+
+# between
+
+Id: 9
+Name:	Yukihiro Torvalds
+Age: 40
+Salary:	137000.50
+Dept:Research
+Level: 2
+City: Cairo

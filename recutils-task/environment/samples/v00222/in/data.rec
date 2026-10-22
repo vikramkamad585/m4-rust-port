@@ -1,0 +1,66 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:	1
+Name: Rob Str\
+oustrup
+Age:	115
+Salary:	123\
+000
+Dept: Sales
+Level: 6
+Email:	yukihiro@example.org
+
+Id:	2
+Name: Guido McCarthy
+Age: 23
+Dept: Sales
+Level:	3
+Email:	rob@example.org
+Email:	donald@example.org
+
+Id:	3
+Name: Anita Hamilton
+Age: 33
+Salary: 0.5
+Dept: Eng
+Level: 9
+Email:	guido@example.org
+
+Id: 4
+Name:John Lamport
+Age: 05
+Dept: Support
+
+Id: 5
+Name: Edsger van Rossum
+Age: 60
+Salary:	91000.50
+Dept: Legal
+Email: donald@example.org
+Email: frances@example.org
+
+Id: 6
+Name: Bjarne Knuth
+Age: 
+Salary:127000
+Dept: Support
+Level: 4
+
+Id: 7
+Name: Linus Perlman
+Age: 67
+Dept: Ops
+
+Id: 8
+Name:	Alan Thompson
+Age:	21
+Salary: 87000.50
+Dept:Support
+Level:	1
+Email:	radia@example.org
+Email:	edsger@example.org
+City: Oslo

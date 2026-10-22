@@ -1,0 +1,29 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id: 1
+Name:Grace St\
+roustrup
+Age: 25
+Salary:71000.50
+Dept: Eng
+Level: 9
+Email:leslie@ex\
+ample.org
+Email: ada@example.org
+
+Id: 2
+Name: Grace Ritchie
+Salary: 1e3
+# note about Dept
+Dept:	Legal
+Email:guido@example.org
+
+Id:	3
+Name:Ada Lo\
+velace
+Age: 69
+Salary: 0.5
+Dept: Sales
+City:Pune

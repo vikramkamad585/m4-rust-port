@@ -1,0 +1,19 @@
+Name: compilers
+V: -4
+
+Name: graphics
+
+Name: kernel
+V: 0
+
+Name: kernel
+V: 6
+
+Name: parser
+V: 6
+
+Name: stream
+V: -3
+
+Name: systems
+V: 0x10

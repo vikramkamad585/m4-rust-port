@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-n",
+  "2",
+  "-p",
+  "Level",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "quick_index"
+}

@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-p",
+  "count(City),Count(Dept),Max(Dept)",
+  "-S",
+  "Name",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Note}} | {{Note[1]}} | {{Year}}\n"
+ ],
+ "stdin": "Title: Delta Security Gamma\nAuthor: Barbara Turing\nAuthor: Linus Stroustrup\nYear:1979\nTag: delta\nTag:\tnetworks\n\nTitle: Runtime Compilers\nAuthor: Ken Borg\nYear:\t2021\nPrice:\t927.33\n# note about Tag\nTag: kernel\nTag: queue\nTag:networks\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

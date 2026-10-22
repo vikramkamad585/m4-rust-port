@@ -1,0 +1,27 @@
+# beta stream
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Price
+
+Author:Niklaus\
+ Lamport
+Title: Beta
+Tag: alpha
+Year:	2011
+Price: 1e3
+
+Title:Delta
+Author: Edsger Ritchie
+Author: Guido van Rossum
+Year:2014
+Note: compilers editor queue
+
+# note about Title
+Title:	Alpha Alpha Alpha
+Author: Yukihiro Lamport
+Tag: kernel
+Available: maybe
+Price: -2.5
+Tag: graphics

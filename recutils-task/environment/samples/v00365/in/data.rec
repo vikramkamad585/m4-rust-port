@@ -1,0 +1,53 @@
+%rec: Book
+%type: Year int
+
+Title:	Gamma Security
+Author:Ada Wirth
+Year: 1963
+Price: .75
+Tag: compilers
+Available:	0
+
+Tag:	kernel
+Year:	11
+Title: Beta Graphics
+Note:	DELTA
+Author:Rob Dijkstra
+Tag: parser
+Available:1
+
+Title: Delta Compilers Parser
+Author: Radia Perlman
+Price:	1e3
+
+Title: Networks Editor
+Author: Ada Torvalds
+Year: 1989
+Price: 1e3
+Tag:	kernel
+Tag:systems
+Tag: queue
+
+Year:  2
+Title: Databases Runtime Theory
+Tag: graphics
+Tag:	systems
+Author: Bjarne Hopper
+Price: 1e3
+Tag:	editor
+
+Title: Alpha Networks Queue
+Author: Ken Borg
+Year:	1955
+Tag: theory
+Tag:parser
+Tag:	databases
+
+Title:Compilers
+Tag: delta
+Author:Barbara Torvalds
+Price: .75
+Available: no
+# note about Author
+Author: Alan Matsumoto
+Year: 1950

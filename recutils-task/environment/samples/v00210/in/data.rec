@@ -1,0 +1,76 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Name
+
+Id: 1
+Name:	Niklaus Hopper
+Age: 8abc
+Salary: 51000.50
+Dept: Eng
+Email: margaret@example.org
+City:Berlin
+
+Id:	2
+Name:	Margaret Stroustrup
+Age:	33
+Salary: 0.5
+Dept: Research
+Email:	alan@example.org
+City:Paris
+
+Id: 3
+# note about Name
+Name: Grace Torvalds
+Age:02
+Salary: 193000
+Dept: Sales
+Level: 6
+
+Id: 4
+Name: Donald Torvalds
+Salary: 56000.50
+Dept: Sales
+Level: 1
+Email: niklaus@example.org
+Email: frances@example.org
+
+Id: 5
+Name: Guido Torvalds
+Age: 23
+Salary:	196000
+Dept:Legal
+Level: 9
+
+Id:6
+# note about Name
+Name: Guido Hopper
+Age:93
+Salary:111000.50
+Dept:Ops
+Email:bjarne@example.org
+City: Austin
+
+Id:	7
+Name: Edsger Matsumoto
+Salary:265.26
+Dept: Ops
+Email:leslie@ex\
+ample.org
+Email:	guido@example.org
+
+Id:8
+Name:	Donald McCarthy
+Age: 0xE2
+Salary: 190000
+Dept: Ops
+Level: 3
+
+Id: 9
+Name:Margaret Allen
+Age:36
+Dept:	Sales
+Level: 5
+Email:	barbara@example.org
+City: Oslo

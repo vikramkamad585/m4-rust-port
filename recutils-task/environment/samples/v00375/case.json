@@ -1,0 +1,11 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-S",
+  "Dept",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

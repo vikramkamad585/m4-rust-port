@@ -1,0 +1,67 @@
+%rec: Book
+%type: Year int
+
+Title:Beta Kernel
+Author: Rob Torvalds
+Year: 2002
+Price: 1e3
+# note about Tag
+Tag: grap\
+hics
+
+# note about Title
+Title: Security Compilers
+Author:	Donald Wirth
+Author: Ada Lovelace
+Year: 1976
+Available: maybe
+
+Author:John Matsumoto
+Price:	-2.5
+Title:	Cache Networks Theory
+Tag: delta
+Tag: gamma
+Year:2014
+
+Title: Editor Beta Queue
+Author:Guido McCarthy
+Price: .75
+Tag: theory
+Tag: cache
+
+Price: .75
+Note:delta stream
+Year: 2007
+Author: Niklaus van Rossum
+Title: Delta
+
+Title:	Stream Systems
+Author: Grace Hopper
+Author:Ada Stroustrup
+Year:2017
+Price: 1e3
+Available: yes
+Note:   gamma  
+
+Title: Compilers Queue Security
+Author:Margaret Thompson
+Year:60
+Tag: stream
+Tag: cache
+Note: cache beta
+
+Author:	Leslie Ritchie
+Note: editor runtime
+Year:2012
+Price: -2.5
+Title: Parser Editor
+Tag: gamma
+Tag: systems
+
+Title: Parser Stream
+Author:	Edsger Stroustrup
+Author: Donald Turing
+Year:	1974
+Tag: beta
+Tag:networks
+Tag:	stream

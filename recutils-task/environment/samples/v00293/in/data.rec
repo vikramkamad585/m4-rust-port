@@ -1,0 +1,29 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id:	1
+# note about Name
+Name: Anita Wirth
+Age:5abc
+Salary:	59000.50
+Dept:	Sales
+Level: 8
+Email:	margaret@example.org
+Email:barbara@example.org
+City: Tokyo
+
+# between
+
+Id: 2
+Name: Ada Turing
+Age:70
+Salary: 0.5
+Dept:Support
+Level: 4
+City:Berlin

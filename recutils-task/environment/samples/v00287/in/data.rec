@@ -1,0 +1,12 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Author: Rob Liskov
+Tag: security
+Tag:	parser
+Title:	Graphics
+Tag:	beta
+Available: no
+Year: 1970

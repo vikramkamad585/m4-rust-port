@@ -1,0 +1,49 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+# between
+
+Title: Gamma
+Writer: barbara
+Year: 2002
+
+# between
+
+Title: Delta Compilers
+Writer: niklaus
+Writer:barbara
+# note about Year
+Year:	1952
+
+# between
+
+Title: Parser Stream
+Writer: niklaus
+Year:1988
+
+# between
+
+Title:Databases
+Writer:	barbara
+Writer:barbara
+Year: 1958
+
+# between
+
+Title: Beta
+Writer:	nobody
+Writer: bar\
+bara
+Year: 1958
+
+%rec: Author
+%key: Handle
+
+Handle: barbara
+Name: Barbara Matsumoto
+Born: 1925
+
+Handle: niklaus
+Name: Niklaus Lovelace
+Born:	1981

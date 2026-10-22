@@ -1,0 +1,34 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title: Kernel
+Writer: linus
+Writer: grace
+Year: 1953
+
+Title: Networks Delta Alpha
+Writer: nobody
+Year: 1984
+
+Title: Queue Graphics Security
+Year: 1991
+
+Title: Parser Theory Security
+Writer: dennis
+Year: 1984
+
+Title: Alpha Theory
+Writer: dennis
+Writer: linus
+Year: 1956
+
+Title: Stream Parser Networks
+Writer: linus
+Writer: grace
+Year: 1986
+
+Title: Editor Cache Stream
+Writer: linus
+Writer: linus
+Year: 1957

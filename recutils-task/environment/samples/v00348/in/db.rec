@@ -1,0 +1,41 @@
+Loose: record
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Price
+
+Title:Queue Beta
+Author:	Anita Lovelace
+Year: 1975
+Price:0.5
+Available: 1
+Note: ALPHA
+
+Title: Security Gamma Alpha
+Author:	Leslie Knuth
+# note about Year
+Year: 2000
+Price: -2.5
+Tag: gamma
+Tag: runtime
+Tag: runtime
+Available: false
+
+# security cache
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Age
+
+Id: 1
+Name: Ken To\
+rvalds
+Salary: 409
+Dept:	Support
+Level:	7
+Email:	frances@example.org
+Email: ada@exa\
+mple.org
+City: Pune

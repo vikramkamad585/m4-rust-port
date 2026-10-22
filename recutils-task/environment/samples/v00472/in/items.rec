@@ -1,0 +1,23 @@
+%rec: Item
+%type: V bool
+
+
+Name: alpha
+V:1e2
+
+
+Name: alpha
+V: 26
+
+
+Name: kernel
+V: 21
+
+
+Name: queue
+V: 25
+
+
+Name:	ca\
+che
+V:	1

@@ -1,0 +1,38 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:1
+Name:Frances Lamport
+Age: 58
+Salary:	113
+Dept:	Support
+Level: 1
+Email:	rob@example.org
+
+Id: 2
+Name: Rob Stroustrup
+Age:	65
+Salary: 42000
+Dept: Eng
+Email: rob@example.org
+Email:	margaret@example.org
+
+Id: 3
+Name: Barbar\
+a Allen
+Age: 41
+Dept:	Research
+Level:	2
+
+Id: 4
+Name: Frances Thompson
+Age: 18
+Salary:	122000
+Dept:	Sales
+Level: 8
+Email: rob@example.org
+City:Berlin

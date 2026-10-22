@@ -1,0 +1,21 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Author: Grace Liskov
+Year: 4abc
+Author: Dennis Hamilton
+Price:	247.56
+Title:Parser
+
+Available:maybe
+Title:Delta
+Author: Rob Ritchie
+Tag:	alpha
+Year:	1972
+Tag: beta
+
+Title: Graphics Alpha
+Author:	Frances Turing
+Year: 1971
+Price: 0.5

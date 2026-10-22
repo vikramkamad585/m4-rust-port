@@ -1,0 +1,24 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+# between
+
+Title: Graphics Compilers
+Author:	Bjarne Dijkstra
+Year: 14
+Price: 1e3
+Available:	1
+
+# between
+
+Title: Parser Systems
+Author: Frances Perlman
+Author: Leslie Hopper
+Year: 16
+Price: 315.59
+Tag:	delta
+Tag:graphics
+Tag:	editor
+Note:	delta\delta

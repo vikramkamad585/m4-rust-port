@@ -1,0 +1,14 @@
+%rec: Item
+%typedef: Num int
+%type: V Num
+
+
+Name:	beta
+V: 20
+
+
+Name:	systems
+
+
+Name: graphics
+V: 19

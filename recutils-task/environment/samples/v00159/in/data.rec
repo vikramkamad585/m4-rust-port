@@ -1,0 +1,34 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id: 1
+Name: Anita Thompson
+Age:63
+Dept: Eng
+Level: 9
+City: Oslo
+
+# between
+
+Id: 2
+Name: Rob Hopper
+Salary: 416.61
+Dept: Support
+Level: 2
+Email:alan@example.org
+
+# between
+
+Id: 3
+# note about Name
+Name: Linus Matsumoto
+Age: 43.89
+Salary:325.30
+Dept: Sales
+Email:rob@example.org
+Email: yukihiro@example.org
+City: Lima

@@ -1,0 +1,25 @@
+%rec: Book_Writer
+
+Title: Stream Gamma Compilers
+Year: 2020
+Writer_Handle: anita
+Writer_Name: Anita Dijkstra
+Writer_Born: 1922
+
+Title: Stream Gamma Compilers
+Year: 2020
+Writer_Handle: john
+Writer_Name: John Torvalds
+Writer_Born: 1974
+
+Title: Systems Runtime
+Year: 1997
+Writer_Handle: anita
+Writer_Name: Anita Dijkstra
+Writer_Born: 1922
+
+Title: Systems Runtime
+Year: 1997
+Writer_Handle: john
+Writer_Name: John Torvalds
+Writer_Born: 1974

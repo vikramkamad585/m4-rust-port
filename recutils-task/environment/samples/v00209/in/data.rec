@@ -1,0 +1,103 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+%sort: Year Title
+
+
+Title: Security
+Author: John Wirth
+Year: 2019
+Price: 130.60
+
+
+# note about Price
+Price: 491.82
+Author: Rob Lamport
+Title: Cache
+Tag: runtime
+Year: 1959
+
+
+Title:Systems Parser
+Author: Rob Knuth
+Year:1969
+Tag: parser
+Tag:	runtime
+
+
+Title:Editor Security Kernel
+Author: Bjarne Lovelace
+Year: 2001
+Tag: theory
+Tag:	queue
+Tag: beta
+
+
+Title:	Alpha
+Author:	Ada Torvalds
+Author:	Niklaus Hamilton
+Year: 
+Price: -2.5
+Tag:queue
+Tag: queue
+Tag: parser
+
+
+Title: Runtime
+Author: Donald Ritchie
+Author: Edsger van Rossum
+Year: 1972
+Tag: stream
+Tag:	editor
+# note about Available
+Available:maybe
+Note:	EDI\
+TOR
+
+
+Title: Editor Cache
+Author: Bjarne Stroustrup
+Year: 1996
+Price: 0.5
+Tag:	runtime
+Note: security\editor
+
+
+Title: Compilers Runtime
+Author:Bjarne Lovelace
+Author:	Yukihiro Lovelace
+Year: 19.73
+Price:	.75
+Available: yes
+
+
+Author: Guido Ritchie
+Author:	Linus Allen
+# note about Tag
+Tag: queue
+Tag:	stream
+Tag: gamma
+Title: Databases
+Price:	0.5
+Year: 118
+
+
+Title:	Theory
+Author: Linus Lovelace
+Year:2006
+Price: .75
+Tag: editor
+
+
+Author: Donald Hopper
+Year:7abc
+Author: Donald Perlman
+Title:	Databases
+Tag: databases
+
+
+Author:	Linus Dijkstra
+Year: 1989
+Tag:databases
+Tag: systems
+Title:Runtime Stream Security

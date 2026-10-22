@@ -1,0 +1,78 @@
+# delta networks
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id: 1
+Name: Ada Stroustrup
+Age:	70
+Salary: 114000.50
+Dept: Ops
+
+# between
+
+Id: 2
+Name: Ken Turing
+Age: 29
+# note about Salary
+Salary:	0.5
+Dept: Ops
+Email: alan@example.org
+Email:	john@example.org
+
+# between
+
+Id: 3
+Name: Donald Matsumoto
+Age:	100
+Salary:153\
+000
+Dept:Research
+Email:	barbara@example.org
+City:Lima
+
+# between
+
+Id:4
+Name: Dennis Dijkstra
+Age:	40
+Dept: Eng
+Level: 9
+
+# between
+
+Id:	5
+Name: Linus\
+ Allen
+# note about Age
+Age:	105
+Dept:	Research
+Email: grace@example.org
+Email:barbara@example.org
+
+# between
+
+Id: 6
+Name: Barbara Lovelace
+Age: 59
+# note about Salary
+Salary:	103000
+Dept:	Legal
+# note about Email
+Email:bjarne@example.org
+Email: ken@example.org
+
+# between
+
+Id:	7
+Name:	Frances Matsumoto
+Age: 53
+Salary: 1e3
+Dept: Support
+Email: niklaus@example.org

@@ -1,0 +1,14 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Age
+
+
+Id:1
+Name:	Niklaus Lamport
+Age: 43
+Salary: 58000.50
+Dept: Rese\
+arch
+City: Lima

@@ -1,0 +1,20 @@
+%rec: Item
+%type: V real
+
+Name: stream
+V: 26
+
+Name: stream
+V:	22
+
+Name: cache
+V: 
+
+Name: runtime
+V:	2
+
+Name:editor
+V: -3
+
+Name:stream
+V: 0

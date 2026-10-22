@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-d",
+  "-t",
+  "Staff",
+  "-e",
+  "Email ~ '^[A-Z]'",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

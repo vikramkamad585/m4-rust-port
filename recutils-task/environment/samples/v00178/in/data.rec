@@ -1,0 +1,92 @@
+%rec: Book
+%type: Year int
+%sort: Price
+
+Title:Gamma Networks Systems
+# note about Author
+Author:Grace Lovelace
+Author:	Frances McCarthy
+Year: 5abc
+Tag: theory
+Available: no
+Note: parser\systems
+
+Title: Gamma Alpha
+Author:Yukihiro Knuth
+Year: 1960
+
+Title:	Editor
+Author: Linus Borg
+Author: Leslie Liskov
+Year:	-44
+Price:	229
+Tag: theory
+Tag:	runtime
+Available:	yes
+
+Title: Alpha Databases
+Author: Ken Borg
+Year: 0xDC
+Price: .75
+Tag: beta
+Tag:queue
+Available:maybe
+
+Title: Beta
+Author:	Radia Turing
+Year: 2018
+Price:0.5
+
+Title:	Cache Cache Gamma
+Author: Anita Stroustrup
+Tag: parser
+Tag:stream
+Tag:networks
+Available: 0
+
+Title:Databases Theory
+Author:	Grace van Rossum
+Author: Margaret Liskov
+Year: 1986
+Price: 0.5
+Available: 0
+
+Tag:security
+Tag:	str\
+eam
+Available:	yes
+Year: 1975
+Title: Theory Gamma Runtime
+Author: Bjarne Dijkstra
+Tag:	stream
+
+Title: Databases Runtime
+Author:	Margaret Perlman
+Year:	23
+Price:1e3
+Tag: par\
+ser
+Tag: graphics
+Tag: graphics
+
+Title:Data\
+bases
+Author:	Barbara Allen
+Author:	Ada Ritchie
+Year:	1951
+Price: 369.90
+
+Price:-2.5
+Title: Cache Systems
+Author: Radia Perlman
+Year:1959
+
+Title:	Beta N\
+etworks
+# note about Author
+Author:	Anita Borg
+Year: 2024
+# note about Tag
+Tag:compilers
+Tag: kernel
+Tag:	networks

@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Author:Ken L\\\niskov\nPrice: -2.5\nTag: security\nNote: editor\nYear:1971\nTitle:Delta\nTag:\tkernel\nTag:\tdelta\n\n\nTitle:\tRuntime Parser Databases\nAuthor: Anita Hamilton\nAuthor: Alan Torvalds\nYear:1980\nPrice:.75\n# note about Tag\nTag: comp\\\nilers\nTag: alpha\nTag: parser\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

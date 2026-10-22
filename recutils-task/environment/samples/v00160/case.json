@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-S",
+  "Title",
+  "-p",
+  "Available,Note,Title",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sort"
+}

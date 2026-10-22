@@ -1,0 +1,37 @@
+Loose: record
+
+%rec: Book
+%type: Year int
+%sort: Price
+%key: Title
+
+# editor parser alpha queue
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Dept Age
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:1
+Name: Ken Lamport
+Age: 10
+Dept: Legal
+Email: radia@example.org
+Email: yukihiro@example.org
+City: Tokyo
+
+Id:2
+Name:Alan Torvalds
+Age:2abc
+Salary: 97000
+Dept: Rese\
+arch
+Email: grace@ex\
+ample.org
+City:Berlin

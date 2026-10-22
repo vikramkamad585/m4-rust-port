@@ -1,0 +1,52 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Level
+
+
+Id: 1
+Name: Yukihiro van Rossum
+Age:86.4
+Salary: 165000
+Dept: Sales
+# note about Email
+Email: anita@example.org
+City: Lima
+
+
+Id:	2
+# note about Name
+Name: Guido Lamport
+Age: 7abc
+Salary:	118000.50
+Dept: Legal
+Level:	2
+City:	Pune
+
+
+Id:3
+Name: Margaret Hopper
+Age:  5
+Dept:Legal
+Email: donald@example.org
+Email: anita@example.org
+City:	Oslo
+
+
+Id: 4
+Name: Margaret Liskov
+Age:	46
+# note about Salary
+Salary:190000
+Dept: Ops
+Email: rob@example.org
+
+
+Id: 5
+Name:	Ada Turing
+Age: 27
+Salary: .75
+Dept: Research
+Email: edsger@example.org
+# note about Email
+Email: rob@example.org

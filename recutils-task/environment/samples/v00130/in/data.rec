@@ -1,0 +1,54 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id:1
+# note about Name
+Name: Guido van Rossum
+Age:	03
+Dept:	Support
+Level:	7
+Email:ken@example.org
+Email: yukihiro@example.org
+
+
+Id:	2
+# note about Name
+Name: Edsger Perlman
+# note about Age
+Age:8
+Dept:Research
+Level: 5
+Email: barbara@example.org
+City: Pune
+
+
+Id:3
+Name: John van Rossum
+Age: 57
+Salary: 196000.50
+Dept: Support
+Level: 7
+Email: barbara@example.org
+
+
+Id:	4
+Name: Ken Perlman
+Age: 34
+Salary: 143000.50
+Dept: Sales
+Email: grace@ex\
+ample.org
+City: Tokyo
+
+
+Id: 5
+Name: Grace Hopper
+Age: 0x6B
+Salary: 149000
+Dept:	Research
+Level:2
+Email:	john@example.org
+Email: ken@example.org

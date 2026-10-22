@@ -1,0 +1,68 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+# between
+
+Title:Runtime Runtime Gamma
+Writer: nobody
+Year: 1989
+
+# between
+
+Title:	Systems Kernel
+Writer: donald
+Writer: donald
+Year: 1967
+
+# between
+
+Title: Compilers
+Writer:	grace
+Writer:donald
+Year: 1986
+
+# between
+
+Title: Runtime
+Writer: guido
+Writer: donald
+Year:1988
+
+# between
+
+Title:	Compilers Compilers
+Writer: guido
+Writer: nobody
+Year:2018
+
+# between
+
+Title:Queue
+Year: 1980
+
+# between
+
+Title: Databases Runtime
+Year: 1988
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: guido
+Name: Guido Liskov
+Born: 1942
+
+# between
+
+Handle: donald
+Name:	Donald van Rossum
+Born:1935
+
+# between
+
+Handle:	grace
+Name:Grace Wirth
+Born: 1910

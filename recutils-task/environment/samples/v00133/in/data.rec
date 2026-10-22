@@ -1,0 +1,53 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name:Ada Liskov
+Age: 44
+Salary:	734.51
+Dept: Sales
+Level: 2
+
+
+Id: 2
+Name: Anita Liskov
+Age:  2
+Salary:	-2.5
+Dept: Legal
+
+
+Id: 3
+Name: Leslie Perlman
+Age: 26
+Salary: 77000
+Dept: Support
+Level: 8
+City:Tokyo
+
+
+Id: 4
+Name:	Dennis Ritchie
+Age:	25
+Salary:	187000
+Dept: Support
+Level: 9
+
+
+Id:5
+Name:	Dennis Turing
+Age: 58
+Dept:	Legal
+
+
+Id:	6
+# note about Name
+Name:Bjarne Turing
+Age:	45
+Salary: 40000
+Dept:	Ops
+Level: 6

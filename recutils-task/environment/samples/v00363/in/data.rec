@@ -1,0 +1,28 @@
+# cache parser parser systems
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name:Leslie Borg
+Age: 04
+Dept: Research
+Level: 4
+Email: linus@example.org
+Email:grace@example.org
+
+Id: 2
+Name:	Guido Stroustrup
+Age: 07
+Dept: Support
+Email: grace@example.org
+
+Id: 3
+Name: Edsger McCarthy
+Dept: Ops
+Level: 8
+# note about Email
+Email: bjarne@example.org
+City:	Cairo

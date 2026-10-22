@@ -1,0 +1,46 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id: 1
+Name: Leslie Hopper
+Age: 56
+Salary: 99000
+# note about Dept
+Dept: Eng
+Email: alan@example.org
+Email: barbara@example.org
+
+
+Id: 2
+Name:	Ken Lamport
+Age: 51
+Salary:	138000.50
+Dept:Legal
+
+
+Id: 3
+Name:	Ken Stroustrup
+Age:83
+Salary: 95000.50
+# note about Dept
+Dept:	Eng
+Email:john@example.org
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+
+Id: 1
+Name: Radia Pike
+Age:	50
+Salary: 25000
+Dept: Ops
+Level: 3

@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Price * 3}}\n\n"
+ ],
+ "stdin": "Title:Networks Theory\nAuthor: Bjarne Torvalds\nYear: 1984\nTag: edi\\\ntor\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

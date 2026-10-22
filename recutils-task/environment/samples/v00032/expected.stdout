@@ -1,0 +1,57 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title: Stream Compilers Runtime
+Author: John Ritchie
+Author: Ken Lamport
+Year: 76
+Price: 0.5
+Tag: delta
+Tag: editor
+Tag: cache
+
+Title: Editor Databases
+Author: Donald Lamport
+Year: 1986
+Price: 1e3
+Tag: graphics
+Tag: kernel
+Tag: stream
+Available: yes
+
+Tag: gamma
+Year: 1961
+Title: Kernel Databases
+Tag: gamma
+Author: Ada Lamport
+
+Title: Delta Beta Cache
+Author: Margaret Lovelace
+Author: Anita Matsumoto
+Year: 1994
+Tag: compilers
+Tag: systems
+Tag: gamma
+
+Title: Parser
+Author: Leslie Knuth
+Year: 1965
+Tag: databases
+Tag: editor
+Tag: editor
+Note: delta theory delta
+
+Title: Graphics
+Author: Dennis McCarthy
+Year: 2023
+Price: .75
+Available: yes
+Note: DELTA
+
+Title: Networks Gamma Alpha
+Author: Dennis Borg
+Author: Grace Hopper
+Year:  8
+Tag: stream
+Tag: theory

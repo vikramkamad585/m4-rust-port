@@ -1,0 +1,59 @@
+Author: Radia Allen
+Year: 31.51
+Title: Databases Parser
+
+Title: Stream
+Author: Grace Borg
+Year: 1992
+Tag: gamma
+
+Title: Networks Networks Networks
+Author: Radia Lovelace
+Year:
+Tag: cache
+Tag: queue
+Available: no
+
+Title: Alpha Security Compilers
+Author: Grace Torvalds
+Year: 4
+Price: -2.5
+
+Title: Alpha Theory Cache
+Author: Radia Allen
+Year: 20
+Price: 0.5
+Tag: cache
+Tag: security
+Available: false
+
+Title: Kernel Systems
+Author: Guido McCarthy
+Year: 1951
+Price: .75
+Available: true
+
+Author: Frances Dijkstra
+Tag: systems
+Author: Anita Hamilton
+Tag: theory
+Year: 2016
+Title: Parser
+Price: 155
+
+Title: Cache Networks Theory
+Available: false
+Tag: delta
+Author: Leslie van Rossum
+Price: 1e3
+Author: Frances Wirth
+Tag: databases
+Year: 2005
+
+Title: Compilers
+Author: Frances McCarthy
+Year: 2024
+Price: 1e3
+Tag: theory
+Tag: graphics
+Available: yes

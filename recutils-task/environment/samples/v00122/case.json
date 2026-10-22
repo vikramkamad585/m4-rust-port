@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-C",
+  "-t",
+  "Book",
+  "-R",
+  "Price,Year[2],Year[1-2],Author",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

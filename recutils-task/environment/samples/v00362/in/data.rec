@@ -1,0 +1,37 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Age
+
+# note about Id
+Id: 1
+Name: Barbara Thompson
+Age: 15
+Salary: 159000.50
+Dept:	Eng
+Level: 4
+Email:	anita@example.org
+Email: barbara@example.org
+
+Id: 2
+Name:	Bjarne Liskov
+Age: 38
+# note about Salary
+Salary: 127000
+Dept: Ops
+
+Id: 3
+Name: Frances Hamilton
+Age: 
+Salary:36000
+Dept: Ops
+Email: grace@example.org
+
+Id: 4
+Name:	Radia Lamport
+Age:47
+Dept: Support
+Level: 2
+Email: grace@example.org
+Email: ken@example.org

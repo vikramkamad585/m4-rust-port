@@ -1,0 +1,64 @@
+# theory theory theory databases
+
+# between
+
+%rec: Book
+%type: Year int
+
+# between
+
+Title:	Databases
+Author: Leslie Hamilton
+Author: Guido Borg
+Year:	0x77
+Price:712.94
+Tag: runtime
+Tag:systems
+Tag: kernel
+
+# between
+
+Tag:databases
+Title: Networks Runtime Security
+Note: stream
+Year: 1982
+Author:Bjarne Lovelace
+Price: 353
+
+# between
+
+Title: Cache
+Author: Guido Perlman
+Year: 2007
+Tag: beta
+Available: yes
+
+# between
+
+Year: 2004
+Tag: cache
+Tag:	graphics
+Price: -2.5
+Author:Anita Stroustrup
+Title:	Security Beta Gamma
+Tag: alpha
+
+# between
+
+Tag:runtime
+Title:	Queue Security Security
+Year:	25
+Tag:gamma
+Price: 1e3
+Author:Bjarne Hamilton
+Tag: gamma
+
+# between
+
+Title: Queue
+Author:	Alan Borg
+Year: 2007
+Price:.75
+Tag: runtime
+Tag: gamma
+Available: maybe

@@ -1,0 +1,59 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:	1
+Name:	Barbara Allen
+Age: 27
+Salary: 95000.50
+Dept:Research
+Email: john@example.org
+Email: ken@example.org
+
+Id: 2
+Name:	John Borg
+Age: 53
+Salary: 147000.50
+Dept:Legal
+Level: 6
+
+# note about Id
+Id: 3
+Name: Grace L\
+ovelace
+Salary:174000.50
+# note about Dept
+Dept: Ops
+Level: 6
+Email: bjarne@example.org
+
+Id:4
+Name:	Anita Dijkstra
+Age: 24
+Salary: .75
+Dept: Support
+Email: linus@example.org
+Email: margaret@example.org
+
+Id: 5
+Name:Radia Ritchie
+Age:58
+Salary: -2.5
+Dept:Le\
+gal
+Level:3
+
+Id:6
+Name: Ada Thompson
+Salary:187000.50
+Dept:	Research
+Email:edsger@example.org
+
+Id: 7
+Name: Margaret Borg
+Age:22
+Salary: 133000
+Dept:Eng
+Email:	rob@example.org
+Email:	bjarne@example.org
+City: Berlin

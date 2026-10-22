@@ -1,0 +1,11 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "9bad",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "cli"
+}

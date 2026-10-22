@@ -1,0 +1,79 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:1
+Name:Anita Stroustrup
+Age:45
+Salary: 183000
+Dept: Legal
+Level:1
+Email: frances@e\
+xample.org
+Email: margaret@example.org
+City: Austin
+
+Id: 2
+Name: Anita McCarthy
+Age:49
+Salary: 69000
+Dept: Research
+Level: 9
+Email: linus@example.org
+Email: ken@example.org
+
+Id: 3
+Name: Frances van Rossum
+Age: 62
+Salary: .75
+Dept: Ops
+Email: alan@example.org
+
+Id: 4
+Name: Guido Lovelace
+Age: 01
+# note about Salary
+Salary: 659.35
+Dept: Support
+
+Id: 5
+Name: Grace Dijkstra
+Age: 113
+Salary:1e3
+Dept:	Sales
+Level: 1
+
+# note about Id
+Id: 6
+Name: Niklaus McCarthy
+Age: 64
+Salary:	146000
+Dept:Research
+Email:margaret@example.org
+Email: margaret@example.org
+
+Id:7
+Name: Donald Turing
+Age:2
+Salary: 570.73
+Dept: Research
+Level: 6
+Email:niklaus@example.org
+Email:	margaret@example.org
+
+Id:	8
+Name:	Anita Torvalds
+Age: 35
+Salary: 122000.50
+Dept: Legal
+Level: 5
+Email:	ken@example.org
+Email: yukihiro@example.org
+
+Id:9
+Name: Donald Allen
+Age: 03
+Salary: 58000
+Dept: Research

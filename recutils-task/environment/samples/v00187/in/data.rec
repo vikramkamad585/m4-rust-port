@@ -1,0 +1,88 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name:	Niklaus v\
+an Rossum
+Age:	45
+Salary:1e3
+Dept: Eng
+Level: 4
+Email:	guido@example.org
+
+
+Id: 2
+Name: Bjarne Ritchie
+Salary: -2.5
+Dept:	Sales
+Level:	8
+Email: niklaus@example.org
+Email:alan@example.org
+
+
+Id:3
+Name:Donald Perlman
+Age: 52
+Salary:	0.5
+Dept: Ops
+Email:	edsger@example.org
+Email: barbara@example.org
+
+
+Id: 4
+Name: Niklaus Hopper
+Dept:	Research
+Level: 8
+Email: john@exa\
+mple.org
+Email:	frances@example.org
+
+
+Id:	5
+Name: Anita Dijkstra
+Age: 23
+Salary: 141000.50
+Dept:	Support
+Level: 2
+Email: guido@example.org
+City: Paris
+
+
+Id: 6
+Name: Grace Knuth
+Age:90\
+.41
+# note about Salary
+Salary: 140
+Dept: Ops
+Email: anita@example.org
+
+
+Id:	7
+Name: Guido Borg
+Age: 21
+Salary: 43000.50
+Dept: Sales
+Level: 1
+
+
+Id:	8
+Name: Guido Wirth
+Age: 9abc
+Salary: 169000.50
+Dept:Eng
+Email:linus@example.org
+
+
+Id: 9
+Name:Frances Ritchie
+Age:	20
+Dept:	Legal
+Level:7
+Email: frances@example.org
+Email: frances@example.org

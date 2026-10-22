@@ -1,0 +1,12 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Title:	Kernel
+Author: Radia Hamilton
+Year: 65
+Price:461
+Tag: runtime
+Tag: delta
+Available:	yes

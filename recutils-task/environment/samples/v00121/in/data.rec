@@ -1,0 +1,69 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id: 1
+Name:	Alan Hamilton
+Age:32
+Salary: 1e3
+Dept:	Support
+
+Id: 2
+Name: Donald Stroustrup
+Age:	55
+Salary: 145000
+Dept: Ops
+Level: 3
+Email:	yukihiro@example.org
+Email: grace@example.org
+
+Id: 3
+Name: Edsger S\
+troustrup
+Age:91
+Salary:119000.50
+Dept:Legal
+Level: 7
+
+Id: 4
+Name: Bjarne Turing
+Age:	59
+Salary:	116000.50
+Dept: Legal
+Level: 7
+
+Id: 5
+Name:Edsger Torvalds
+Salary: 177000
+Dept:Eng
+
+Id: 6
+Name: Linus Lamport
+Age:8abc
+Salary: 113000.50
+Dept: Ops
+Level:	3
+Email: radia@example.org
+
+Id:7
+Name:	Leslie McCarthy
+Age: 48
+Salary: 34000
+Dept: Legal
+Email: niklaus@example.org
+Email: ada@exa\
+mple.org
+
+Id:8
+Name:	Alan Perlman
+Salary:1e3
+# note about Dept
+Dept: Eng
+Email:	anita@example.org
+Email:	bjarne@example.org
+
+Id:9
+Name:John Thompson
+Age: 21
+Salary: 106000
+Dept: Research

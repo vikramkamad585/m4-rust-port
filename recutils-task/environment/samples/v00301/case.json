@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-d",
+  "-t",
+  "Book",
+  "-e",
+  "Available[0] != \"Donald\"",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

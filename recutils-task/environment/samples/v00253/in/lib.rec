@@ -1,0 +1,65 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+# between
+
+Title:Runtime
+Writer:john
+Year: 1998
+
+# between
+
+# note about Title
+Title: Gamma Kernel
+Writer:dennis
+Writer:	dennis
+Year: 1999
+
+# between
+
+Title: Queue Delta
+Year:	2012
+
+# between
+
+Title:	Graphics
+Writer:barbara
+Year:	1981
+
+# between
+
+Title:	Graphics
+Writer: grace
+Year: 1984
+
+# between
+
+Title: Stream
+Writer:dennis
+Year:1971
+
+%rec: Author
+%key: Handle
+
+Handle: marg\
+aret
+Name:Margaret van Rossum
+# note about Born
+Born: 1959
+
+Handle:	john
+Name: John Stroustrup
+Born: 1905
+
+Handle: grace
+Name:	Grace Wirth
+Born: 1919
+
+Handle:	barbara
+Name:	Barbara Borg
+Born: 1900
+
+Handle:	dennis
+Name: Dennis Turing
+Born: 1953

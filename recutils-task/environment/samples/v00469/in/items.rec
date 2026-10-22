@@ -1,0 +1,22 @@
+# compilers delta security
+
+%rec: Item
+%type: V enum A B C
+
+Name:alpha
+V: 18
+
+Name: beta
+V: -0
+
+Name: networks
+V: 29
+
+Name: compilers
+V: true
+
+Name: queue
+V: 0
+
+Name: graphics
+V:30

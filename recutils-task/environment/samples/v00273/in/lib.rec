@@ -1,0 +1,43 @@
+# compilers theory runtime
+
+# between
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+# between
+
+Title:	Security Systems
+Year: 1965
+
+# between
+
+Title: Databases
+Writer:	guido
+Year: 1997
+
+# between
+
+Title: Databases Editor
+Year:2009
+
+# between
+
+Title: Edi\
+tor
+Writer: guido
+Year:1958
+
+%rec: Author
+%key: Handle
+
+
+Handle: margaret
+Name:Margaret Ritchie
+Born: 1942
+
+
+Handle: guido
+Name: Guido Lovelace
+Born:1990

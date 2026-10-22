@@ -1,0 +1,25 @@
+%rec: Book_Writer
+
+Title: Kernel
+Year: 2006
+Writer_Handle: radia
+Writer_Name: Radia McCarthy
+Writer_Born: 1950
+
+Title: Gamma Queue Theory
+Year: 1950
+Writer_Handle: john
+Writer_Name: John Borg
+Writer_Born: 1988
+
+Title: Gamma Queue Theory
+Year: 1950
+Writer_Handle: radia
+Writer_Name: Radia McCarthy
+Writer_Born: 1950
+
+Title: Parser
+Year: 1957
+Writer_Handle: john
+Writer_Name: John Borg
+Writer_Born: 1988

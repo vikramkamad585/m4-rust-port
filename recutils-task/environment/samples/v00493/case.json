@@ -1,0 +1,9 @@
+{
+ "tool": "recinf",
+ "args": [
+  "bad.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "diag"
+}

@@ -1,0 +1,60 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Salary
+
+Id: 1
+Name:Rob Stroustrup
+Age: 11
+Dept: Research
+Level:2
+
+Id: 2
+Name:Yukihiro Thompson
+Age: 66
+Salary: 120000.50
+Dept:Ops
+Level: 2
+Email:	grace@example.org
+Email: donald@example.org
+
+Id: 3
+Name:Ken Wirth
+Age:7abc
+Salary:118000
+Dept: Sales
+Email: guido@example.org
+
+Id:	4
+Name:Edsger Stroustrup
+Age:
+Salary:192000
+Dept: Sales
+Level:1
+Email: bjarne@example.org
+Email:bjarne@example.org
+
+Id: 5
+Name: Grace Wirth
+Age: 35
+Salary:	0.5
+Dept: Sales
+Level:	4
+# note about Email
+Email:grace@example.org
+City:Lima
+
+Id:6
+Name:	Dennis Turing
+Salary: -2.5
+Dept:	Ops
+
+Id: 7
+Name: Guido Ritchie
+Age:	68
+Salary: 1e3
+Dept:	Legal
+Level: 5
+Email: linus@example.org

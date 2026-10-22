@@ -1,0 +1,7 @@
+(record 20 (
+(field 20 "%rec" "Staff")
+(field 32 "%type" "Age int")
+(field 47 "%type" "Salary real")
+(field 66 "%typedef" "Dept_t enum Eng Ops Sales Research Support Legal")
+(field 125 "%type" "Dept Dept_t")
+(field 144 "%sort" "Age")))

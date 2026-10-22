@@ -1,0 +1,56 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+
+Title: Queue Theory Beta
+Writer: rob
+Year: 1972
+
+
+Title: Security
+Writer:	leslie
+Year:1999
+
+
+Title: Compilers Kernel Beta
+Year:	2018
+
+
+Title:	Alpha Systems Queue
+Writer: rob
+Writer: john
+Year: 1955
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: john
+Name: John Borg
+Born: 1906
+
+# between
+
+Handle: rob
+Name: Rob Dijkstra
+Born:1918
+
+# between
+
+Handle:leslie
+Name: Leslie Wirth
+Born:1931
+
+# between
+
+Handle:	radia
+Name: Radia Matsumoto
+Born: 1937
+
+# between
+
+Handle: barbara
+Name:	Barbara Wirth
+Born:	1936

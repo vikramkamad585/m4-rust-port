@@ -1,0 +1,26 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+Title: Gamma Theory
+Author: Alan L\
+ovelace
+Author: Leslie Pike
+Year: 95.23
+Available: no
+
+Title: Security
+Author: Donald Liskov
+Author: Rob Turing
+Year:1973
+Price: 1e3
+Tag: par\
+ser
+Available:	0
+
+Title: Kernel C\
+ompilers
+Author: Ken Hopper
+Year: 2009
+Available:1

@@ -1,0 +1,47 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title:Systems Cache Editor
+Author: Donald van Rossum
+Year:	1987
+Tag: kernel
+Tag: alpha
+Tag:	cache
+Available: maybe
+
+Title:	Parser Queue
+Price: .75
+Tag: runtime
+Available:0
+Author: Niklaus Hamilton
+Tag:alpha
+Tag: networks
+
+Title: Beta Cache Queue
+Author:Dennis Lovelace
+Year: 117
+Tag:	security
+Note:   networks  
+
+Title: Kernel Stream Alpha
+# note about Author
+Author: Margaret Ritchie
+Price: 604.32
+Tag: graphics
+Available: maybe
+Note:EDITOR
+
+Tag:beta
+Price:	1e3
+Author: Frances Perlman
+Year: 1983
+Tag: kernel
+Title: Delta
+
+Title:	Systems Editor
+Author: Linus Hamilton
+Year: 1972
+Tag: databases
+Tag:kernel
+Tag: alpha

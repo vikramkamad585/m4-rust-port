@@ -1,0 +1,72 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Year Title
+
+# between
+
+Price: 1e3
+Year:2007
+Tag: networks
+Title: Theory Graphics Queue
+Author:	Dennis Allen
+Tag: cache
+Author: Anita Lamport
+
+# between
+
+Author: Alan Hamilton
+Title: Alpha Stream Editor
+Tag: editor
+Price: 1e3
+Year: 1987
+
+# between
+
+Title: Parser Databases Parser
+Author:	Ken Dijkstra
+Price:	299
+Tag:theory
+
+# between
+
+Title:	Security Beta
+Author: Edsger Matsumoto
+Author:Bjarne \
+McCarthy
+Year: 2018
+Tag:	alpha
+Tag:	systems
+Tag: databases
+Available:true
+Note: parser delta parser
+
+# between
+
+Price: 1e3
+Author:Ada Hamilton
+Year:	1991
+Note:	say "graphics"
+Available: maybe
+Tag: stream
+Title: Stream Systems Systems
+
+# between
+
+Title: Kernel Theory
+Author: Alan Perlman
+Author: Bjarne Ritchie
+Year: 1964
+Price: .75
+Tag: compilers
+Tag: theory
+
+# between
+
+Title: Databases Systems Compilers
+Author:	Grace L\
+ovelace
+Author:Guido Ritchie
+Year:1961
+Tag: cache

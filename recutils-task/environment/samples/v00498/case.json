@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Name + }}"
+ ],
+ "stdin": "Name: x\n",
+ "compare_stderr": true,
+ "group": "diag"
+}

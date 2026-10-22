@@ -1,0 +1,79 @@
+%rec: Book
+%type: Year int
+
+# between
+
+Title:	Kernel
+Author:	Leslie Lovelace
+Year:	1960
+Tag:queue
+Tag: theory
+Tag: databases
+Available:	maybe
+
+# between
+
+Title:	Cache Runtime Databases
+Author: Linus McCarthy
+Author: Margaret McCarthy
+Year: -10
+Price: 1e3
+Tag: theory
+Available:no
+Note:	theory alpha parser
+
+# between
+
+Title: Stream Beta Cache
+Author:Frances Lovelace
+Author: Ken Ma\
+tsumoto
+Year: 1967
+Price:91
+Tag:	delta
+# note about Available
+Available: 0
+
+# between
+
+Title:Graphics Kernel Alpha
+Author: Frances Turing
+Price:	.75
+Tag: graphics
+Available:	0
+
+# between
+
+Title: Networks Stream
+Author: Radia Borg
+Year: 1972
+Tag: stream
+
+# between
+
+Title: Queue
+Author:	Rob Borg
+Year:1954
+Price: 130.51
+Tag: parser
+Tag:editor
+Available:	1
+
+# between
+
+Title:Cache
+Author: Yukihiro Perlman
+Author:Bjarne Stroustrup
+Year:2008
+Price: .75
+Tag: kernel
+Note:   parser  
+
+# between
+
+Title:Editor
+Author:Radia Pike
+Year:2016
+Price: -2.5
+Tag: delta
+Available:	false

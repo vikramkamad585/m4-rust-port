@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Year:1991\nTitle: Alpha Cache\nTag: theory\nPrice: 79.77\nTag: kernel\nAuthor: Grace Perlman\nTag: databases\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

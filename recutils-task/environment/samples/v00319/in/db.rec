@@ -1,0 +1,54 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+
+%rec: Book2
+%type: Year int
+%key: Title
+
+# between
+
+Note: security
+Price:	0.5
+Year: 1998
+Author:Ada Hopper
+Title: Security Systems
+Tag: security
+
+%rec: Book2
+%type: Year int
+%type: Price real
+%type: Available bool
+
+Title: Parser Delta Theory
+# note about Author
+Author: Niklaus Stroustrup
+Year:	1954
+Price: 0.5
+Tag: beta
+Tag: security
+Available: yes
+
+Title: Security Systems
+Author: John Pike
+Year: 1980
+Price:	895.74
+Tag: graphics
+Tag:	databases
+Tag:	security
+
+Title: Systems
+Author:Yukihiro Torvalds
+Author: Barbara Liskov
+Year: 1981
+Price: -2.5
+Tag:	compilers
+Tag: stream
+
+Title:	Queue Queue
+Author: Rob Hamilton
+Year:	2004
+Price: 479
+Tag:alpha
+Tag: stream
+Available:	yes

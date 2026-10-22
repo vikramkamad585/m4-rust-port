@@ -1,0 +1,39 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: Rob Borg
+Age:-17
+Dept:Research
+Email: donald@example.org
+City: Pune
+
+Id: 2
+Name: Alan Stroustrup
+Age: 69
+Salary: 163000.50
+Dept: Eng
+Email: bjarne@example.org
+Email: dennis@example.org
+
+Id: 3
+Name:	Niklaus Liskov
+Age:01
+# note about Salary
+Salary: 1e3
+Dept: Legal
+
+Id:4
+Name:Barbara Hopper
+Age:	36
+Salary: -2.5
+Dept:	Support
+
+Id: 5
+Name: Rob Stroustrup
+Age:	-18
+Dept:Research
+Level: 3

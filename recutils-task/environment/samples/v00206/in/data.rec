@@ -1,0 +1,107 @@
+# runtime runtime alpha
+
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Title
+
+
+Title:	Alpha Queue
+# note about Author
+Author: John Pike
+Author:	Ada Hamilton
+Year:2021
+Price: 1e3
+Tag: gamma
+Note: parser
+
+
+# note about Title
+Title: Editor
+Author: Dennis Liskov
+Author: Bjarne Knuth
+Year:	2016
+Available:maybe
+
+
+Title:Kernel
+Year: 1988
+Author: Bjarne \
+Torvalds
+Tag:	gamma
+Price:1e3
+Tag: beta
+Available:	false
+
+
+Title:	Theory Systems Beta
+Author: Niklaus Hamilton
+Author:Linus Turing
+Year: 1974
+Tag: beta
+Tag:	networks
+Note: graphics theory kernel
+
+
+Price:1e3
+Tag: the\
+ory
+Author: Rob T\
+uring
+Author:	Anita McCarthy
+Year: -6
+Tag:	beta
+Tag: databases
+Title: Queue
+
+
+Title: Runtime Networks Delta
+Author: Guido Lovelace
+Author: Barbara Pike
+Year: 1979
+Tag: security
+Available: no
+
+
+Author: Edsger \
+Dijkstra
+Title:Stream
+Tag: runtime
+Price:	361
+Year: 2014
+Available:	no
+
+
+Title:Kernel
+Author: Anita Pike
+Year: -15
+Price:	1e3
+Tag: runtime
+Tag:runtime
+
+
+Title:	Theory Theory
+Author: Guido McCarthy
+Year:6.51
+
+
+Title: Delta Cache Runtime
+Year:-46
+Tag:kernel
+Author:Bjarne McCarthy
+Note: parser compilers
+Tag:	theory
+Author:Anita Hamilton
+
+
+Tag: gamma
+Price: -2.5
+Year: 
+Author: Frances Borg
+Tag: cache
+Note: networks systems
++ systems stream
+Available:	no
+Title: Databases
+Tag: systems

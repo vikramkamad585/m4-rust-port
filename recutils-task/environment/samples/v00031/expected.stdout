@@ -1,0 +1,13 @@
+Id: 1
+Name: Niklaus Hamilton
+Age: 42.58
+Salary: 182
+Dept: Research
+Email: bjarne@example.org
+Email: linus@example.org
+
+Id: 2
+Name: Leslie Knuth
+Age: 0xBF
+Salary: 86000
+Dept: Ops

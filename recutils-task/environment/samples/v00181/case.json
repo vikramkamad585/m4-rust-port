@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-G",
+  "Level",
+  "-p",
+  "Level,Count(Salary):Total,AVG(Id)",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "# theory alpha editor theory\n\nTitle: Parser Parser\nAuthor: Frances Hamilton\nAuthor: Rob Pike\nPrice: 0.5\nAvailable:false\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

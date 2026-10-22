@@ -1,0 +1,31 @@
+Id: 1
+Name: Leslie Dijkstra
+Age: 33
+Salary: 95
+Dept: Ops
+Level: 3
+
+Id: 2
+Name: Alan Perlman
+Age: 36.9
+Dept: Legal
+Email: ada@example.org
+Email: barbara@example.org
+City: Tokyo
+
+Id: 3
+Name: Niklaus Knuth
+Age: 41
+Salary: 1e3
+Dept: Ops
+Level: 8
+Email: margaret@example.org
+Email: guido@example.org
+
+Id: 4
+Name: Frances Hopper
+Age: 51
+Salary: 181000
+Dept: Legal
+Level: 4
+Email: grace@example.org

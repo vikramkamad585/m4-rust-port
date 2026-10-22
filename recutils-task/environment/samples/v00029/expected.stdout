@@ -1,0 +1,57 @@
+Id: 3
+Name: Grace Knuth
+Age: 21
+Salary: 65000
+Dept: Research
+
+Id: 5
+Name: Edsger Torvalds
+Age: 45.60
+Salary: -2.5
+Dept: Ops
+Email: linus@example.org
+
+Id: 4
+Name: Linus Matsumoto
+Age: 18
+Salary: 186000
+Dept: Legal
+Level: 2
+Email: john@example.org
+Email: yukihiro@example.org
+City: Berlin
+
+Id: 6
+Name: Bjarne Pike
+Age: 87
+Salary: .75
+Dept: Ops
+Level: 2
+Email: ada@example.org
+
+Id: 2
+Name: Ken Knuth
+Age: 5abc
+Salary: 80000
+Dept: Eng
+Level: 3
+Email: grace@example.org
+
+Id: 7
+Name: Anita Borg
+Age:  8
+Salary: 146000.50
+Dept: Legal
+Level: 5
+Email: margaret@example.org
+Email: yukihiro@example.org
+
+Id: 1
+Name: Niklaus Lovelace
+Age: 59
+Salary: 97000.50
+Dept: Ops
+Level: 8
+Email: rob@example.org
+Email: rob@example.org
+City: Oslo

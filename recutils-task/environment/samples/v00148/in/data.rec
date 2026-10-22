@@ -1,0 +1,87 @@
+# compilers security security
+
+
+%rec: Book
+%type: Year int
+%sort: Title
+
+
+Title:	Delta Networks Delta
+Author: Donald Thompson
+Author: Ken van Rossum
+Year: 1989
+Tag:graphics
+Tag: stream
+Available:maybe
+Note: stream stream stream
+
+
+Title:	Stream
+Author:Leslie Torvalds
+Year:	1992
+Price: 1e3
+Tag:databases
+Available:	yes
+
+
+Title: Stream Queue Kernel
+Author:John Knuth
+Year:	1980
+Tag:	compilers
+Note: say "systems"
+
+
+Title: Cache Databases Cache
+Author: Linus Pike
+Year: 1969
+Tag: security
+Tag:compilers
+Tag: networks
+
+
+# note about Year
+Year: 04
+Title: Parser
+Tag: alpha
+Author: Barbara Perlman
+Price: 148
+# note about Author
+Author: Margaret Thompson
+
+
+Available: 0
+Price: 103
+Title:	Runtime
+Tag:beta
+# note about Tag
+Tag: stream
+Author: Radia van Rossum
+Year: 1992
+Tag: editor
+
+
+Title:Beta Databases Theory
+Author:	Linus Pike
+Author: Ada Perlman
+Year: 1985
+# note about Price
+Price: 0.5
+
+
+Title:Alpha Systems
+Author:Alan T\
+orvalds
+Year: 2013
+Price:	.75
+Tag:queue
+Tag:	runtime
+Available: false
+
+
+Year: 89
+Tag: networks
+Title: Networks
+Tag:networks
+Price:2.07
+Tag: cache
+Author: Bjarne van Rossum

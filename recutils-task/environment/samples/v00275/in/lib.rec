@@ -1,0 +1,35 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title: Delta Parser Graphics
+Writer: margaret
+Writer: radia
+Year: 1998
+
+Title: Gamma Netw\
+orks Stream
+Writer: ra\
+dia
+Year: 2000
+
+Title: Stream Compilers Theory
+Writer:	nobody
+Writer: margaret
+Year: 1972
+
+Title:	Systems
+Writer: marg\
+aret
+Year: 2008
+
+%rec: Author
+%key: Handle
+
+Handle: margaret
+Name: Margaret McCarthy
+Born: 1974
+
+Handle: radia
+Name:Radia Hamilton
+Born:	1981

@@ -1,0 +1,42 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id:	1
+Name:	Margaret Torvalds
+Age: 02
+Salary:.75
+Dept: Support
+Level:	1
+City: Pune
+
+# between
+
+Id: 2
+Name: Guido Lovelace
+Age: 
+Dept:	Ops
+Level:	6
+
+# between
+
+Id:	3
+Name: Radia McCarthy
+Age: 84
+Salary: 146000
+Dept:	Ops
+Level:	3
+Email:edsger@example.org
+Email:	anita@example.org
+
+# between
+
+Id: 4
+Name: Ken Thompson
+Age: 31
+Dept: Ops
+Email:donald@example.org
+Email: ada@example.org

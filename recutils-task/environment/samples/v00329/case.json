@@ -1,0 +1,11 @@
+{
+ "tool": "recinf",
+ "args": [
+  "-t",
+  "Book",
+  "db.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "recinf"
+}

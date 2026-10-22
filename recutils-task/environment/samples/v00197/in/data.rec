@@ -1,0 +1,54 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+# note about Name
+Name: Donald Hamilton
+Age:43
+Salary:190000.50
+Dept: Research
+Email:ada@example.org
+City:	Berlin
+
+
+Id:	2
+Name: Leslie Lamport
+Salary: 200000
+Dept: Sales
+Level: 5
+Email:	yukihiro@example.org
+Email: guido@example.org
+
+
+Id:3
+Name: Anita van Rossum
+Age:	49
+Salary: 118000
+Dept: Research
+Level:	5
+Email: barbara@example.org
+Email: radia@example.org
+
+
+Id:	4
+Name: Ken Perlman
+Age:	80
+Dept: Eng
+Email: ken@example.org
+Email: dennis@example.org
+
+
+Id:5
+Name: Radia van Rossum
+Age: 66
+Salary: 61000
+Dept: Support
+Level: 7
+Email:guido@example.org
+Email: ada@example.org
+City: Lima

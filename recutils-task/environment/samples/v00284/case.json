@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "--print-sexps",
+  "-t",
+  "Staff",
+  "-p",
+  "Salary,Age",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

@@ -1,0 +1,43 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id:1
+Name: Dennis Stroustrup
+Age: 70
+Salary: 192000
+Dept:	Ops
+Level:3
+Email:	edsger@example.org
+Email: yukihiro@example.org
+
+# between
+
+Id: 2
+# note about Name
+Name: Edsger \
+Lamport
+Age: 35
+Salary: 152000.50
+Dept:Research
+Level: 5
+
+# between
+
+Id: 3
+Name: Guido Borg
+Age: 112
+Salary:	176000
+Dept:Eng
+Email: leslie@example.org
+
+# between
+
+Id: 4
+Name:Anita Dijkstra
+Age: 9abc
+Salary: 83000
+Dept: Sales

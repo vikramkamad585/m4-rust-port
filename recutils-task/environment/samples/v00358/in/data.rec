@@ -1,0 +1,10 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title:	Parser Theory Compilers
+Author:Alan Perlman
+Year:	1992
+Price:	.75
+Tag: delta
+Tag: beta

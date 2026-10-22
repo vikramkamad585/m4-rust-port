@@ -1,0 +1,82 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Price
+
+Title:	Gamma Runtime
+Author: Niklaus van Rossum
+Year:	17
+Tag:stream
+Tag: stream
+Tag: alpha
+Note: parser beta queue
+
+Title:Cache Kernel Delta
+Author:Barbara Allen
+Year: -23
+Price: 16.79
+Tag: kernel
+Available: yes
+
+Title:Systems Cache Kernel
+Author:Grace Matsumoto
+Year: 1969
+Price: 1e3
+Tag:theory
+Note:security\runtime
+
+Title: Databases Databases
+Author: Yukihiro Thompson
+Author:Dennis Ritchie
+Year:  3
+Note:	compilers\kernel
+
+Title:Networks
+Author:Ken Turing
+Year: 1993
+Price: 612.16
+Tag: security
+Tag:	parser
+Tag: databases
+
+Title: Runtime
+Author: Margaret Thompson
+Year: 4abc
+Price:	202.16
+Tag: editor
+Tag: systems
+Tag: systems
+Available: false
+
+Title:	Alpha Editor Security
+Author: Alan Ritchie
+Author: Radia Knuth
+Year: 2019
+Price:570.27
+Tag: data\
+bases
+Tag: runtime
+Tag: security
+
+Title: Compilers Stream Databases
+# note about Author
+Author: Margaret Lamport
+Author: Alan Ritchie
+Tag: parser
+Tag:queue
+Available: maybe
+
+Title:Gamma Databases Gamma
+Author:Leslie Hamilton
+Year: 1996
+Tag: queue
+Tag:security
+Tag:delta
+Available: 1
+
+Title:Stream
+Author:	Margaret Matsumoto
+Year:	2004
+Price:-2.5
+Available: 0
+Note:say "security"

@@ -1,0 +1,43 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:	1
+Name:Niklaus Liskov
+# note about Age
+Age: 4abc
+Salary: 134000.50
+Dept: Research
+Level:	8
+
+Id: 2
+Name: Rob McCarthy
+Age:	30
+Dept:Sup\
+port
+Level: 6
+Email: leslie@example.org
+City: Tokyo
+
+Id: 3
+Name:Rob Perlman
+Age:52
+Salary:-2.5
+Dept:Sales
+Email: linus@example.org
+Email: alan@example.org
+City: Lima
+
+Id: 4
+Name: Leslie Wirth
+Dept: Ops
+Level:9
+Email:	edsger@example.org
+
+Id:	5
+Name: Edsger Knuth
+Age:76.53
+Dept:Support
+Level: 8
+Email: alan@example.org
+City: Tokyo

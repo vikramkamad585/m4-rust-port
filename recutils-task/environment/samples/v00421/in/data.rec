@@ -1,0 +1,22 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name: Frances Allen
+Age: 43
+Salary:	95000
+Dept: Sales
+Level:	8
+Email: bjarne@example.org
+Email:	rob@example.org
+
+Id:	2
+Name: Frances Thompson
+Age:	0x8B
+# note about Salary
+Salary:1e3
+Dept: Support
+# note about Level
+Level: 6

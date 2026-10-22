@@ -1,0 +1,30 @@
+# gamma networks beta theory
+
+
+%rec: Book
+%type: Year int
+%key: Title
+
+
+Title:Systems Parser
+Author:Ken Liskov
+Author:Edsger McCarthy
+Year: 1982
+Price:	-2.5
+Available: 0
+Note:	security\runtime
+
+
+Title: Theory Beta Graphics
+Author:Margaret\
+ Torvalds
+Year: 1971
+Price: -2.5
+Available: true
+
+
+Title:Runtime Cache
+Author:	Anita Allen
+Price:1e3
+Tag:networks
+Tag: beta

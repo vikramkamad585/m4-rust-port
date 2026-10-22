@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Level[1]}} {{Id}} {{Level}} {{Level}}\n\n"
+ ],
+ "stdin": "# parser theory\n\n# note about Id\nId: 1\nName:\tGrace Hamilton\nAge:\t43\nSalary:175000.50\nDept: Legal\nEmail:\tgrace@example.org\nEmail:donald@example.org\nCity: Tokyo\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

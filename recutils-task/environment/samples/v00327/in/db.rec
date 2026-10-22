@@ -1,0 +1,25 @@
+%rec: Book
+%type: Year int
+%sort: Title
+
+Year:	2000
+Title:	Queue
+Tag:	theory
+Tag: stream
+# note about Price
+Price:.75
+Author: Anita Allen
+Author:Niklaus Liskov
+Tag: compilers
+Available: true
+
+Title: Networks Parser Stream
+Author: Lesli\
+e Pike
+Year: 2009
+Price: 1e3
+Tag: security
+Tag: delta
+Tag: delta
+Available: true
+Note: alpha\delta

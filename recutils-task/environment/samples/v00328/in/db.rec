@@ -1,0 +1,63 @@
+# security networks compilers
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id:	1
+Name: Bjarne \
+Lovelace
+Age: 44
+Dept: Support
+Level: 8
+Email: ken@example.org
+Email: niklaus@example.org
+City: Oslo
+
+# between
+
+Id: 2
+Name: Edsger Lovelace
+Age: 102
+Salary: 105000.50
+Dept:Ops
+Email: ken@example.org
+
+# between
+
+Id:3
+Name: Niklaus Ritchie
+Age: 48
+Salary: 58000
+Dept: Le\
+gal
+Level: 4
+Email:	alan@example.org
+# note about City
+City:	Oslo
+
+%rec: Book
+%type: Year int
+
+# between
+
+Title: Delta Networks Systems
+Author: Yukihiro Ritchie
+Year:2009
+Tag: queue
+Available: maybe
+
+# between
+
+Title:Netw\
+orks
+Author: Radia Allen
+Year: 4abc
+Price:261.38
+Note:runtime alpha queue

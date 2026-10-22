@@ -1,0 +1,16 @@
+# stream cache networks alpha
+
+%rec: Item
+%type: V enum A B C
+
+Name:	databases
+V:3
+
+Name: stream
+
+Name:	stream
+V: 13
+
+Name: de\
+lta
+V: 9

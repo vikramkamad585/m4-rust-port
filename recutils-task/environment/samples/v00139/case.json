@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-U",
+  "-t",
+  "Book",
+  "-p",
+  "Year[1],Year[0-1],Tag,Tag[0-2]",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

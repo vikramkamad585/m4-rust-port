@@ -1,0 +1,44 @@
+# parser alpha
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id:1
+Name: Niklaus Hopper
+Age: 27.44
+Salary:302.36
+Dept:Eng
+
+# between
+
+Id: 2
+Name:Dennis Liskov
+Dept: Legal
+
+# between
+
+Id: 3
+Name: Ada Lovelace
+Age: 69
+Salary:60000
+Dept: Eng
+Level: 5
+Email: niklaus@example.org
+Email:donald@example.org
+
+# between
+
+Id:4
+# note about Name
+Name:Edsger McCarthy
+Salary:366.71
+Dept:	Ops
+Level: 5
+Email:	linus@example.org
+Email: linus@ex\
+ample.org

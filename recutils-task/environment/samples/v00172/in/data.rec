@@ -1,0 +1,45 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Title
+
+# between
+
+Author: Guido van Rossum
+Price:1e3
+Title: Cache Stream
+Available:maybe
+Tag:queue
+Year: 1982
+Tag: de\
+lta
+
+# between
+
+Tag:	stream
+Available: false
+Tag: beta
+Price: 1e3
+Year: 2012
+Title:Compilers Delta Networks
+Author: Alan Stroustrup
+Note:	compilers\cache
+
+# between
+
+Title: Runtime Queue Parser
+Author: Edsger McCarthy
+Year: 07
+Tag: systems
+Tag:alpha
+Note: runtime queue
++ security
+
+# between
+
+Title:	Security
+Author: Niklaus Hopper
+Author:	Linus Borg
+Year:	04
+Price:-2.5
+Available:	true

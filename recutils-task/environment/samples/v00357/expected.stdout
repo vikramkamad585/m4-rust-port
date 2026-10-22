@@ -1,0 +1,5 @@
+"Title","Author","Year","Price","Tag","Tag_2","Tag_3","Available","Note"
+"Parser","John van Rossum","1954","641.48","cache","security","cache","no",
+"Systems Parser Systems","Donald Hamilton","2003",,"gamma","theory","kernel","no",
+"Editor","Barbara Torvalds",,"1e3","databases","beta","theory",,
+"Editor Cache Alpha","Yukihiro Matsumoto","2020",,"kernel","kernel","beta",,"cache"

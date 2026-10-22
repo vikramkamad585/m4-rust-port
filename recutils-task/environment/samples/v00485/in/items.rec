@@ -1,0 +1,21 @@
+%rec: Item
+%type: V range MIN MAX
+
+Name: systems
+
+Name: queue
+
+Name:gamma
+V: 22
+
+Name: theory
+# note about V
+V: -0
+
+Name: alpha
+
+Name:	editor
+V: 29
+
+Name: systems
+V: 16

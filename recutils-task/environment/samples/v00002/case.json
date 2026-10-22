@@ -1,0 +1,11 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "parse"
+}

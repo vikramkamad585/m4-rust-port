@@ -1,0 +1,14 @@
+(record 72 (
+(field 72 "Id" "1")
+(field 141 "City" "Tokyo")))
+
+(record 154 (
+(field 154 "Id" "2")
+(field 258 "City" "Paris")))
+
+(record 272 (
+(field 272 "Id" "3")
+(field 369 "City" "Berlin")))
+
+(record 384 (
+(field 384 "Id" "4")))

@@ -1,0 +1,40 @@
+# parser compilers compilers runtime
+
+
+%rec: Book
+%type: Year int
+%type: Available bool
+
+
+# note about Title
+Title: Gamma Kernel Networks
+Author: Yukihiro Allen
+Year: 19
+Price:159
+
+
+Year: 03
+Title:Kernel Compilers Runtime
+Note: say "graphics"
+Author:Grace Knuth
+Tag:beta
+Price:-2.5
+Author:	Grace Matsumoto
+Tag: security
+
+
+Title:Databases Alpha
+Author: Grace Allen
+Year: 14
+Tag:	security
+Tag: par\
+ser
+Tag: delta
+Available: true
+
+
+Title: Databases Runtime Cache
+Author: Radia Turing
+Author: Grace Borg
+Price: 229
+Available:1

@@ -1,0 +1,37 @@
+Available: yes
+Tag: compilers
+Tag: theory
+Author: John Liskov
+Title: Stream Cache
+Price: 0.5
+Year: 2018
+
+Title: Compilers
+Author: Niklaus Perlman
+Year: 1955
+Price: 752.71
+Tag: cache
+Tag: systems
+Tag: cache
+Available: false
+
+Price: -2.5
+Title: Networks Parser Security
+Tag: stream
+Note: kernel systems theory
+Available: true
+Author: Niklaus Matsumoto
+Tag: stream
+Year: 1957
+
+Title: Networks Alpha Delta
+Author: Frances Perlman
+Year: 1982
+Price: 1e3
+Tag: gamma
+
+Title: Gamma Graphics Beta
+Author: John Hopper
+Price: 1e3
+Tag: kernel
+Note: cache\runtime

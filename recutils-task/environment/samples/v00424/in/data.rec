@@ -1,0 +1,28 @@
+# theory theory delta
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title: Databases Theory
+Author:Yukihiro van Rossum
+Year: 2001
+Price:23
+Tag: alpha
+Tag: graphics
+Tag: delta
+Available: maybe
+
+Title:Sys\
+tems
+Author: Frances Borg
+Author: Rob Hopper
+Year: 1952
+Price:	1e3
+Tag:kernel
+Tag: theory
+
+Title:Alpha Security
+Author:	Niklaus Wirth
+Year:	1996
+Price: 272

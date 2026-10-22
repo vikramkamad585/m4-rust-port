@@ -1,0 +1,11 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "missing.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "cli"
+}

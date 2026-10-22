@@ -1,0 +1,5 @@
+"Title","Author","Year","Price","Tag","Tag_2","Tag_3","Available","Author_2"
+"Graphics","Bjarne Dijkstra","1979",".75","compilers","security","editor","no",
+"Networks Databases","John Turing","54","-2.5","gamma","cache","stream",,"Ada Dijkstra"
+"Databases Alpha Parser","Niklaus Ritchie","1999","1e3","security",,,"false",
+"Parser Alpha Parser","Dennis Wirth"," 8","-2.5","gamma","compilers",,,

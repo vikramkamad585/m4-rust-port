@@ -1,0 +1,15 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Year Title
+
+# between
+
+Author:Bjarne Matsumoto
+Tag:	alpha
+Tag: compilers
+Available: maybe
+Year: 1967
+Title:	Security Editor Beta
+Author:	Alan Ritchie

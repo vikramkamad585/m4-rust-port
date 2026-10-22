@@ -1,0 +1,56 @@
+# queue security
+
+%rec: Book
+%type: Year int
+%sort: Title
+%key: Title
+
+Title:	Parser Beta
+Author: Linus Lovelace
+Year: 1952
+Price: 400
+Available: false
+Note:	COMPILERS
+
+Title: Cache Alpha Databases
+Author:Rob Turing
+Price: .75
+Note: say "delta"
+
+# note about Title
+Title: Editor Cache Kernel
+# note about Author
+Author:Alan Thompson
+Year: 1989
+Price:	.75
+Tag:	runtime
+Available:0
+
+Title:Runtime Runtime Kernel
+Author: Margare\
+t Allen
+Year: 2023
+Note:	networks\theory
+
+Title: Delta Queue
+Author:Grace M\
+atsumoto
+Author: Dennis Hamilton
+# note about Year
+Year:1968
+Price: 1e3
+Tag: networks
+Tag: kernel
+
+Year:	9abc
+Note: databases
++runtime runtime
+Tag:	the\
+ory
+Author: Ada Dijkstra
+Title:	Cache Stream
+
+# note about Title
+Title:Security Editor Alpha
+Author: Niklaus Thompson
+Price: 0.5

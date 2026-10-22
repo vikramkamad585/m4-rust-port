@@ -1,0 +1,23 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id:	1
+Name: Ken Borg
+Age:	22
+Salary: 54000
+Dept: Legal
+Email: bjarne@example.org
+Email: ada@example.org
+
+Id: 2
+Name:	Yukihiro Hamilton
+# note about Age
+Age: 23
+# note about Salary
+Salary: 0.5
+Dept: Eng
+Level:6
+City:	Pa\
+ris

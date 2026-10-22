@@ -1,0 +1,78 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+%key: Title
+
+Title: Databases Parser
+Year:	113
+Author: Yukihiro Torvalds
+Price: 509.02
+
+# note about Title
+Title:Parser Security
+Author: Radia Matsumoto
+Year:	14
+Tag: networks
+Available: no
+
+Available: 1
+Title: Editor Cache Stream
+Tag: networks
+Note: compilers kernel
+Price: .75
+Tag: security
+# note about Year
+Year: 1997
+Author:	Bjarne Thompson
+
+Title: Compilers
+Author: Dennis Matsumoto
+Year:  9
+Tag: cache
+Available:	false
+
+Author:Margaret Matsumoto
+Title:	Queue Runtime Networks
+Year: 1995
+Author:Margare\
+t Liskov
+
+Title:	Databases
+Author:Donald Allen
+Author:	Bjarne Stroustrup
+Year:	1985
+Price:-2.5
+Note: queue databases
+
+Year: 1987
+Author: Yukihiro van Rossum
+Tag:stream
+Price: 121
+Title: Runtime
+
+Title: Compilers
+Author:Alan Hopper
+Author:	Barbara Lamport
+Year: 1
+Price:1e3
+Tag: stream
+Note: gamma queue
+
+Title:	Theory Compilers Networks
+Author: Ken Knuth
+Year: 16
+# note about Tag
+Tag:stream
+Tag: compilers
+Tag: al\
+pha
+Available:yes
+Note: gamma
+
+Year: 06
+Note:	par\
+ser
+Price: 1e3
+Author: Radia Hopper
+Title: Runtime
+Tag: parser

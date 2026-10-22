@@ -1,0 +1,4 @@
+"Title","Author","Author_2","Year","Price","Tag","Tag_2","Available","Tag_3","Note"
+"Stream Kernel Cache","Grace Pike","Frances Lamport","2018","1e3","compilers","kernel","yes",,
+"Security Stream","Linus Stroustrup",,"117","805.71","systems","queue","1",,
+"Runtime Gamma Runtime","Edsger Turing","Guido van Rossum","1978","-2.5","parser","editor","true","gamma","systems compilers"

@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "- {{#Author}} {{Price * 1.5}}\n\n"
+ ],
+ "stdin": "Title:Delta\nAuthor: Ada Wirth\nYear: 80.31\nTag: security\n\nTitle: Graphics Gamma Stream\nAuthor: Grace Pike\nAuthor: Margaret van Rossum\nYear: 1990\nPrice:405\n\nTitle: Alpha\nTag: runtime\nYear:  3\nAuthor: Frances Stroustrup\nTag: alpha\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

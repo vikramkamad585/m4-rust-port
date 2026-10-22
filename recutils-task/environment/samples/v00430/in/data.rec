@@ -1,0 +1,22 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+
+Tag: sys\
+tems
+Tag:	stream
+Tag:	compilers
+Price:	0.5
+Title: Beta Gamma Systems
+Author:Barbara Turing
+
+
+Title:Parser \
+Security
+Author: Barbara Hopper
+Year: 1959
+Tag: gamma
+# note about Tag
+Tag:	queue

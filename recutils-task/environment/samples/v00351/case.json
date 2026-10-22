@@ -1,0 +1,13 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-S",
+  "Level",
+  "-d",
+  "\t",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

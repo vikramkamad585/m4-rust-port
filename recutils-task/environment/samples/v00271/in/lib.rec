@@ -1,0 +1,40 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title:	Editor
+Year: 2010
+
+# note about Title
+Title:	Cache Beta
+Year: 2001
+
+Title:Delta Editor Queue
+Writer: yukihiro
+Writer:	dennis
+Year:	1961
+
+Title: Systems
+Year: 1976
+
+# note about Title
+Title: Runtime Databases Gamma
+Year:1955
+
+Title: Parser
+Writer: den\
+nis
+Year: 2002
+
+%rec: Author
+%key: Handle
+
+
+Handle: yukihiro
+Name:Yukihiro Turing
+Born:	1942
+
+
+Handle: dennis
+Name:	Dennis Allen
+Born: 1923

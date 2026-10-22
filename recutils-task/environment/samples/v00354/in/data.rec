@@ -1,0 +1,42 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Author: Ada Torvalds
+Title: Gamma Alpha
+Price: 0.5
+Year: 2024
+
+Title:Networks Security
+Author:Anita L\
+ovelace
+Year:	1987
+Price:	1e3
+Tag: cache
+
+Note: theory
+Tag: databases
+Year: 1963
+# note about Author
+Author:Guido McCarthy
+Price: 1e3
+Author: Frances Borg
+Tag: editor
+Available:	no
+Tag: editor
+Title: Security Parser Queue
+
+Title: Parser
+Author: Margaret Torvalds
+Author:	Radia Dijkstra
+Year: 1996
+Available:false
+Note: compilers\networks
+
+# note about Title
+Title:	Kernel
+Author:	Barbara Lovelace
+Price: 0.5
+Tag:systems
+Available:	yes
+Note: stream theory

@@ -1,0 +1,13 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Available:1
+Author:	Rob Turing
+# note about Title
+Title: Beta Kernel
+Tag: cache
+Tag:security
+Tag: stream
+Author:Grace Perlman
+Year:2006

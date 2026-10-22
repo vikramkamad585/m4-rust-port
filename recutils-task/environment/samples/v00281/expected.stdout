@@ -1,0 +1,19 @@
+(record 127 (
+(field 133 "Name" "Edsger Liskov")
+(field 174 "Dept" "Ops")))
+
+(record 257 (
+(field 263 "Name" "Edsger Perlman")
+(field 311 "Dept" "Sales")))
+
+(record 387 (
+(field 393 "Name" "Ken Turing")
+(field 427 "Dept" "Eng")))
+
+(record 439 (
+(field 445 "Name" "Grace Stroustrup")
+(field 507 "Dept" "Sales")))
+
+(record 583 (
+(field 589 "Name" "Ada Lovelace")
+(field 631 "Dept" "Legal")))

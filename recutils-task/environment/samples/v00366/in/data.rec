@@ -1,0 +1,62 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name: Margaret McCarthy
+Age:	29
+Salary: 193000.50
+Dept:Legal
+Email: rob@example.org
+Email:edsger@example.org
+City:Cairo
+
+Id:2
+Name: Bjarne Lovelace
+Age: 42
+Salary:	22000
+Dept:Legal
+Email: linus@example.org
+Email: guido@example.org
+
+Id:	3
+Name: Ada Wirth
+Age:	100
+Salary:	264.88
+Dept:Sales
+Level: 2
+Email: bjarne@example.org
+
+Id:	4
+Name:	Leslie Wirth
+Age: 52
+Salary:	1e3
+Dept: Eng
+
+Id: 5
+Name:Barbara Dijkstra
+Age:59
+Salary: 65000
+Dept:	Eng
+Email:	yukihiro@example.org
+Email: edsger@example.org
+City: Berlin
+
+Id:6
+Name: Barbara Turing
+Age:	63
+Salary: 151000
+Dept: Sup\
+port
+Level:	5
+Email: barbara@example.org
+Email: barbara@example.org
+
+Id:7
+Name: Linus Dijkstra
+Age:49
+Salary: -2.5
+Dept: Research
+Email:rob@example.org
+Email: leslie@example.org

@@ -1,0 +1,16 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Level
+
+# between
+
+Id: 1
+Name:	Ada Perlman
+Age:43
+Salary:191000.50
+Dept: Rese\
+arch
+Email:	yukihiro@e\
+xample.org
+Email:barbara@example.org

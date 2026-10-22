@@ -1,0 +1,59 @@
+# databases networks editor
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# note about Id
+Id: 1
+Name:Yukihiro Borg
+Age: -14
+Salary: 159.93
+Dept: Eng
+Level: 4
+Email: donald@example.org
+Email: yukihiro@example.org
+
+Id: 2
+Name: Margaret\
+ Lamport
+Age:	13
+Salary: 166000
+Dept: Research
+Level: 3
+
+Id: 3
+Name: John Knuth
+Age: 1abc
+Salary:	68000.50
+Dept:Legal
+# note about Level
+Level: 1
+Email: ken@exa\
+mple.org
+
+Id: 4
+Name: Ken Borg
+Age:	-14
+Salary:	70\
+000
+Dept: Research
+Level:	9
+Email: john@example.org
+Email: ada@example.org
+
+Id:	5
+Name: Alan van Rossum
+Age:  8
+Salary:	95000.50
+Dept: Support
+Level: 5
+
+Id: 6
+Name:	Rob Turing
+Age: 02
+Salary:	-2.5
+Dept: Legal
+Level: 4
+Email: guido@example.org

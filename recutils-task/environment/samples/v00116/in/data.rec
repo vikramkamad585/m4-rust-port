@@ -1,0 +1,19 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Dept Age
+
+Id: 1
+Name: Alan Borg
+Age: 67
+Salary: .75
+Dept: Legal
+Email: leslie@example.org
+City: Lima
+
+Id:2
+Name: Radia Dijkstra
+Age: 40
+Salary:28000
+Dept: Research
+Email:	ada@example.org

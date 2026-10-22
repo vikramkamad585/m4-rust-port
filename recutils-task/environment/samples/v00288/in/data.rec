@@ -1,0 +1,9 @@
+%rec: Book
+%type: Year int
+%sort: Title
+
+Title: Kernel
+Author:Dennis Hamilton
+Author: John Allen
+Year:	2003
+Price:-2.5

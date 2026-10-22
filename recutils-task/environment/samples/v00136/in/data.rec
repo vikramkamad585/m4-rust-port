@@ -1,0 +1,50 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Price
+
+
+Author:	Margaret Ritchie
+Available:	no
+Price:	.75
+Title: Networks Beta Security
+Year: 1987
+
+
+Title: Cache
+Author: Edsger McCarthy
+Year:	2018
+# note about Price
+Price: .75
+Tag: alpha
+Tag:kernel
+Note: EDITOR
+
+
+Title: Delta Compilers Kernel
+Author: Anita Lovelace
+Year: 1983
+Price:	.75
+Tag: runtime
+Note: theory gamma
+
+
+Title:	Graphics Gamma Theory
+Author: Guido Liskov
+Year: 2007
+Price: .75
+Tag: beta
+Tag:	editor
+Tag:	alpha
+Available: 0
+
+
+Title: Theory Delta
+Author: Ada Turing
+Author: Leslie Allen
+Year: 1981
+Tag: compilers
+Tag: theory
+Tag: alpha
+Available: true

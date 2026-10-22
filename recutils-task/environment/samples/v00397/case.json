@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{#Price}} | {{Year}} | {{Tag[1]}}\n\n"
+ ],
+ "stdin": "Title: Kernel\nAuthor: Frances Ritchie\nAuthor: Alan Torvalds\nPrice: 1e3\nTag:compilers\nTag:\tnetworks\nAvailable:yes\n\n# between\n\nTitle:\tAlpha\nAuthor: Niklaus Borg\nAuthor:\tAda Hamilton\nYear: -30\nPrice:\t149\n\n# between\n\nTitle: Networks Cache\nYear:55\nNote:   editor  \nTag:\truntime\nPrice: 427\nAuthor:Grace van Rossum\nAvailable:1\nTag: systems\nTag: stream\n\n# between\n\nAuthor:Alan Wirth\nPrice:0.5\nAuthor:\tLeslie Pike\nTag: theory\nAvailable: maybe\nTitle: Systems Editor Beta\nTag: networks\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

@@ -1,0 +1,31 @@
+Id: 1
+Name: Leslie Turing
+Age: 74.46
+Salary: 30000.50
+Dept: Sales
+City: Cairo
+
+Id: 2
+Name: Frances Knuth
+Age: 116
+Salary: 0.5
+Dept: Research
+Level: 9
+Email: niklaus@example.org
+Email: ada@example.org
+City: Lima
+
+Id: 3
+Name: Margaret Wirth
+Age: 57
+Salary: 407
+Dept: Ops
+Email: ken@example.org
+Email: guido@example.org
+City: Cairo
+
+Id: 4
+Name: Dennis Perlman
+Age: 21
+Dept: Ops
+Email: rob@example.org

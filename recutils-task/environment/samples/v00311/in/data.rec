@@ -1,0 +1,46 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+
+Title: Compilers
+Author: Dennis Pike
+Year: 1979
+Price: 1e3
+Tag: runtime
+Tag:	runtime
+# note about Tag
+Tag:queue
+Available:	1
+
+Title:	Security
+Author:Barbara Ritchie
+Author: Dennis Stroustrup
+Price: 907.62
+Tag: compilers
+Tag:delta
+Tag:	queue
+Available: false
+
+Author:Guido Wirth
+Tag: beta
+Year: 3abc
+Price: .75
+Author:	Niklaus Hopper
+Tag: alpha
+Available: 0
+Title: Security Theory
+Note: gamma security
+
+Title:	Gamma Databases
+Author: Dennis Perlman
+Year:1990
+Price: .75
+Tag: beta
+Tag:	databases
+Tag:	queue
+
+Title: Kernel
+Author: Alan Ritchie
+Year: 1959
+Available: maybe

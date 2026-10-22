@@ -1,0 +1,41 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# note about Id
+Id:1
+Name: Yukihiro Allen
+Age: 04
+Salary: 121000.50
+Dept: Sa\
+les
+Level: 5
+City: Oslo
+
+Id: 2
+Name:	Leslie Perlman
+# note about Age
+Age:	28
+Dept: Support
+Level:1
+City:	Lima
+
+Id: 3
+# note about Name
+Name:Anita Lamport
+Age:	55
+Salary:2700\
+0.50
+Dept: Research
+Level:	7
+Email: radia@example.org
+Email: linus@example.org
+
+Id: 4
+Name: Edsger Allen
+# note about Age
+Age: 27
+Salary:.75
+Dept: Legal
+# note about Email
+Email:grace@example.org

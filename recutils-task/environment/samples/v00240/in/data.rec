@@ -1,0 +1,77 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+
+Id: 1
+Name: John Perlman
+Age:31
+Salary: 116000
+Dept: Research
+Level: 6
+
+
+Id:	2
+Name: Grace Lovelace
+Age: 18
+Salary: .75
+Dept: Sales
+Email: yukihiro@example.org
+
+
+Id: 3
+# note about Name
+Name: Anita Matsumoto
+# note about Age
+Age:	49
+Salary:	45000
+Dept:Eng
+
+
+Id:4
+Name: Grace Stroustrup
+Age:4abc
+Dept: Ops
+Level: 5
+Email: grace@example.org
+Email: yukihiro@example.org
+
+
+Id: 5
+Name:	Radia Dijkstra
+Age: 51
+Salary:	69000.50
+Dept: Eng
+Level:2
+City: Cairo
+
+
+Id:	6
+Name: Rob Ritchie
+Age: 39
+Salary:	148\
+000
+Dept: Eng
+Email: guido@example.org
+
+
+Id:	7
+Name: Rob Thompson
+Age: 58
+Salary: 498
+# note about Dept
+Dept:Support
+Email:	donald@example.org
+Email:	john@example.org
+
+
+# note about Id
+Id:	8
+Name: Margare\
+t Turing
+Age:	60
+Salary:171000
+Dept:	Support
+Level: 1
+Email:	linus@example.org
+Email:linus@example.org

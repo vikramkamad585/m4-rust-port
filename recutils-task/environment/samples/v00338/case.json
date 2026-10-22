@@ -1,0 +1,10 @@
+{
+ "tool": "recinf",
+ "args": [
+  "--names-only",
+  "db.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "recinf"
+}

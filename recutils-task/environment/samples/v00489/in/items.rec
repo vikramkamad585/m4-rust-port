@@ -1,0 +1,24 @@
+# queue stream
+
+
+%rec: Item
+%type: V enum A B C
+
+
+Name:parser
+
+
+Name: parser
+V:20
+
+
+Name: editor
+V:
+
+
+Name:delta
+V:	28
+
+
+Name:kernel
+V:	9

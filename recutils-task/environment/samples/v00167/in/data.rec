@@ -1,0 +1,27 @@
+# queue databases cache
+
+
+%rec: Book
+%type: Year int
+
+
+Title:	Queue
+Author: Grace Lamport
+Year:	1996
+Tag: systems
+Tag: databases
+Available: yes
+
+
+Title:Beta Parser
+Author:Ada Turing
+Price: 1e3
+Tag: theory
+Tag:	stream
+Tag: compilers
+
+
+Title:Security Runtime
+Author:	Anita Dijkstra
+Author:Donald Lamport
+Year: -8

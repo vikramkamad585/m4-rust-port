@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "missing.tmpl"
+ ],
+ "stdin": "a: 1\n",
+ "compare_stderr": true,
+ "group": "diag"
+}

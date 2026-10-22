@@ -1,0 +1,17 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-j",
+  "Writer",
+  "-p",
+  "Writer_Handle,Year",
+  "-e",
+  "Year < 2000",
+  "lib.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "join"
+}

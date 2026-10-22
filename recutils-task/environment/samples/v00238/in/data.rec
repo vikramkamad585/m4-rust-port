@@ -1,0 +1,72 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Title:Kernel Systems Graphics
+Author: Anita\
+ Borg
+Author: Grace Matsumoto
+Year: 77
+
+# between
+
+Price:	-2.5
+Title: Security Editor
+Tag: parser
+Year: 1958
+Author:	Niklaus Liskov
+Available: false
+
+# between
+
+Note: SYSTEMS
+Author: John Torvalds
+Author: Bjarne Matsumoto
+Price:	-2.5
+Tag:	gamma
+Year: 06
+Title:	Cache Parser Security
+Tag:run\
+time
+
+# between
+
+Title: Kernel Systems Compilers
+Author:	Dennis Lovelace
+Year: 1968
+Tag:	alpha
+Tag:theory
+
+# between
+
+Year: 1950
+Available: false
+Author:	John Allen
+Price: 0.5
+Title:	Theory
+
+# between
+
+Title:	Queue
+Author: Guido Thompson
+Year: 2012
+Price:658.30
+Tag:networks
+Tag: networks
+
+# between
+
+Author: Ken Wirth
+Title: Beta
+Note:GRAPHICS
+Year:1977
+
+# between
+
+Title: Systems Graphics
+Tag: networks
+Author:	Bjarne Borg
+Price:1e3
+Year: 62

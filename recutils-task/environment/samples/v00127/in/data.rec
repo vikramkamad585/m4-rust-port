@@ -1,0 +1,62 @@
+%rec: Book
+%type: Year int
+%key: Title
+
+Author: Barbara van Rossum
+Available: 1
+# note about Title
+Title:	Delta Databases Delta
+Author:Yukihiro Hopper
+Year:	2024
+
+Tag:networks
+Year:1965
+Tag:	graphics
+Note: delta parser
++networks gamma
+Available:1
+Author: Leslie Hopper
+Author: John Ritchie
+# note about Title
+Title:	Kernel Alpha Systems
+
+Title:	Beta
+Author: John Matsumoto
+Year: 1988
+Price: .75
+Tag: security
+
+Title: Queue Security Systems
+Author: Ken Ritchie
+Year: 0x6C
+Tag: theory
+Tag:alpha
+Tag: security
+
+Title: Kernel Cache
+Author: John Perlman
+Year:1969
+Price: -2.5
+Tag: gamma
+
+Title:Cache \
+Systems
+Author: Anita Pike
+Year: 1989
+Tag: the\
+ory
+Note: networks
+
+Tag: compilers
+Price: 0.5
+Year:1990
+Author: Grace Pike
+Tag: beta
+Note:editor theory beta
+Title: Delta
+
+Price:	20
+Title:Kernel Delta
+Available: no
+Author:	Grace Hamilton
+Year: 1976

@@ -1,0 +1,43 @@
+Title: Parser Systems
+Author: Yukihiro Knuth
+Tag: parser
+Note: queue\alpha
+
+Title: Stream
+Author: Edsger Lamport
+Author: Edsger Ritchie
+Year:  4
+Price: 130
+
+Title: Compilers Gamma
+Author: Bjarne McCarthy
+Year: 1957
+Price: 346
+Tag: systems
+Tag: compilers
+Available: maybe
+
+Title: Theory Delta
+Tag: kernel
+Available: true
+Year: 1962
+Tag: beta
+Tag: graphics
+Author: Donald Pike
+
+Available: 0
+Note: alpha parser
+Title: Editor
+Year: 1963
+Author: Guido Lovelace
+
+Title: Security Networks Runtime
+Author: Barbara Hopper
+Year: 1967
+Price: 1e3
+Tag: delta
+Tag: networks
+Tag: kernel
+Available: yes
+Note: compilers
++ kernel

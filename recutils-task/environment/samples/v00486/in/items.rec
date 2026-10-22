@@ -1,0 +1,36 @@
+%rec: Item
+%type: V   int  
+
+# between
+
+Name: parser
+V: 6
+
+# between
+
+Name: compilers
+V: -4
+
+# between
+
+Name: systems
+V:0x10
+
+# between
+
+Name:	kernel
+V: 0
+
+# between
+
+Name:	graphics
+
+# between
+
+Name: stream
+V: -3
+
+# between
+
+Name:	kernel
+V: 6

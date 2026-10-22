@@ -1,0 +1,17 @@
+unknown
+
+%rec: Book
+%type: Year int
+%sort: Price
+%key: Title
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Dept Age
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t

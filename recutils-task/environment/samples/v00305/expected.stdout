@@ -1,0 +1,5 @@
+(record 0 (
+(field 0 "%rec" "Staff")
+(field 13 "%type" "Age int")
+(field 28 "%type" "Salary real")
+(field 47 "%type" "Level range 1 9")))

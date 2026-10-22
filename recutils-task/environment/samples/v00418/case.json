@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "- {{Tag[1]}}, {{Note}};"
+ ],
+ "stdin": "Title: Stream Cache Theory\nAuthor: Linus Torvalds\nAuthor:\tBarbara Thompson\nYear:  9\nTag:\tqueue\nTag: systems\nTag:\teditor\n\n\nTitle: Graphics Compilers Gamma\nAuthor:Anita Perlman\nYear: -35\nPrice: .75\nTag: gamma\nTag: runtime\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

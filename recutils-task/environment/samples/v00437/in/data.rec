@@ -1,0 +1,40 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+
+Id:1
+Name:	Niklaus Hamilton
+Age: 43
+Salary:	90000
+Dept: Support
+Email: ken@example.org
+Email: anita@example.org
+
+
+Id:	2
+Name: Radia Turing
+Age: 111
+Salary: 80000
+Dept:	Legal
+Level: 6
+# note about Email
+Email: edsger@example.org
+Email: alan@example.org
+
+
+Id:	3
+Name: Linus Dijkstra
+Age: 23
+Salary: 90000
+Dept:	Research
+Level: 7
+Email: edsger@example.org
+
+
+Id:4
+Name:	Edsger Ritchie
+Age: 30
+Salary: 32000.50
+Dept:Eng
+City:Pune

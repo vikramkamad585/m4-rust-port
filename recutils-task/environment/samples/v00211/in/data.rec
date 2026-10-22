@@ -1,0 +1,31 @@
+%rec: Book
+%type: Year int
+
+
+Title:Kernel Gamma Parser
+Author:	Alan Hamilton
+Year: 2014
+Price: 1e3
+Tag: compilers
+Available:	1
+
+
+Title: Runtime Alp\
+ha Networks
+# note about Author
+Author:Ada H\
+opper
+Year: 2015
+Price:206.72
+Tag:	compilers
+
+
+Tag: systems
+Title: Compilers Compilers
+Tag: theory
+Year: 60
+Price: 86
+Author:	Linus Ritchie
+Available: maybe
+Tag: gamma
+Author: Ada Hopper

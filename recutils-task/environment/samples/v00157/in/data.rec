@@ -1,0 +1,78 @@
+# systems queue
+
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+Author: Barbara Borg
+Available: maybe
+Title: Compilers Parser
+Year:2016
+Tag: alpha
+Tag:kernel
+
+Year: 2014
+Author: Dennis Torvalds
+Title:Databases Beta Compilers
+Available: true
+Price:	0.5
+
+Title: Parser Delta Alpha
+Author: Rob Dijkstra
+Author:Rob Turing
+Year: 1985
+Available: no
+
+Title:Gamma Gamma Delta
+Author: Guido Ritchie
+Year: 1982
+Price: 1e3
+Tag:data\
+bases
+Tag: compilers
+
+Tag: cache
+Year:	1956
+Available: 0
+Tag:alpha
+Author: Linus Hamilton
+Author:	Ken Thompson
+Title: Databases Kernel
+Tag: security
+Price:1e3
+
+Title: Queue Alpha Runtime
+Author: Grace Stroustrup
+Year: 1992
+Available:true
+
+Title:Compilers Security Kernel
+Author:	Edsger \
+McCarthy
+Author: Grace Stroustrup
+Year: 2018
+Price: 0.5
+Tag: secu\
+rity
+Available: no
+
+Price: 118
+Title: Beta Delta
+Available: 1
+Author:Alan Knuth
+Year: 1988
+Author: Alan Turing
+
+Title: Systems
+Author:	Grace Matsumoto
+Year:  4
+Price: -2.5
+Note:runtime cache
+
+Title:	Cache Networks Queue
+Author: Ken Torvalds
+Year: 1963
+Price: 393
+Available:	true
+Note: editor queue security

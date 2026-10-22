@@ -1,0 +1,70 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id: 1
+Name: Yukihiro Borg
+Age:105
+Salary: 872.64
+Dept: Sales
+City: Paris
+
+# networks networks editor cache
+
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id:1
+Name: Grace Allen
+Age:-1
+Salary:341.93
+Dept:	Ops
+City: Berlin
+
+
+Id:	2
+Name:John Matsumoto
+Age: 100
+Salary: 103000
+Dept: Ops
+Level: 6
+Email: bjarne@example.org
+Email: frances@example.org
+City:	Austin
+
+
+Id:	3
+Name: Bjarne Turing
+Salary: 126000
+Dept: Ops
+Level:	1
+City: Tokyo
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Year: 1974
+Title: Compilers Gamma
+Available: 0
+Tag:beta
+Author: Ken Ritchie
+
+# between
+
+Title:	Theory Networks Cache
+Author: Rob Wirth
+Author: Bjarne McCarthy
+Year: 30
+Price:	441

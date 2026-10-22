@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "# gamma networks\n\nId:1\nName:Leslie Knuth\nAge:\t62\nDept: Ops\nCity: Pune\n\nId: 2\nName:\tEdsger Torvalds\nAge: 40\nSalary:\t167000\nDept: Ops\nLevel: 1\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

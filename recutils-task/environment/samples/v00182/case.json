@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-G",
+  "Author",
+  "-p",
+  "Author,AVG(Author),Max(Tag),Sum(Available)",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

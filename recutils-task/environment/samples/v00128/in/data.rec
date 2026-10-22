@@ -1,0 +1,72 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Dept Age
+
+# between
+
+Id: 1
+Name: Ada Hamilton
+Age:	112
+Salary: 117000.50
+Dept:	Eng
+Email: leslie@example.org
+
+# between
+
+Id:	2
+Name:	Margaret\
+ McCarthy
+Age:	32.81
+Dept:Legal
+
+# between
+
+Id: 3
+# note about Name
+Name: Radia Lamport
+Age:  1
+Dept: Legal
+# note about Email
+Email: bjarne@example.org
+
+# between
+
+Id: 4
+Name: Ada Turing
+Age:	18
+Salary:	68000
+Dept: Eng
+Level:4
+Email: dennis@example.org
+Email: linus@example.org
+
+# between
+
+Id: 5
+Name:Dennis Knuth
+Age:	111
+Salary: 184000
+Dept: Sales
+Level: 8
+Email: linus@example.org
+Email:ada@example.org
+
+# between
+
+Id: 6
+Name: Bjarne Pike
+Salary: 1e3
+Dept:Legal
+
+# between
+
+Id:7
+Name:	Ken Allen
+Age: 54
+Salary: 73000.50
+Dept:Legal
+Email:	leslie@example.org
+City: Berlin

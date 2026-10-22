@@ -1,0 +1,71 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id:	1
+Name:	Radia van Rossum
+Age: 26
+Salary:	80000.50
+Dept: Support
+Email:frances@example.org
+Email:	rob@example.org
+
+# between
+
+Id: 2
+Name: Yukihiro Matsumoto
+Age: 67
+Salary: 63000
+Dept: Rese\
+arch
+Email: barbara@example.org
+
+# between
+
+Id: 3
+Name: Donald Torvalds
+Age:56
+Salary:	167000.50
+Dept:	Legal
+City: Berlin
+
+# between
+
+Id: 4
+Name:Ken Knuth
+Age:	52
+Salary:	-2.5
+Dept:Support
+
+# between
+
+Id:5
+Name: Leslie Allen
+Age:	47
+Salary:	122000.50
+Dept: Legal
+
+# between
+
+Id: 6
+Name: Linus McCarthy
+Age: 50
+Salary: 195000
+Dept:Ops
+Level: 4
+# note about Email
+Email:niklaus@example.org
+City: Oslo
+
+# between
+
+Id:7
+Name:	Yukihiro Turing
+Age: 116
+Salary: 109000.50
+Dept: Eng
+Email: radia@example.org
+Email: frances@example.org
+City: Cairo

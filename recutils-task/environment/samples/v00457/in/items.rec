@@ -1,0 +1,18 @@
+%rec: Item
+%type: V line
+
+
+Name:theory
+V: 19
+
+
+Name: graphics
+
+
+Name:theory
+# note about V
+V: 21
+
+
+Name: gamma
+V: 1

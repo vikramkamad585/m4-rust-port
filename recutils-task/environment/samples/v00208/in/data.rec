@@ -1,0 +1,73 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Age
+
+Id: 1
+Name: Guido Hamilton
+Age:59
+Salary: 58000.50
+Dept: Ops
+
+Id:	2
+Name:	Leslie McCarthy
+Salary: .75
+Dept:Eng
+Level:6
+Email: rob@example.org
+
+Id: 3
+Name:	Edsger Allen
+Age:74.22
+Salary:	72000.50
+Dept: Sales
+Email:	bjarne@example.org
+
+Id: 4
+Name: Leslie v\
+an Rossum
+Age: 21
+Salary:72000.50
+Dept: Legal
+Email: dennis@example.org
+
+Id:	5
+Name: Yukihiro Lovelace
+Age: 8abc
+Salary: 106000
+Dept: Support
+City: Berlin
+
+Id: 6
+Name:	Ken Stroustrup
+Age: 42
+Dept:Legal
+Level: 4
+Email:	linus@example.org
+Email:	ken@example.org
+City: Lima
+
+Id:7
+Name: Grace Hamilton
+Salary:	344
+Dept: Legal
+Email: alan@example.org
+Email: yukihiro@example.org
+
+# note about Id
+Id: 8
+# note about Name
+Name:	Niklaus Wirth
+Age: 03
+Salary:	1720\
+00.50
+Dept: Ops
+City: Austin
+
+Id: 9
+Name:	Frances Knuth
+Age: 38
+Salary:64\
+000
+Dept:	Research
+City:	Pune

@@ -1,0 +1,7 @@
+{
+ "tool": "recsel",
+ "args": [],
+ "stdin": "Title: Databases\nAuthor: Margaret Turing\nYear: 51\nTag: runtime\n\nTag: systems\nTitle:Runtime\nTag: beta\nTag: parser\nAvailable: false\nNote: queue security\nAuthor: John Turing\nYear:1989\nAuthor: Margaret Lovelace\n\nYear:\t-42\nTitle: Databases\nAuthor:\tYukihiro Stroustrup\n\nTitle: Databases Alpha Networks\nAuthor: Ada Stroustrup\nYear: 1956\nTag:\tgraphics\nTag: cache\nTag:editor\nAvailable: 0\n",
+ "compare_stderr": false,
+ "group": "parse"
+}

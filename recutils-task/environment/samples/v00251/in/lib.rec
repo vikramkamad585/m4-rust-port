@@ -1,0 +1,46 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title: Alpha Runtime
+Writer: nobody
+Writer: alan
+Year: 1976
+
+Title: Networks Gamma Compilers
+Writer: nobody
+Writer:frances
+Year: 1995
+
+Title: Editor Parser
+Writer: frances
+Year:1987
+
+Title: Beta Alpha Systems
+Year:	1958
+
+Title:	Delta Alpha Databases
+Writer: alan
+Writer:frances
+Year:1993
+
+Title:	Gamma
+Year: 1961
+
+%rec: Author
+%key: Handle
+
+
+Handle:	frances
+Name:	Frances Lamport
+Born:	1968
+
+
+Handle:radia
+Name: Radia Ritchie
+Born:	1968
+
+
+Handle:alan
+Name: Alan Perlman
+Born: 1913

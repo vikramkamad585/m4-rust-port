@@ -1,0 +1,76 @@
+# compilers cache networks
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title
+
+Title:Stream Delta Editor
+Author: Grace Wirth
+Year:1956
+Price: 820.38
+Tag: databases
+Tag: editor
+Available: maybe
+
+Author: Margaret van Rossum
+Price: 390.54
+Note:say "databases"
+Tag:	stream
+Tag:	gamma
+Title: Parser Gamma Editor
+Tag: gamma
+Year: 1961
+
+%rec: Book2
+%type: Year int
+%type: Available bool
+
+
+Title: Editor Delta Kernel
+Author: Frances Hopper
+Author: Frances Thompson
+Year: 1982
+Price: .75
+Tag: graphics
+Tag: gamma
+Tag: systems
+
+
+Title: De\
+lta
+Author:Anita Torvalds
+Year:	1998
+Tag:	editor
+Note:	queue queue beta
+
+
+Author: Margaret Liskov
+Price:	75
+Year: 1953
+Title: Theory Security
+
+%rec: Book2
+%type: Year int
+%sort: Year Title
+
+Title: Kernel Cache Databases
+Author:	Ken Hamilton
+Year: 1985
+Price:187.92
+
+Author: Barbara van Rossum
+Tag:theory
+Tag: kernel
+Title: Systems Graphics Stream
+Tag: kernel
+Available: 1
+Year: 1996
+
+Title:Grap\
+hics
+Author: Guido Lamport
+Author:	Barbara Dijkstra
+Year:1988
+Price: 0.5
+Tag: parser

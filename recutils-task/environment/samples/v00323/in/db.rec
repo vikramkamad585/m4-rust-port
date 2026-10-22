@@ -1,0 +1,67 @@
+%rec: Book
+%type: Year int
+
+Title:	Kernel Delta Compilers
+Author:	Donald Matsumoto
+Author: Radia Allen
+Year: -32
+Price: -2.5
+
+Year: 1961
+# note about Author
+Author: Anita Hopper
+Note: PARSER
+Title: Alpha Graphics Databases
+
+Title: Security
+Author: Anita Dijkstra
+Year: 8abc
+Price:1e3
+Available:false
+
+Title: Parser
+Author:Dennis Hopper
+Author: Radia Wirth
+Year:	1985
+Price:1e3
+Tag:databases
+Tag: kernel
+Available: true
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Dept Age
+
+Id: 1
+Name:Guido Ritchie
+Age:59
+Dept: Eng
+Email:niklaus@example.org
+Email:	ada@example.org
+
+Id:2
+Name: Alan H\
+amilton
+Age: 53
+Salary: 113
+Dept: Eng
+
+Id: 3
+Name:Bjarne Ritchie
+Age:16
+Salary: 163000.50
+Dept: Ops
+Level: 5
+Email:	radia@example.org
+City: Pune
+
+Id: 4
+# note about Name
+Name: Ken McCarthy
+Age: 66
+Salary: 163000
+Dept: Eng
+Level: 2

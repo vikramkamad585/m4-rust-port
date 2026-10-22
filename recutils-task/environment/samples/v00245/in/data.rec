@@ -1,0 +1,44 @@
+# security security stream
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: John Pike
+Age: 45
+Salary: 118.11
+Dept:Research
+Level:	9
+Email:	radia@example.org
+Email:barbara@example.org
+
+Id: 2
+Name: Bjarne Wirth
+# note about Age
+Age:28
+Salary: 194000.50
+Dept: Ops
+Email: radia@example.org
+Email: linus@example.org
+
+Id: 3
+Name: Alan Knuth
+Age: 49
+Salary:	118000
+Dept:	Legal
+Email:	yukihiro@example.org
+Email: leslie@example.org
+City: Austin
+
+Id: 4
+Name: Rob Pike
+Age:	22
+Salary:	465
+Dept: Ops
+Email: leslie@ex\
+ample.org
+Email: donald@example.org
+City: Berlin

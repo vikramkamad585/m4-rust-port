@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Price}} {{Year * 1.5}}\n"
+ ],
+ "stdin": "# stream cache graphics\n\nTitle:\tParser\nAuthor:\tDennis \\\nTorvalds\nAuthor:\tEdsger Dijkstra\nYear:96\nPrice: 468\nNote:\tnetworks\\graphics\n\nTitle: Databases Gamma\nAuthor: Edsger Lovelace\nYear: 55\nTag: networks\nAvailable:true\n\nTitle:Queue\nAuthor:\tDonald Lamport\nYear: 1988\nTag: theory\nAvailable: yes\n\nTitle:Compilers Security Delta\nAuthor:\tGrace Lamport\nYear: 64\nPrice: 1e3\n\n# note about Title\nTitle:\tDelta Be\\\nta Editor\nAuthor:Guido Liskov\nAuthor: John van Rossum\nYear:1991\nTag:\talpha\nTag: systems\nTag: runtime\nAvailable:1\nNote:QUEUE\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

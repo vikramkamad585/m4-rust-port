@@ -1,0 +1,39 @@
+# alpha editor
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+# note about Title
+Title: Graphics
+Author: Bjarne Dijkstra
+Year:	1979
+Price: .75
+Tag:	compilers
+Tag: security
+Tag: editor
+Available: no
+
+# note about Tag
+Tag:gamma
+Author:John Turing
+Tag:	cache
+Author:	Ada Dijkstra
+Year: 54
+Price: -2.5
+Title: Networks Databases
+Tag: stream
+
+Title:Databases Alpha Parser
+Author:Niklaus Ritchie
+Year: 1999
+Price:1e3
+Tag: security
+Available: false
+
+Title: Parser Alpha Parser
+Author:Dennis Wirth
+Year:  8
+Price: -2.5
+Tag:gamma
+Tag: compilers

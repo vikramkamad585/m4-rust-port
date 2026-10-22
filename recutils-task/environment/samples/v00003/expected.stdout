@@ -1,0 +1,66 @@
+Title: Runtime Cache
+Author: Anita Perlman
+Year: 2008
+Price: 329
+Tag: parser
+Tag: queue
+Tag: theory
+
+Title: Systems
+Author: John Borg
+Year: 2006
+Price: 1e3
+Available: false
+
+Title: Graphics Kernel
+Author: Bjarne Borg
+Year: 1962
+Price: 0.5
+Note: compilers
+
+Year: 2017
+Price: 228.64
+Author: Alan Ritchie
+Available: true
+Title: Gamma Databases
+
+Title: Kernel Parser Compilers
+Author: Radia Lovelace
+Author: Niklaus Dijkstra
+Year: 10.60
+Tag: gamma
+
+Title: Parser
+Author: Alan van Rossum
+Year: 2001
+Tag: theory
+Tag: delta
+Available: no
+Note: editor beta
+
+Title: Queue Alpha
+Author: Yukihiro Torvalds
+Author: Ada Turing
+Year: 1978
+Price: 953.93
+Tag: editor
+Tag: security
+Tag: parser
+Available: 0
+Note: databases systems
++ cache queue
+
+Title: Systems
+Author: Alan Hamilton
+Year: 1952
+Price: .75
+Available: false
+
+Title: Systems Graphics Cache
+Author: Donald Torvalds
+Year: 58.38
+Price: 487.02
+Tag: stream
+Tag: beta
+Tag: delta
+Available: maybe

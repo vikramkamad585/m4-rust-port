@@ -1,0 +1,45 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Name
+
+# between
+
+Id:	1
+# note about Name
+Name: Dennis Knuth
+Age:
+Dept: Ops
+# note about Level
+Level:	6
+
+# between
+
+Id:2
+Name: Dennis Thompson
+Age: 104
+Salary: -2.5
+Dept: Eng
+Level: 6
+Email: niklaus@example.org
+# note about Email
+Email: frances@example.org
+
+# between
+
+Id: 3
+Name: Ken Dijkstra
+Age: 25
+Salary: 499
+Dept: Sales
+Level: 2
+City:Pa\
+ris
+
+# between
+
+Id:	4
+Name: Linus Matsumoto
+Age:56
+Dept:Research
+Level:	4

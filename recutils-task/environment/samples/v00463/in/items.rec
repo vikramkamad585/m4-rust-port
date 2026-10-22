@@ -1,0 +1,17 @@
+%rec: Item
+%type: V range MIN MAX
+
+Name:	compilers
+V:27
+
+Name: queue
+V: -0
+
+Name:stream
+V:5
+
+Name: theory
+V: 0x10
+
+Name: gamma
+V:	19

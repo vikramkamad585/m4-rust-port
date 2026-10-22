@@ -1,0 +1,75 @@
+%rec: Book
+%type: Year int
+%key: Title
+
+Title:Kernel Graphics Alpha
+Author: Alan Matsumoto
+Year: 1962
+Price:	.75
+
+Title:Networks
+Author:	Frances Lovelace
+Year: 1952
+Price:0.5
+Tag: runtime
+Tag:	cache
+Tag:	delta
+
+Title: Graphics
+Author: Yukihiro Lovelace
+Year: 2013
+Tag:	stream
+
+Title:	Networks A\
+lpha Theory
+Author: Bjarne Borg
+Year: 2008
+Price:0.5
+Tag:parser
+Tag: compilers
+Note:gamma networks
++ gamma
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id:1
+Name: Donald Perlman
+Age: 33
+Dept:Research
+Level: 5
+Email:yukihiro@example.org
+Email:	dennis@example.org
+
+# between
+
+Id: 2
+Name: John Hamilton
+Age: 52
+Salary: 1e3
+Dept:Legal
+Level: 9
+Email: linus@example.org
+
+# between
+
+Id: 3
+Name:Yukihiro Borg
+Age: 4
+Salary: 45000
+Dept: Eng
+City:Pune
+
+# between
+
+Id:	4
+Name: Grace St\
+roustrup
+Age:  5
+Salary: 487
+Dept: Research
+Level: 7

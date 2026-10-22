@@ -1,0 +1,3 @@
+%rec: Staff
+%type: Age int
+%type: Salary real

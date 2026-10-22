@@ -8,3 +8,9 @@ authoring/refbuild/
 authoring/m4-1.4.19/
 authoring/m4-1.4.19.tar.xz
 authoring/probe.m4
+recutils-task/jobs/
+authoring/recutils-1.9/
+authoring/recutils-1.9.tar.gz
+authoring/rec/out/
+authoring/rec/ref/target/
+authoring/rec/scratch/

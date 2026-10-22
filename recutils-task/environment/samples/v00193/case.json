@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-G",
+  "Tag",
+  "-p",
+  "Tag,count(Note):Result,Sum(Title),Count(Note)",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

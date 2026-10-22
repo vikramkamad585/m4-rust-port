@@ -1,0 +1,39 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+
+Id: 1
+Name: Ken Torvalds
+Age: 46
+Salary:0.5
+Dept: Ops
+
+
+Id:2
+Name:Alan Hopper
+# note about Age
+Age: 25
+Salary: 468\
+.74
+Dept: Eng
+Level:	4
+
+
+Id: 3
+Name: Leslie Pike
+Age: 66
+Salary:113000.50
+Dept: Eng
+Level:	2
+Email: john@example.org
+Email:	grace@example.org
+
+
+Id: 4
+Name: Grace Ritchie
+Age: 52
+Salary:	-2.5
+Dept: Legal
+Level: 1
+Email: john@example.org

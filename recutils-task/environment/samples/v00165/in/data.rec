@@ -1,0 +1,43 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title: Gamma Runtime Kernel
+Author: Ada Matsumoto
+Year:	2002
+Price: -2.5
+Tag: stream
+Tag: beta
+Available: true
+
+Title: Delta Gamma
+Author:Bjarne Torvalds
+Year:-29
+Tag:kernel
+Tag:	systems
+# note about Note
+Note: delta
+
+Title:Beta Cache
+Author:Margaret Matsumoto
+Author: Margaret Liskov
+Year: 2006
+Tag:	editor
+Tag: runtime
+Note:   graphics  
+
+Title:Compilers Parser
+Author: Bjarne van Rossum
+Year:	1964
+Price: 261
+# note about Available
+Available:yes
+
+Title:	Parser
+Author: Ada L\
+iskov
+Author: Linus Stroustrup
+Year: 1973
+Tag: queue
+# note about Tag
+Tag: cache

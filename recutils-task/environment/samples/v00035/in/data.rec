@@ -1,0 +1,51 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+%key: Title
+
+Title: Networks Kernel
+Author: Donald Knuth
+Author: Radia van Rossum
+Year:
+Price: 118
+Tag: systems
+Tag:	systems
+
+Title: Gamma Graphics Security
+Author: Alan Allen
+Author:	Radia Turing
+Year:  1
+Price: .75
+Tag: gamma
+Tag: editor
+Tag: gamma
+
+Tag:	stream
+Title: Queue Parser Security
+Year:2007
+Available: fa\
+lse
+Tag: editor
+Author: Yukihiro Borg
+Price:	94
+
+Tag:systems
+Price: 284.59
+Author: Rob Liskov
+Year: 2018
+Tag:beta
+Title: Gamma Compilers
+
+Title: Databases
+Author: Edsger Lamport
+Year:1968
+Price: 227
+Tag: networks
+Note: say "editor"
+
+Title:Graphics Kernel Theory
+Author: Linus McCarthy
+Author: Niklaus Lamport
+Year: 66
+Price: .75
+Available: no

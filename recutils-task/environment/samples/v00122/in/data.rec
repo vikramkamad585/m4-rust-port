@@ -1,0 +1,30 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Title: Gamma Gamma Parser
+Author: Donald van Rossum
+Year: 38.64
+Price:	-2.5
+Tag: parser
+Tag: systems
+Tag:databases
+Available:	1
+
+
+Year: 2024
+Title: Queue
+Price: 0.5
+Author: Radia Ritchie
+
+
+Title: Delta Graphics Parser
+Author:Ada Matsumoto
+Year: 1993
+Tag:beta
+Tag: beta
+Tag: kernel
+Available:	0
+Note:delta stream
++ gamma

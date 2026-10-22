@@ -1,0 +1,30 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title: Stream Gamma Compilers
+Writer: john
+Writer: anita
+Year:2020
+
+Title:Networks Compilers Networks
+Year: 2009
+
+Title:Beta Databases
+Year:2004
+
+Title:	Systems Runtime
+Writer: anita
+Writer: john
+Year: 1997
+
+%rec: Author
+%key: Handle
+
+Handle:anita
+Name:	Anita Dijkstra
+Born: 1922
+
+Handle: john
+Name:	John Torvalds
+Born: 1974

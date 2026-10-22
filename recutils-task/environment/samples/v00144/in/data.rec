@@ -1,0 +1,87 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+Author: Frances Hamilton
+Note:	graphics systems
+Year:	1983
+Available:	maybe
+Title: Networks Stream Graphics
+Price:	0.5
+
+# note about Title
+Title: Alpha
+Author:Ken Dijkstra
+Author:	Edsger Lamport
+Year:	1965
+Price:	.75
+Tag: gamma
+Tag:gamma
+Tag: queue
+
+Title: Graphics Stream Databases
+Author: Margaret Matsumoto
+Year:1978
+Price: 396
+Tag: stream
+Available: true
+
+Title: Alpha Stream Databases
+Author: Linus McCarthy
+Year: 2022
+Price: -2.5
+Tag: beta
+Tag:beta
+Note:	compilers
++ gamma
+
+Title: Stream
+Author:Ken Matsumoto
+Year:	0x7A
+Price:-2.5
+Tag: compilers
+Tag: alpha
+Tag:parser
+
+Year: 2024
+Available: 0
+Note:alpha systems queue
+Tag:	stream
+Author: Yukihiro Lamport
+# note about Price
+Price:	-2.5
+Title: Beta Stream
+
+Price:	1e3
+Title: Theory Delta Compilers
+Author: Rob Liskov
+Tag: queue
+Tag:databases
+Year:	1984
+Tag: alpha
+
+# note about Title
+Title:	Delta
+Tag: graphics
+Price:	-2.5
+Tag:runtime
+Author:Dennis Hopper
+Year:1975
+Tag:	beta
+
+Note:	parser compilers
+Tag: kernel
+Author: Grace Knuth
+Title:	Parser Networks
+Year: 35
+Tag: kernel
+
+Title: Beta
+Author:Donald Knuth
+# note about Price
+Price: 1e3
+Tag:	cache
+Tag: gamma
+Tag: gamma
+Available:1

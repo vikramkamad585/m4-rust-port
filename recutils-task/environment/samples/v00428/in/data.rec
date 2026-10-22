@@ -1,0 +1,20 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Salary
+
+Id: 1
+Name: Leslie Perlman
+Age:	-34
+Dept: Eng
+
+Id:2
+Name:	Donald Thompson
+Age: 22
+Salary:67000
+Dept: Research
+Level:	3
+Email: margaret@e\
+xample.org
+Email: rob@example.org
+City: Austin

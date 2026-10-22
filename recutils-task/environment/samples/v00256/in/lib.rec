@@ -1,0 +1,45 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+
+Title:	Cache
+Writer: margaret
+Year: 2010
+
+
+Title: Cache
+Writer: grace
+Year:1978
+
+
+Title: Theory
+Year: 1996
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: radia
+Name:	Radia Thompson
+Born:	1948
+
+# between
+
+Handle: an\
+ita
+Name:	Anita Dijkstra
+Born:	1942
+
+# between
+
+Handle:	grace
+Name: Grace Knuth
+Born: 1915
+
+# between
+
+Handle: margaret
+Name: Margaret Pike
+Born: 1973

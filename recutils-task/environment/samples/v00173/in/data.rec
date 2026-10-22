@@ -1,0 +1,72 @@
+%rec: Book
+%type: Year int
+
+Title: Kernel Databases Graphics
+Author: Yukihiro Borg
+Year:	1987
+Price: 795.77
+
+Title: Theory Networks Networks
+Author:	John Thompson
+Year: 1967
+
+Title: Kernel
+Author:	John Hamilton
+Author: Anita Knuth
+Year: 2004
+Price:	-2.5
+Tag: runtime
+Note: security
++ systems security
+
+Title:	Kernel Compilers Theory
+Author:	Radia Lamport
+Author:Barbara Torvalds
+Year: 1986
+Price: 1e3
+Tag: beta
+Tag:cache
+Tag: alpha
+
+Title: Systems Editor Editor
+Author:	Linus Borg
+Tag:	delta
+Note:   graphics  
+
+# note about Title
+Title:Queue Queue
+Author: Yukihiro Torvalds
+Price: 327.68
+
+# note about Title
+Title: Parser Graphics Kernel
+Author: Niklaus Hopper
+Year: 1967
+Price: -2.5
+Tag: cache
+Available:	1
+
+Title: Beta Editor
+# note about Author
+Author:Niklaus \
+Matsumoto
+Year:	1979
+Price:30
+Available:yes
+Note:	systems gamma
++ beta
+
+Author: Ken Pike
+Year:	1955
+Title:Delta Runtime
+Available:	0
+Price: .75
+
+Title:	Gamma Theory Parser
+Author: Guido Perlman
+Year: 52
+Price: 951\
+.59
+Tag: grap\
+hics
+Tag:	theory

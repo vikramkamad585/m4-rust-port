@@ -1,0 +1,18 @@
+(record 83 (
+(field 125 "Dept" "Legal")
+(field 136 "Email" "leslie@example.org")
+(field 162 "Email" "anita@example.org")))
+
+(record 378 (
+(field 425 "Dept" "Sales")))
+
+(record 262 (
+(field 320 "Dept" "Research")
+(field 335 "Email" "leslie@example.org")))
+
+(record 201 (
+(field 249 "Dept" "Sales")))
+
+(record 446 (
+(field 493 "Dept" "Sales")
+(field 505 "Email" "rob@example.org")))

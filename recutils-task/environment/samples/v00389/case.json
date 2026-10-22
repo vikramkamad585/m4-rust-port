@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "# editor editor parser\n\n\nId: 1\nName: Barbara Thompson\nAge:62\nSalary: 164000\nDept: Sa\\\nles\nLevel: 9\nEmail:ken@example.org\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

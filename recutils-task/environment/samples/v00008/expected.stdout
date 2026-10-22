@@ -1,0 +1,49 @@
+Title: Networks Networks
+Author: Donald Ritchie
+Year: 1973
+Price: -2.5
+Tag: beta
+Tag: editor
+Tag: parser
+Title: Theory Networks
+Author: Margaret Allen
+Year: 1960
+Price: -2.5
+Available: true
+Tag: theory
+Title: Databases Systems Parser
+Author: Alan Hopper
+Tag: cache
+Price: 348.42
+Tag: cache
+Year: 1992
+Title: Theory
+Author: Leslie Ritchie
+Author: Dennis Hamilton
+Year: 13
+Tag: editor
+Tag: alpha
+Available: no
+Year: 2015
+Price: 347.69
+Author: Frances Liskov
+Tag: cache
+Tag: queue
+Title: Compilers Queue
+Title: Systems Queue Beta
+Author: John Ritchie
+Year: 1980
+Tag: systems
+Tag: editor
+Available: maybe
+Title: Theory Compilers
+Author: Rob Thompson
+Year: 1998
+Price: 194
+Tag: beta
+Available: 1
+Title: Queue
+Author: Alan Hopper
+Year: 1954
+Price: 719.83
+Available: false

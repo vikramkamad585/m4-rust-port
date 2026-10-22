@@ -1,0 +1,14 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id: 1
+Name:Niklaus Perlman
+Age: 13.91
+Dept: Research
+Level: 7
+Email: ada@example.org
+Email:	niklaus@example.org

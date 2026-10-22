@@ -1,0 +1,80 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# note about Id
+Id: 1
+Name:	Barbara Lamport
+Age:	-48
+Dept:	Sales
+Level: 4
+Email:	linus@example.org
+
+# note about Id
+Id: 2
+Name: Radia van Rossum
+Age:	25
+Salary:4100\
+0.50
+Dept: Research
+Email:grace@example.org
+
+Id: 3
+Name:	Radia Thompson
+Age: 97
+Dept:	Sales
+Email: niklaus@example.org
+
+Id: 4
+Name: Alan Allen
+Age: 59
+Salary:101000.50
+Dept: Sales
+Level:3
+# note about Email
+Email:	margaret@example.org
+City: Berlin
+
+Id: 5
+Name: Frances v\
+an Rossum
+Age: 4abc
+Salary: 167000
+Dept:	Ops
+Email: grace@example.org
+City:	Paris
+
+Id:6
+Name: Edsger Turing
+Age: 1abc
+Salary: 0.5
+Dept:	Sales
+Level: 5
+City: Tokyo
+
+Id:	7
+Name:	Niklaus Stroustrup
+Age:	41
+Salary: 181000.50
+Dept: Eng
+Level: 2
+Email:	rob@example.org
+Email:guido@example.org
+
+Id: 8
+Name: Guido McCarthy
+Salary:	.75
+Dept: Legal
+Email:	linus@example.org
+Email:	donald@example.org
+City: Pune
+
+Id: 9
+Name: Grace Perlman
+Age:
+Salary:	137000.50
+Dept:Ops
+Level:	4
+Email: donald@example.org
+Email: margaret@example.org

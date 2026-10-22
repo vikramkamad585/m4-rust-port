@@ -1,0 +1,23 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name:Leslie Matsumoto
+Salary: 54000
+Dept: Support
+Email: anita@example.org
+Email:niklaus@example.org
+City:Paris
+
+
+Id: 2
+Name:Margaret Liskov
+Age:
+Salary: 136000
+Dept:Eng
+Level: 6
+Email:	yukihiro@example.org

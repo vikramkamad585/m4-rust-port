@@ -1,0 +1,76 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title:Runtime
+Author: Linus Turing
+Year: 1954
+Price: 0.5
+
+Title: Alpha
+Price: 967.71
+Year:  6
+Tag:	cache
+Author:	Dennis Lamport
+Note: systems
+Available:0
+
+Title: Alpha Alpha Editor
+Author:	Barbara Stroustrup
+Year: 1999
+Tag: runtime
+Tag:	compilers
+Tag:runtime
+Note:say "editor"
+
+Title: Databases Networks Security
+Author:	Donald Lovelace
+Author:	Edsger Matsumoto
+Year: 5abc
+Price:14
+# note about Tag
+Tag:	queue
+
+Title: Graphics Cache Editor
+Author: Anita Ritchie
+Year:2022
+
+Title:	Editor Parser Alpha
+Author: Barbara McCarthy
+Year:1963
+Price: .75
+Tag:	alpha
+# note about Tag
+Tag: networks
+# note about Tag
+Tag:	cache
+
+Author:Alan Hopper
+Title: Stream
+Available: yes
+Price: 0.5
+Year:2009
+
+Title: Theory
+Author: Dennis Wirth
+Year: 1963
+Price:267.97
+Tag: stream
+Tag:	systems
+Tag: parser
+
+Tag: queue
+Available:yes
+Year: 2016
+Title:Graphics
+Tag:	security
+Author:	Alan Allen
+Note: say "security"
+Tag: queue
+
+Title: Delta Runtime
+Author:	Barbara McCarthy
+Year: 2022
+Price:	.75
+Tag:databases
+Tag: security

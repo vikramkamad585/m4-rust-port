@@ -1,0 +1,65 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Price
+
+Title: Runtime Compilers Graphics
+Tag: theory
+Price:84\
+.09
+Author: Edsger Matsumoto
+Tag: parser
+Available:	maybe
+Author: Dennis Wirth
+
+Title:Graphics Queue
+Author: Grace Lamport
+Author: Ken Matsumoto
+Price:-2.5
+Tag:	beta
+
+Title: Alpha
+Author:Margaret Ritchie
+Author: Radia Turing
+Year: 3abc
+Tag:runtime
+Tag:	alpha
+Tag: graphics
+
+Author:Ada Perlman
+Title: Gamma Parser Databases
+Year: 76.32
+Author: Leslie Hamilton
+# note about Tag
+Tag: theory
+
+Title: Cache Editor
+Author: Yukihiro Lamport
+Author: Ken Dijkstra
+Year: 2021
+Price: 286
+Tag: runtime
+Tag: queue
+Tag:theory
+# note about Available
+Available: maybe
+
+Tag:	kernel
+Note:   theory  
+Tag: gamma
+Tag: editor
+Year: 1955
+Author:	Radia Torvalds
+Available: true
+Title:	Delta Stream
+Price:-2.5
+
+Year:	2abc
+Tag: gamma
+Available:no
+Price: 865\
+.41
+Author: Radia Hamilton
+Author: Margaret Borg
+Title:	Security Systems
+Tag:theory

@@ -1,0 +1,7 @@
+(record 93 (
+(field 93 "Title" "Networks")
+(field 108 "Author" "Linus Hamilton")
+(field 133 "Tag" "compilers")
+(field 148 "Tag" "graphics")
+(field 162 "Tag" "editor")
+(field 174 "Available" "yes")))

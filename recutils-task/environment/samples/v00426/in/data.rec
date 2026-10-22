@@ -1,0 +1,9 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title
+
+Title: Runtime Queue Gamma
+Author:Guido Liskov
+Year: 1998
+Price:.75

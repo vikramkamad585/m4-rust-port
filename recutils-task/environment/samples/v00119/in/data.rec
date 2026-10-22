@@ -1,0 +1,79 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name:Linus Thompson
+Age:
+Salary: 171000.50
+Dept:Ops
+City: Lima
+
+Id: 2
+Name:John Ritchie
+Age:  4
+Dept: Support
+Email: radia@example.org
+City: Tokyo
+
+Id: 3
+Name:	Radia van Rossum
+Age: 5
+Salary: 134000
+Dept: Sales
+
+Id: 4
+Name: Radia van Rossum
+Age: 41
+Salary: .75
+Dept: Sales
+Level: 3
+
+Id:5
+Name: Ada Hopper
+Salary:	189000.50
+Dept: Eng
+Level: 5
+Email:	niklaus@e\
+xample.org
+Email:	leslie@example.org
+
+Id: 6
+Name: Barbara Lovelace
+Age: 64
+Salary: 1e3
+# note about Dept
+Dept: Ops
+Level: 3
+
+Id: 7
+Name: Rob Ritchie
+Age:0x8C
+Salary:	96000
+# note about Dept
+Dept: Support
+Level:1
+Email:	john@example.org
+Email:	edsger@example.org
+
+Id:8
+Name: Bjarne McCarthy
+Age: 47
+Dept: Sup\
+port
+# note about Email
+Email:	rob@example.org
+Email: frances@e\
+xample.org
+
+Id: 9
+Name: Radia Dijkstra
+Age:	62
+Salary:	61000
+Dept:Ops
+Email: radia@example.org
+Email:margaret@example.org
+City:	Cairo

@@ -1,0 +1,50 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title
+
+
+Title: Editor
+Author:	Leslie Matsumoto
+Author: Bjarne Lovelace
+Year:	1991
+Price:-2.5
+Tag: queue
+Tag: graphics
+Available:no
+Note:	stream theory
+
+
+Title: Kernel Graphics
+Author: Edsger Ritchie
+Author:	Linus Hamilton
+Year: 3abc
+Price: -2.5
+
+
+Title: Graphics
+Author:Alan van Rossum
+Author: Barbara Wirth
+Year:1964
+Price: 251
+
+
+Title:Security
+Author: Niklaus Torvalds
+Year:	1971
+# note about Available
+Available:	true
+
+
+Author: Margaret Borg
+Year: 1982
+Title: Queue Compilers Parser
+Tag: theory
+Price: 37
+Tag:	delta
+
+
+Title:Queue De\
+lta Delta
+Author: Ken Torvalds
+Price: 1e3

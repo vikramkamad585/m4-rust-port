@@ -1,0 +1,28 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Title
+
+Price: 907.88
+Tag: beta
+Year:  8
+Author: Dennis Lovelace
+Available: maybe
+Title: Gamma Delta
+
+Title:Parser
+Author:Anita Torvalds
+Year: 2017
+Tag: editor
+Tag:	security
+Tag:	runtime
+
+Title: Theory Security Theory
+Author: Ada Turing
+Year:	1995
+Price:967.21
+Tag: delta
+Tag: theory
+Tag: security
+Available: yes

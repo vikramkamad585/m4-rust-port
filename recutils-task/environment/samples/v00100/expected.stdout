@@ -1,0 +1,50 @@
+Title: Alpha Security Alpha
+Author: Guido Hopper
+Price: -2.5
+Tag: databases
+
+Available: 0
+Tag: alpha
+Tag: beta
+Year: 2006
+Price: 0.5
+Title: Graphics Runtime Cache
+Tag: security
+Author: Edsger van Rossum
+
+Title: Beta
+Author: Bjarne Ritchie
+Year: 2020
+Price: 0.5
+Tag: gamma
+
+Title: Kernel Parser
+Author: Dennis Ritchie
+Author: Ada Stroustrup
+Year: 88
+Tag: stream
+Tag: databases
+Available: 0
+
+Title: Delta Systems
+Author: Bjarne Wirth
+Year: 1975
+Price: .75
+Tag: beta
+Tag: systems
+
+Price: 492
+Author: Leslie Thompson
+Note: DATABASES
+Title: Networks Security
+Year: 2019
+Available: 1
+
+Tag: alpha
+Author: Ken Dijkstra
+Tag: alpha
+Author: Edsger Allen
+Note:   security  
+Year:  1
+Title: Delta Parser
+Tag: security

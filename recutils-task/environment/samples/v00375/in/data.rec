@@ -1,0 +1,28 @@
+# networks graphics
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id: 1
+Name:	Margaret Dijkstra
+Age: 19
+Salary: 20000
+Dept: Research
+Email: john@example.org
+Email: rob@example.org
+
+# between
+
+Id:2
+Name: Niklaus Torvalds
+Age: 01
+Salary: .75
+Dept: Research
+Level: 3
+Email:	yukihiro@example.org
+Email:guido@example.org

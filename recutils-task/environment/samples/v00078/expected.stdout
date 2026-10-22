@@ -1,0 +1,43 @@
+Title: Alpha
+Author: Grace Matsumoto
+Year: 2abc
+Price: -2.5
+Available: 0
+
+Title: Networks Databases Cache
+Author: Rob Dijkstra
+Year: 32.43
+Price: 643.85
+Tag: runtime
+Tag: alpha
+
+Title: Queue Parser
+Author: Yukihiro Wirth
+Year: 2023
+Price: -2.5
+Tag: queue
+Tag: editor
+
+Title: Graphics Graphics
+Author: Guido Liskov
+Year: 2023
+Price: 1e3
+Note:   editor  
+
+Title: Queue Compilers Systems
+Author: Edsger Turing
+Year: 1984
+Price: 58
+Tag: beta
+
+Title: Compilers
+Author: Bjarne Ritchie
+Year: 1960
+Tag: systems
+Note: BETA
+
+Title: Alpha Gamma Theory
+Author: Frances Hopper
+Author: Grace Hopper
+Year: 50
+Available: 1

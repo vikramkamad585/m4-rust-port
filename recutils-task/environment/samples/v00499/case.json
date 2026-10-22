@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Name ~ 'x'}}{{Age / 0}}"
+ ],
+ "stdin": "Name: x\nAge: 3\n",
+ "compare_stderr": true,
+ "group": "diag"
+}

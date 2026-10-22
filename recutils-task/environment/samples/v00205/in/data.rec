@@ -1,0 +1,73 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%key: Title
+
+# between
+
+Title: Kernel Security
+Author:	Margaret Borg
+Year:2017
+Price:	-2.5
+Tag:	graphics
+Available:	true
+Note: say "queue"
+
+# between
+
+Title:	Delta
+Author:John Wirth
+Year:0x20
+Price:842.12
+Tag:	security
+Tag: compilers
+Available: true
+
+# between
+
+Title: Networks
+Author: Dennis Liskov
+Year:1978
+Price: .75
+Tag: security
+Tag: runtime
+Tag: stream
+
+# between
+
+Title:Graphics Networks Gamma
+Author:Linus Liskov
+Author: Margaret Lamport
+Year: 8abc
+Price: 222
+Note: runtime editor stream
+
+# between
+
+Title:	Graphics
+Author:	Rob Lovelace
+Year: 1957
+Price:	1e3
+Tag:	databases
+Tag: beta
+Tag:networks
+Available: no
+
+# between
+
+Title:	Kernel\
+ Theory
+Author: Margaret Dijkstra
+Author: Donald Pike
+Price:	92.36
+Tag: queue
+Available:	1
+
+# between
+
+Title: Alpha Delta Compilers
+Author:	Linus Perlman
+Year: 1973
+Price: .75
+Note: say "stream"

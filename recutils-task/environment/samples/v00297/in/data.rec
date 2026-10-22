@@ -1,0 +1,41 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id: 1
+Name: Frances Turing
+Age: 2abc
+Salary: 184000.50
+Dept: Support
+City:Tokyo
+
+
+Id: 2
+Name: Alan Matsumoto
+Age: 49
+Salary:103000.50
+Dept: Research
+Level: 3
+Email: yukihiro@example.org
+City: Paris
+
+
+Id: 3
+Name: Yukihiro Perlman
+Age: 57
+Salary: 80000.50
+Dept: Eng
+Level: 2
+Email: john@example.org
+City: Berlin
+
+
+Id:4
+Name: Ken Allen
+Age:	90.80
+Salary: 115000
+Dept: Sales
+Level:	1
+Email: yukihiro@example.org

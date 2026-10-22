@@ -1,0 +1,52 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Salary
+
+Id:	1
+Name:	Frances Lovelace
+Age: 4
+Salary: .75
+Dept:Sales
+Level: 8
+
+Id: 2
+Name: Yukihiro Thompson
+Salary: 301
+Dept: Ops
+Level: 9
+# note about Email
+Email: bjarne@example.org
+Email: yukihiro@e\
+xample.org
+City:	Tokyo
+
+Id: 3
+Name: Donald Perlman
+Age:43
+Dept:	Eng
+Email: john@example.org
+
+Id: 4
+Name:	Frances Lovelace
+Age:57
+Salary: .75
+Dept:Sales
+Level:5
+Email:bjarne@example.org
+
+Id:5
+Name:	Anita Torvalds
+Dept: Research
+Level:	2
+Email: grace@example.org
+Email: ken@example.org
+City:Berlin
+
+Id: 6
+Name: Leslie Wirth
+Age: 35
+Salary:185000.50
+Dept:	Research
+Email: guido@example.org
+Email: ada@example.org

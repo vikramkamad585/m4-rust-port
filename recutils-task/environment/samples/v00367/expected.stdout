@@ -1,0 +1,7 @@
+"Id"|"Name"|"Dept"|"Level"|"Email"|"Email_2"|"Age"|"Salary"|"City"
+"1"|"Margaret Knuth"|"Legal"|"2"|"bjarne@example.org"|"anita@example.org"|||
+"2"|"Margaret Ritchie"|"Ops"||"leslie@example.org"||"22"|"98000"|"Paris"
+"3"|"Yukihiro McCarthy"|"Legal"||"yukihiro@example.org"|"john@example.org"|"13.70"|"83000.50"|"Lima"
+"4"|"Anita Dijkstra"|"Eng"|"8"|"yukihiro@example.org"|||"36000"|
+"5"|"Rob Liskov"|"Sales"|"8"|||"51"||
+"6"|"Radia Stroustrup"|"Legal"|"4"|||"26"|"-2.5"|

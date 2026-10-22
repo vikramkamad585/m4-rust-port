@@ -1,0 +1,54 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name: Leslie Allen
+Age:	-30
+# note about Salary
+Salary: 189000
+Dept:Eng
+Email:	donald@example.org
+Email:	bjarne@example.org
+
+Id:	2
+Name:Bjarne Hamilton
+Age: 23
+Salary: -2.5
+Dept:	Le\
+gal
+
+# security gamma graphics security
+
+%rec: Book2
+%type: Year int
+%type: Price real
+
+Title:	Stream Stream
+Tag:queue
+Note: beta systems
++ runtime
+Author:Linus Knuth
+Year:1972
+Tag:stream
+Tag: theory
+Price: 69
+Author: Anita Hamilton
+
+Title: Alpha Compilers
+Author: Alan Wirth
+Year: 36
+Tag:security
+Tag: databases
+Available: yes
+
+Title:	Beta Security Security
+Author:	Donald Pike
+# note about Year
+Year: 2021
+Note: RUNTIME

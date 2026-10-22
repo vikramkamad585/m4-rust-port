@@ -1,0 +1,64 @@
+# parser editor graphics databases
+
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Dept Age
+
+
+Id:1
+Name: Barbara Knuth
+Age: 0
+Salary: 94000
+Dept: Legal
+Email: niklaus@e\
+xample.org
+Email:margaret@example.org
+
+
+Id:2
+Name: Barbara McCarthy
+Salary: 1e3
+Dept: Support
+City: Cairo
+
+
+Id: 3
+Name:	Edsger Borg
+Salary: 45000
+Dept: Sales
+Email: john@example.org
+Email:	grace@example.org
+
+
+Id:4
+Name: Alan Wirth
+Age: 70
+Salary: 133000
+Dept: Ops
+Level:3
+
+
+Id:	5
+Name:Donald \
+Ritchie
+Age: 22
+Salary: 1e3
+Dept:Eng
+Email: donald@example.org
+Email: alan@example.org
+City:Tokyo
+
+
+Id:6
+Name:	Ada Knuth
+Age: 67
+# note about Salary
+Salary:	59
+Dept: Ops
+Level: 2
+Email:	yukihiro@example.org

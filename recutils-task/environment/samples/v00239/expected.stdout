@@ -1,0 +1,22 @@
+Id: 3
+Name: Radia Thompson
+Age: 97
+Dept: Sales
+Email: niklaus@example.org
+
+Id: 6
+Name: Edsger Turing
+Age: 1abc
+Salary: 0.5
+Dept: Sales
+Level: 5
+City: Tokyo
+
+Id: 7
+Name: Niklaus Stroustrup
+Age: 41
+Salary: 181000.50
+Dept: Eng
+Level: 2
+Email: rob@example.org
+Email: guido@example.org

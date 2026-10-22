@@ -1,0 +1,16 @@
+# compilers databases
+
+%rec: Book
+%type: Year int
+%sort: Price
+
+Title: Alpha Parser
+Author:	Donald Stroustrup
+Author: Linus Lovelace
+Year:2002
+Price: .75
+# note about Tag
+Tag:editor
+# note about Tag
+Tag:	networks
+Tag: delta

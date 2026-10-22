@@ -1,0 +1,40 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title: Editor Networks
+Writer: nobody
+Writer:	nobody
+Year: 1963
+
+Title: Kernel
+Writer: radia
+Year: 1965
+
+Title: Stream Runtime
+Writer: nobody
+Year:	1980
+
+Title: Networks
+Writer: radia
+Writer: radia
+Year: 2014
+
+Title: Compilers
+Year: 1983
+
+Title:	Queue Databases
+Writer:radia
+Writer:	leslie
+Year: 1963
+
+%rec: Author
+%key: Handle
+
+Handle: radia
+Name: Radia McCarthy
+Born: 1990
+
+Handle: leslie
+Name:	Leslie Turing
+Born:1914

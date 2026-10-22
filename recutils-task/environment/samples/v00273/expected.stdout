@@ -1,0 +1,13 @@
+%rec: Book_Writer
+
+Title: Databases
+Year: 1997
+Writer_Handle: guido
+Writer_Name: Guido Lovelace
+Writer_Born: 1990
+
+Title: Editor
+Year: 1958
+Writer_Handle: guido
+Writer_Name: Guido Lovelace
+Writer_Born: 1990

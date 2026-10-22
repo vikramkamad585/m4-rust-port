@@ -1,0 +1,59 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id:1
+Name:Grace \
+Perlman
+Age:	86
+Salary: -2.5
+Dept: Support
+Email:margaret@example.org
+Email:leslie@example.org
+City: Lima
+
+# between
+
+Id:	2
+Name: Grace Thompson
+Age: 117
+Salary:34000
+Dept: Legal
+City: Berlin
+
+# between
+
+Id: 3
+Name: Yukihiro Pike
+Age: 99
+Salary: 89000
+Dept:Eng
+# note about Level
+Level: 6
+Email:	donald@example.org
+Email:yukihiro@example.org
+City:	Cairo
+
+# between
+
+Id: 4
+Name:Guido Turing
+Age: 61
+Salary:	68000
+Dept:	Eng
+
+# between
+
+Id:	5
+Name:Frances Stroustrup
+Age: 28
+# note about Salary
+Salary:	1e3
+Dept:Support
+Level:8
+Email: linus@example.org
+Email: linus@example.org

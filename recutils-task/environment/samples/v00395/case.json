@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Year * 1.5}} | {{Author}} | {{#Author}} | {{Available}}\n\n"
+ ],
+ "stdin": "# note about Title\nTitle:\tDelta Gamma Systems\nAuthor:Anita Stroustrup\nAvailable:\t1\nYear:39\nTag:queue\nNote: stream\n+ runtime databases\nAuthor: Frances Pike\n\n\nTitle:Networks Alpha Security\nYear: 10\nPrice:\t.75\nTag:databases\nTag:\teditor\nAuthor: Ada Stroustrup\nTag:\tgamma\nAuthor: Rob Pike\n\n\nTitle:Queue\nAuthor: Rob Knuth\nYear:2014\nAvailable: yes\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

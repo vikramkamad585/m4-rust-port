@@ -1,0 +1,30 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Name
+
+Id:	1
+Name:	Anita\
+ Borg
+Salary: 70000
+Dept: Support
+Level:	5
+City: Paris
+
+Id: 2
+Name:Bjarne Allen
+Age: 35
+Salary: 84000
+Dept:	Eng
+Email:	donald@example.org
+Email:anita@example.org
+
+Id: 3
+Name:	Barbara Hopper
+Age: 38
+Salary:	.75
+Dept:	Eng
+Level: 7
+Email: frances@example.org
+Email: leslie@example.org
+City: Lima

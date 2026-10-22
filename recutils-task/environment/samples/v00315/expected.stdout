@@ -1,0 +1,5 @@
+(record 39 (
+(field 39 "%rec" "Book")
+(field 50 "%type" "Year int")
+(field 66 "%type" "Available bool")
+(field 88 "%sort" "Year Title")))

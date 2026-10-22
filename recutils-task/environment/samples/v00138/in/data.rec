@@ -1,0 +1,64 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Dept Age
+
+
+Id:1
+Name:	Frances Wirth
+Age: -34
+Salary: 77000
+Dept: Research
+Level: 2
+Email:	edsger@example.org
+Email:	guido@example.org
+City: To\
+kyo
+
+
+Id: 2
+Name:	Rob Turing
+Age:5abc
+Salary: 77000
+Dept:Research
+Level: 5
+
+
+Id:	3
+Name: Bjarne Torvalds
+Age:	79
+Salary:	46000.50
+Dept: Eng
+Level: 5
+Email: margaret@example.org
+City:Austin
+
+
+Id:	4
+Name: Niklaus McCarthy
+Age: 54
+Salary: 193000
+Dept:Ops
+Email:	leslie@example.org
+Email: guido@example.org
+City: Lima
+
+
+Id: 5
+Name: Dennis Liskov
+Age: 84
+Salary: 458
+Dept: Research
+Level:	5
+Email:rob@example.org
+City: Oslo
+
+
+Id:6
+Name:Ada Dijkstra
+Age: 67
+Dept:	Support
+Level: 3
+Email: rob@example.org

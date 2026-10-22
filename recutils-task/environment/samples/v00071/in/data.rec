@@ -1,0 +1,53 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id: 1
+Name:	John L\
+amport
+Age:29
+Salary: -2.5
+Dept: Research
+Email: linus@example.org
+Email: edsger@example.org
+City: Austin
+
+Id: 2
+Name: Margaret Thompson
+Age: 88
+Salary:	32000.50
+Dept: Sales
+Email:	john@example.org
+Email:	john@example.org
+City:	Tokyo
+
+Id:3
+Name: Grace Matsumoto
+Age: 109
+Dept:	Research
+Level: 7
+Email:radia@example.org
+Email:margaret@example.org
+
+Id:4
+Name: Margaret Borg
+Age:04
+Dept: Ops
+Email: edsger@example.org
+Email:dennis@example.org
+
+Id: 5
+Name: John Knuth
+Age: 58
+# note about Salary
+Salary: -2.5
+Dept:Ops
+Level: 8
+Email:leslie@example.org
+Email: rob@example.org
+
+Id: 6
+Name: Alan van Rossum
+Age: 37
+Salary: 49000
+Dept: Sales

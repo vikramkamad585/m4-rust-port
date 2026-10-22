@@ -1,0 +1,29 @@
+# editor security beta
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id: 1
+Name:Guido Hamilton
+Age: 64
+# note about Salary
+Salary: 90000.50
+Dept:Eng
+Level:	9
+Email: linus@example.org
+City:Tokyo
+
+# between
+
+Id: 2
+Name: Edsger Perlman
+Age: 10
+Salary: 107000.50
+Dept: Support
+Level:6
+Email: guido@example.org

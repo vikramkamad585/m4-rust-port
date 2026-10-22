@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-p",
+  "AVG(City):N,count(City),Max(City):N",
+  "-e",
+  "(Age >= 36) && (Email ~ 'e.*a')",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

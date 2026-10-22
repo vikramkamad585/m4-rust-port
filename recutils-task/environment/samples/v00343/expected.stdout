@@ -1,0 +1,15 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+%rec: Book
+%type: Year int
+%type: Price real

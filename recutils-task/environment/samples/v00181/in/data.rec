@@ -1,0 +1,119 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id: 1
+Name: Guido Lamport
+Age: 
+Salary:38000.50
+Dept: Research
+Email: guido@example.org
+Email: linus@ex\
+ample.org
+City: Austin
+
+# between
+
+Id: 2
+Name:Leslie Liskov
+Age:26
+Salary: 35000.50
+# note about Dept
+Dept: Sales
+Level:	5
+
+# between
+
+Id: 3
+Name:Bjarne Borg
+Age: 21
+Salary: 28000
+Dept: Research
+Level:9
+Email: alan@example.org
+City: Lima
+
+# between
+
+Id:4
+Name: Radia Knuth
+Age:	02
+Salary: 85000.50
+Dept: Research
+Email:frances@example.org
+Email:	frances@example.org
+
+# between
+
+Id: 5
+Name: Dennis Hamilton
+Age:	63
+Salary: 26000
+Dept: Ops
+Email: barbara@example.org
+City: Berlin
+
+# between
+
+Id: 6
+Name: Guido Hopper
+Salary:254
+Dept: Sales
+Email: john@example.org
+Email: guido@example.org
+City: Pune
+
+# between
+
+Id: 7
+Name: John Lamport
+Age: 
+Dept:Eng
+
+# between
+
+Id: 8
+Name: Radia Ritchie
+Age: 45.0
+Salary:53000
+Dept: Ops
+Level: 2
+Email: anita@example.org
+
+# between
+
+Id: 9
+Name: Anita Matsumoto
+Age: 73.0
+# note about Salary
+Salary: 91000.50
+Dept: Research
+Level: 2
+Email: ada@example.org
+
+# between
+
+Id: 10
+Name: Ken Lamport
+Age:28
+Dept:	Eng
+Level:7
+
+# between
+
+Id:11
+Name: John Dijkstra
+Age: 112
+Dept: Ops
+Level:3
+Email:bjarne@example.org
+
+# between
+
+Id: 12
+Name: Yukihiro Thompson
+Age:64
+Salary: 199000
+Dept: Sales

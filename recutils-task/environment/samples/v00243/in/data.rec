@@ -1,0 +1,52 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+
+Title: Delta
+Author: Donald Turing
+Author:Linus Dijkstra
+# note about Year
+Year:2022
+Price: .75
+Note:	gamma\graphics
+
+
+Title: Cache Beta Graphics
+Author: Niklaus Wirth
+Year: 5abc
+
+
+Title:	Theory Stream
+Author:Margaret Dijkstra
+Author:	Leslie Pike
+Year: 1980
+Price: 1e3
+Tag: editor
+Tag:kernel
+Tag: parser
+Available: true
+
+
+Title:	Kernel Kernel
+Author:	Anita L\
+ovelace
+Tag: delta
+Tag: stream
+Tag:databases
+Available: false
+
+
+Title:Security
+Author: Ada Dijkstra
+Year: 2011
+Price: -2.5
+Tag:editor
+Tag: editor
+
+
+Title: Gamma
+Author: Ada Ritchie
+Year:1980
+Note:   runtime  

@@ -1,0 +1,34 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id: 1
+Name: Grace McCarthy
+Age: 34
+Salary: .75
+Dept:Eng
+Level: 6
+Email: rob@example.org
+
+
+Id: 2
+Name: John Torvalds
+Age: 30
+Salary:	-2.5
+Dept: Support
+# note about Level
+Level: 1
+Email:leslie@example.org
+Email: john@example.org
+
+
+Id:3
+Name:Leslie Wirth
+Age: 58
+Salary: 482.42
+Dept: Legal
+Level: 2
+Email:donald@example.org
+Email: margaret@example.org

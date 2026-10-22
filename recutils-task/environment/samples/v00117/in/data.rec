@@ -1,0 +1,22 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:1
+Name:	Yukihiro Lovelace
+Age: 33
+Salary: 60000.50
+Dept:Sales
+Level: 4
+
+Id: 2
+Name: Leslie Torvalds
+Age: 70
+Salary: 5500\
+0.50
+Dept:	Sales
+Level: 1
+Email:donald@example.org

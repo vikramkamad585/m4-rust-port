@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Level / 8}} {{Salary * 4}};"
+ ],
+ "stdin": "Id:1\nName: Dennis Turing\nAge: 36\nDept: Legal\nEmail:\trob@exa\\\nmple.org\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

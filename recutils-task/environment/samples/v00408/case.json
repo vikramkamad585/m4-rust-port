@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "- {{Price / 7}} {{Available[1]}}\n"
+ ],
+ "stdin": "# note about Title\nTitle:\tDatabases Databases Delta\nAuthor:\tBjarne Allen\nAuthor:\tBjarne McCarthy\nYear: 1995\nTag:cache\nTag: cache\nAvailable: 1\n\nTitle: Kernel\n# note about Author\nAuthor:\tRadia van Rossum\nYear: 1987\nPrice:0.5\nTag: alpha\nTag: theory\nTag:\tgamma\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

@@ -1,0 +1,66 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name:	Leslie Ritchie
+# note about Age
+Age: 69
+Salary: 107000.50
+Dept:	Legal
+Level: 7
+City: Oslo
+
+
+Id: 2
+Name:John Perlman
+Age: 24
+Salary:	168000.50
+Dept: Support
+
+
+Id: 3
+Name: Edsger Ritchie
+Age:108
+Salary:	27.29
+Dept:Ops
+Level:	2
+City: To\
+kyo
+
+
+Id:4
+Name: John Stroustrup
+Age: 8.91
+Salary: 161000.50
+Dept: Support
+Level: 1
+City:Berlin
+
+
+Id: 5
+Name:Leslie Hamilton
+Age:	48
+Salary:-2.5
+Dept: Ops
+Email: edsger@example.org
+
+
+Id:	6
+Name: Grace Liskov
+Age: 03
+Salary: 1e3
+Dept: Research
+Level:	9
+
+
+Id: 7
+Name:Yukihiro Matsumoto
+Age: 54
+Salary: 95000.50
+Dept: Support
+Level: 6
+City:Austin

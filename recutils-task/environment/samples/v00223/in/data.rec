@@ -1,0 +1,48 @@
+%rec: Book
+%type: Year int
+%sort: Year
+%key: Title
+
+
+Title: Gamma N\
+etworks
+Author: Dennis McCarthy
+Year: 1961
+Price: -2.5
+Tag: delta
+Tag:security
+Tag:	systems
+
+
+Title:Beta
+Author:Niklaus Perlman
+Year: 1978
+Price:	260
+
+
+Title:	Networks Editor
+Author:Ada Hopper
+Year:	1966
+Tag: databases
+Tag: gamma
+Tag: secu\
+rity
+Note: gamma queue
+
+
+Title: Queue
+Author: Bjarne Torvalds
+Author: Frances Dijkstra
+Year:	4.38
+Tag: editor
+Tag: databases
+Tag:	queue
+Note: compilers
+
+
+Title:Compilers
+Author:	Linus Turing
+Year:	1974
+Price: 708.06
+Tag:	databases
+Available: no

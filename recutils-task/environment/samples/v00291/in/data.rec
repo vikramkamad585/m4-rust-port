@@ -1,0 +1,29 @@
+# databases editor
+
+
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+
+Title:Delta Graphics
+# note about Author
+Author: Yukihiro Thompson
+Author: Linus Wirth
+Year: 1953
+Price: 764.02
+
+
+Title: Theory Stream Networks
+Author: Yukihiro Pike
+Tag: graphics
+
+
+Price:462.49
+# note about Author
+Author:	Leslie Knuth
+Available:yes
+Year: -3
+Note: stream databases
+Title:	Cache Editor Runtime

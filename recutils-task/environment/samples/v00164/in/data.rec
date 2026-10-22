@@ -1,0 +1,36 @@
+%rec: Book
+%type: Year int
+%sort: Year Title
+
+
+Title: Editor Systems
+Available:1
+Year:115
+Tag:	databases
+Note: editor security networks
+Tag: cache
+Author:Bjarne van Rossum
+
+
+Title: Editor\
+ Alpha
+Author: Alan Perlman
+Year: 91
+Tag: queue
+Tag:graphics
+Tag: theory
+Available:no
+
+
+Title: Grap\
+hics
+Author:Grace Pike
+Author: Alan Knuth
+Year:  5
+Price: 18\
+.27
+Tag: ga\
+mma
+Tag: alpha
+Tag: networks
+Note:delta graphics graphics

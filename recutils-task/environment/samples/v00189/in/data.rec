@@ -1,0 +1,83 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Author:Frances McCarthy
+Title:Graphics
+Year: 1965
+
+Title:Alpha Delta
+Author:France\
+s Knuth
+Year:	1970
+Price: 0.5
+Tag: compilers
+Tag:qu\
+eue
+Tag: systems
+
+Price:-2.5
+Author:Bjarn\
+e Pike
+Year: 113
+Author:Edsger Knuth
+Tag:	alpha
+Title: Alpha
+
+Tag:kernel
+Note: beta parser queue
+Tag:	theory
+Available:true
+Author:	Ken Allen
+Price: 155.21
+Title:	Theory Runtime Gamma
+
+Title:	Beta Beta Delta
+Author:Niklaus Borg
+Year:5.42
+Price: 310
+Tag: databases
+Tag: alpha
+Note: compilers runtime systems
+
+Available:1
+Author: Donald Lovelace
+Price:	-2.5
+Year: 0x6D
+Title: Compilers Graphics Compilers
+
+Tag: stream
+Title: Sys\
+tems
+Tag:compilers
+Price: 288
+Available: 0
+Year: 1974
+Author:Rob Allen
+
+Price:	0.5
+Year:1954
+Author: Linus Stroustrup
+Tag:alpha
+Title: Compilers Graphics Kernel
+
+Title: Databases Networks Stream
+Author: Dennis Ritchie
+Author:	Dennis Pike
+Price:	0.5
+# note about Tag
+Tag: kernel
+Available:false
+
+Title:	Comp\
+ilers
+Author:	Leslie Wirth
+Tag: cache
+Tag:	networks
+Tag:	kernel
+
+Title:	Runtime
+Author: Radia Borg
+Year: 1964
+Price:	418
+Tag:	runtime

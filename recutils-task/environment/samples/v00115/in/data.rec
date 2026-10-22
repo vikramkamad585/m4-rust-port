@@ -1,0 +1,42 @@
+# databases systems cache runtime
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Level
+
+Id: 1
+Name: John Torvalds
+Age:	4abc
+Salary: 104000.50
+Dept:Research
+# note about Level
+Level:	5
+Email:dennis@example.org
+Email: dennis@example.org
+
+Id:2
+Name:Rob Wirth
+Age: 0xA7
+Salary:142000
+Dept: Eng
+Level: 6
+# note about Email
+Email: bjarne@example.org
+
+Id:3
+Name: Yukihiro Wirth
+Salary:408
+Dept: Eng
+Email: alan@example.org
+Email: yukihiro@e\
+xample.org
+
+Id: 4
+# note about Name
+Name: Niklaus Thompson
+Age:
+Salary:964.24
+Dept:	Research
+City: Paris

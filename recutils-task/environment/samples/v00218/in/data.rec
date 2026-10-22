@@ -1,0 +1,69 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Year
+
+
+Year:	1975
+Tag: parser
+Author: Edsger Torvalds
+Title:Beta Systems Stream
+Price:	.75
+
+
+Title:Stream Gamma
+Author: John Wirth
+Year:1972
+Price: 289
+Tag:	alpha
+Tag: beta
+
+
+Title: Kernel Editor
+Author: Yukihiro Knuth
+Author:Niklaus Thompson
+Year:	03
+Price: 1e3
+Tag: compilers
+Tag: parser
+Tag: systems
+Note: SECURITY
+
+
+Title: Delta Alpha Theory
+Author:	Dennis Wirth
+Year:2009
+Price: 294
+Tag: security
+Tag: runtime
+Tag: ga\
+mma
+
+
+Title: Stream Networks Graphics
+Author: Alan Lamport
+# note about Year
+Year: 58.49
+Tag: parser
+Tag:	cache
+Tag: compilers
+
+
+Title: Queue
+Author: Yukihiro\
+ Hamilton
+Year: 1959
+Price: .75
+Tag: parser
+Tag:	editor
+Available:0
+Note:   queue  
+
+
+Title: Editor Graphics Databases
+Author: Alan Liskov
+Year: 2006
+Price: .75
+Tag: networks
+Tag:runtime

@@ -1,0 +1,11 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "parse"
+}

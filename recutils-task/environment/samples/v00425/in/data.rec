@@ -1,0 +1,42 @@
+%rec: Book
+%type: Year int
+%sort: Price
+
+# between
+
+Title:Queue Networks Systems
+Author:Rob Ritchie
+Author: Yukihiro Hopper
+Year: 1965
+Price: 423
+Tag: security
+Tag:	compilers
+Tag: stream
+
+# between
+
+Title: Theory
+Author:	Rob Knuth
+Year: 1957
+Price: 468
+Tag:	security
+
+# between
+
+Title:Graphics Systems Graphics
+Author:	Barbara van Rossum
+Author: Guido Ritchie
+Year: 107
+Available: 0
+Note:	databases cache runtime
+
+# between
+
+Title:Systems Networks Graphics
+Author: Frances Perlman
+Year:1994
+Price: .75
+Tag:	systems
+# note about Tag
+Tag: graphics
+Tag: gamma

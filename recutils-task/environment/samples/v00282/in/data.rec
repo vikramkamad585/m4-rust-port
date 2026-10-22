@@ -1,0 +1,36 @@
+# kernel stream
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:1
+Name: Linus Turing
+Age: 66
+Salary:1e3
+Dept: Legal
+Level: 9
+Email: dennis@example.org
+Email: ken@example.org
+
+# note about Id
+Id: 2
+Name: Bjarne Hopper
+Age: 29
+Salary: .75
+Dept:	Support
+Email:bjarne@example.org
+
+Id: 3
+Name:	Alan Stroustrup
+Age:  3
+Dept: Ops
+Level:	2
+City:	Austin
+
+Id: 4
+Name:	Frances Lovelace
+Age: 41
+Dept: Ops
+Email: barbara@example.org
+Email:	margaret@example.org

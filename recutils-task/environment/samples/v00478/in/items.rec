@@ -1,0 +1,23 @@
+%rec: Item
+%typedef: Num int
+%type: V Num
+
+
+Name: cache
+V: 29
+
+
+Name:databases
+V:21
+
+
+Name: kernel
+V:30
+
+
+Name:networks
+V:
+
+
+Name:	runtime
+V: 20

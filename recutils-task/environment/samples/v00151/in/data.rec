@@ -1,0 +1,72 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+
+Id:	1
+Name:	Ada Ritchie
+Age:40
+Salary: 1e3
+Dept: Eng
+Level: 6
+Email:	leslie@example.org
+
+
+Id: 2
+Name: Edsger Allen
+Age:	64
+Salary: 179000.50
+Dept: Eng
+
+
+Id:3
+Name: Linus van Rossum
+Age:	0x2B
+# note about Dept
+Dept: Eng
+
+
+Id: 4
+Name:Margaret Perlman
+Age: 88
+Dept: Legal
+Level: 6
+
+
+Id:	5
+Name:	Linus Lovelace
+Age:	0xF8
+Dept:Ops
+Level: 6
+# note about Email
+Email: guido@example.org
+Email: rob@example.org
+
+
+Id: 6
+Name: Frances Thompson
+Age:59
+# note about Salary
+Salary:	119000.50
+Dept: Ops
+Email: linus@example.org
+Email: grace@example.org
+
+
+Id: 7
+Name: Linus Liskov
+Age: 56
+Salary: 60000
+Dept: Sales
+Email: leslie@example.org
+City: Austin
+
+
+# note about Id
+Id:	8
+Name:Leslie Knuth
+Age: 32
+Salary:198\
+000
+Dept:Support
+Level:	7

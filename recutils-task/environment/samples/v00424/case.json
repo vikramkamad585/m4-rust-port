@@ -1,0 +1,13 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-e",
+  "Age > 1",
+  "-n",
+  "1",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "cli"
+}

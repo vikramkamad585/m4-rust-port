@@ -1,0 +1,44 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+
+# between
+
+Author: Alan Allen
+Year: 64
+Title: Networks
+Tag: databases
+Price: -2.5
+Tag: kernel
+Tag: security
+
+# between
+
+Title: Compilers Parser
+Author:Margaret Matsumoto
+Author: Anita Hamilton
+Year:	1975
+Price: 467\
+.59
+Tag: databases
+Available: yes
+
+# between
+
+Title: Systems
+Author: Frances Wirth
+Year:	1953
+Price: 1e3
+Tag: databases
+Tag:	kernel
+Tag:theory
+
+# between
+
+Author:	Grace Turing
+Title:	Graphics Gamma Theory
+Price: 795\
+.67
+Year:94
+Available:true

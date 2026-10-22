@@ -1,0 +1,18 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Title:Stream Delta
+Author:	Leslie McCarthy
+Year: 2001
+Tag: delta
+Tag: runtime
+Tag:editor
+
+
+Available: true
+Year: 2005
+Title:Theory Graphics Alpha
+Author: Margaret Thompson
+Price: 1e3

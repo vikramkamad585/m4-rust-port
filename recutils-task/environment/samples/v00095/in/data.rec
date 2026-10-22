@@ -1,0 +1,77 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Title
+
+# between
+
+Title: Compilers Theory
+Author:	Grace Torvalds
+Tag: beta
+Tag: ker\
+nel
+Tag:theory
+Note:	say "editor"
+
+# between
+
+Title: Gamma
+Author: Donald\
+ Wirth
+Year:2021
+Price: 258.54
+Tag: qu\
+eue
+Tag:	editor
+
+# between
+
+Year:75
+Price: 0.5
+Author: Radia Lamport
+Title:Delta
+Note:	queue\alpha
+Tag:theory
+
+# between
+
+Title: Security Parser
+Author:Ada Turing
+Year:2022
+Price: 532.43
+Note:   security  
+
+# between
+
+Title: Gamma
+Author: Anita Lamport
+Year:2021
+Price:	0.5
+
+# between
+
+Title:Kernel Runtime
+Author: Radia Pike
+Author: Grace Matsumoto
+Tag: alpha
+
+# between
+
+Title: Systems Kernel
+Author:Guido Borg
+Year: 2023
+Price: 1e3
+Tag: kernel
+Tag: delta
+
+# between
+
+Title:	Systems Theory
+Author:John Thompson
+Year: 1993
+Price: 0.5
+Tag:stream
+Tag: delta
+# note about Available
+Available: yes

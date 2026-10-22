@@ -1,0 +1,62 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: Radia Pike
+Age: 52
+Salary:	119000.50
+Dept:	Legal
+Level:	9
+Email:	ada@example.org
+Email:	frances@example.org
+
+Id: 2
+Name: Margaret Thompson
+Age: 72
+# note about Salary
+Salary:	-2.5
+Dept: Ops
+Level: 4
+
+Id:	3
+Name:	Frances Borg
+Age: 34
+Salary: 155000
+Dept:	Ops
+Level: 7
+
+Id: 4
+Name: Radia Borg
+Salary:49000.50
+Dept: Legal
+
+Id: 5
+Name:	Grace Borg
+Age: 54
+Salary:65000.50
+Dept: Support
+City: Berlin
+
+Id: 6
+Name: Niklaus Liskov
+Age: 34
+Salary: 132000
+Dept:	Research
+Level: 8
+Email:	ada@example.org
+Email:	rob@example.org
+City: Pune
+
+Id: 7
+Name:Yukihiro Turing
+Age: 24
+Salary:	914.88
+Dept:	Legal
+Level: 5
+Email: alan@example.org
+Email:	margaret@example.org
+City:Berlin

@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-U",
+  "-t",
+  "Book",
+  "-P",
+  "Price",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

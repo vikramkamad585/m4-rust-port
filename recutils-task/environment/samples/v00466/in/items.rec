@@ -1,0 +1,29 @@
+%rec: Item
+%typedef: Other int
+%typedef: Num line
+%type: V Num
+
+
+# note about Name
+Name:beta
+V:	1e2
+
+
+Name: graphics
+V:	16
+
+
+Name: alpha
+V: 2
+
+
+Name: queue
+V:	1
+
+
+Name:kernel
+V: 4
+
+
+Name: alpha
+V:	22

@@ -1,0 +1,23 @@
+%rec: Book
+%type: Year int
+%key: Title
+
+Title:	Kernel Gamma
+Author: John \
+Hopper
+Price: 0.5
+Tag:	theory
+
+Tag: networks
+Year: 1964
+Title: Compilers Queue Runtime
+Author: Niklaus McCarthy
+Tag:	parser
+Tag: runtime
+Author:Linus Ritchie
+
+# note about Title
+Title:	Databases Cache
+Author:Barbara Hopper
+Author: Rob Hopper
+Year: 1962

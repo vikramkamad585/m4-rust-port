@@ -1,0 +1,47 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+
+Id:1
+Name: Edsger Dijkstra
+Age: 29
+Salary:212
+Dept: Ops
+Level: 8
+Email:barbara@example.org
+Email: linus@example.org
+
+
+Id: 2
+Name: Radia Dijkstra
+Age: 85
+Salary: 200000
+Dept: Support
+City: Cairo
+
+
+Id:3
+Name:	Yukihiro Torvalds
+Age: 39.50
+Dept:	Research
+Level: 6
+Email:ada@example.org
+
+
+Id:4
+Name:Ada Perlman
+Age: 31
+Salary: 188000.50
+# note about Dept
+Dept: Legal
+Email: anita@example.org
+City: Paris
+
+
+Id:5
+Name: John Matsumoto
+Age:43
+Salary:	1e3
+Dept:	Ops
+Level:	7

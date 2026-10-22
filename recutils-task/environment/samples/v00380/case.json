@@ -1,0 +1,13 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-t",
+  "Staff",
+  "-S",
+  "Age",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

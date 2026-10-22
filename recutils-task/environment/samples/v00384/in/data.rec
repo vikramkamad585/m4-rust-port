@@ -1,0 +1,33 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Salary
+
+Id:	1
+Name: Yukihiro Matsumoto
+Age: 106
+Salary: 66000.50
+Dept: Le\
+gal
+Level: 5
+Email:anita@example.org
+Email: edsger@example.org
+City: Oslo
+
+Id: 2
+Name:	Barbara \
+Matsumoto
+Age: 62
+# note about Salary
+Salary: .75
+Dept: Legal
+Level:	6
+Email: niklaus@example.org
+City:	Pune
+
+Id:3
+Name: Barbara Liskov
+Age:	52.92
+Salary: 0.5
+Dept: Research
+Level: 3

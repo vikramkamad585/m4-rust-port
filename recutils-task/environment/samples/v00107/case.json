@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-C",
+  "-t",
+  "Book",
+  "-p",
+  "Available,Author,Author[1-3]",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

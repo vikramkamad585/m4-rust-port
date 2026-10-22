@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-d",
+  "-t",
+  "Staff",
+  "-e",
+  "Name = \"\"",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

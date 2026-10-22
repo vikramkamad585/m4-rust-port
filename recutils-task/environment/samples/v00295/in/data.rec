@@ -1,0 +1,41 @@
+%rec: Book
+%type: Year int
+%key: Title
+
+Title: Graphics Compilers Networks
+Author: Dennis Perlman
+Year:	95
+Price: 227.74
+Tag: cache
+Available: no
+
+Price:	516.42
+Tag:	delta
+Title: Runtime Delta
+# note about Year
+Year:0x8F
+Tag:queue
+Author: Anita Knuth
+
+Title: Theory Beta
+Author: Anita van Rossum
+Year:1963
+Note: beta\stream
+
+Title: Gamma Runt\
+ime Editor
+Author:Barbara Hamilton
+# note about Year
+Year:	8abc
+Price: 0.5
+Available:	0
+Note:	beta graphics
+
+Title:Graphics Stream
+# note about Author
+Author:	Radia Ritchie
+Author: Barbara Hamilton
+# note about Year
+Year: 2023
+Price:1e3
+Available: yes

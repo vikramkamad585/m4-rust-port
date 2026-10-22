@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-U",
+  "-t",
+  "Staff",
+  "-R",
+  "Email,City,Salary,Dept",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

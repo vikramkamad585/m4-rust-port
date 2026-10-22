@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Year * 1}}\n"
+ ],
+ "stdin": "Title: Theory Theory\nAuthor: Leslie Stroustrup\nYear:3abc\nPrice:.75\nTag: parser\nTag: compilers\nTag: gamma\nAvailable:0\n\n\nTag: runtime\nTag: queue\nAuthor: Dennis Hamilton\nTitle: Kernel\nPrice: 1e3\nAuthor: John Stroustrup\n\n\nTitle: Editor Cache Databases\nAuthor:\tRadia Borg\nPrice: 0.5\nTag: systems\nTag: compilers\nTag:\tnetworks\nAvailable: 1\n\n\nTitle: Cache\nAuthor:Edsger Borg\nYear: 1984\nPrice: .75\nTag: gamma\n\n\nTitle:\tSecurity\nAuthor: Ken Lamport\nYear: 1979\nPrice:\t.75\nTag:queue\nTag: kernel\nTag:\tgamma\nAvailable: 1\nNote:PARSER\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

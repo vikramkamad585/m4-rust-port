@@ -1,0 +1,54 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title: Theory Kernel
+Author: Niklaus Lamport
+Year: 1975
+Price: -2.5
+Tag: de\
+lta
+
+Title:	Networks Gamma
+Author: John Torvalds
+Year: 2004
+Price: 1e3
+Tag: compilers
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Dept Age
+
+Id: 1
+Name:Frances Lovelace
+Age:	59
+Salary:	46000.50
+Dept:	Research
+Level:	8
+Email:	anita@example.org
+City:Cairo
+
+Id: 2
+Name: Ada Allen
+Age: 65
+Salary:124000.50
+Dept:	Ops
+Level: 4
+Email: dennis@example.org
+# note about City
+City: Lima
+
+Id: 3
+Name:	Leslie Knuth
+Age:  0
+Salary: 192000
+Dept:	Eng
+Level: 9
+City: Paris
+
+%rec: Staff2
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t

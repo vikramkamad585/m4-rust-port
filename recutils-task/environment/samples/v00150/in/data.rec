@@ -1,0 +1,81 @@
+%rec: Book
+%type: Year int
+
+# between
+
+Price:	1e3
+Title: Alpha
+Tag:kernel
+Author: Bjarne Perlman
+Tag:	databases
+Tag: stream
+
+# between
+
+Title: Systems Gamma Security
+# note about Author
+Author: Ken Thompson
+Year: 2001
+Tag: beta
+Tag: networks
+
+# between
+
+Available: 0
+Author: Ken Liskov
+Tag: netw\
+orks
+Title:Cache Kernel Runtime
+Tag:stream
+Price:	0.5
+Tag:cache
+# note about Year
+Year:06
+
+# between
+
+Title: Networks Gamma
+Author:Alan Ritchie
+
+# between
+
+Available:true
+Author: Grace Torvalds
+Title:Stream
+
+# between
+
+Title:	Graphics Systems Beta
+Author: Ada Ritchie
+Year: 1993
+Tag: alpha
+Tag: gamma
+Available:no
+
+# between
+
+Note: graphics\runtime
+Author: Ada Perlman
+Year: 92.83
+Price: 197
+Author:	Margaret Wirth
+Title: Kernel Gamma
+
+# between
+
+Tag:graphics
+Note: theory\cache
+Author: Ada Stroustrup
+Title:	Beta
+Tag:	parser
+Author: John Borg
+Available: false
+Year: 1998
+Tag: cache
+
+# between
+
+Title: Systems Editor
+Author: Barbara Liskov
+Year: 1951
+Tag: alpha

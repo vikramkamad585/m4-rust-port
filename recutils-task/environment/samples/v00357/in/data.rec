@@ -1,0 +1,48 @@
+# stream kernel compilers delta
+
+# between
+
+%rec: Book
+%type: Year int
+%type: Available bool
+
+# between
+
+Title: Parser
+Author: John van Rossum
+Year: 1954
+Price:641.48
+Tag: ca\
+che
+Tag: security
+Tag: cache
+Available: no
+
+# between
+
+Title: Systems Parser Systems
+Author: Donald Hamilton
+Year: 2003
+Tag:gamma
+Tag: theory
+Tag: kernel
+Available: no
+
+# between
+
+Author:	Barbara Torvalds
+Tag: databases
+Price:1e3
+Tag: beta
+Tag: theory
+Title:Editor
+
+# between
+
+Tag: kernel
+Author:Yukihiro Matsumoto
+Tag:	kernel
+Tag: beta
+Note: cache
+Year: 2020
+Title: Editor Cache Alpha

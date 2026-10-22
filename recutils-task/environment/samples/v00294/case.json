@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-d",
+  "-t",
+  "Book",
+  "-e",
+  "Year <= 88.5",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

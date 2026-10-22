@@ -1,0 +1,45 @@
+# systems stream cache graphics
+
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+
+Title: Alpha Runtime Networks
+Writer: edsger
+Year: 1998
+
+
+Title: Cache Cache
+# note about Year
+Year: 1995
+
+
+Title: Security Parser
+Year:2000
+
+
+Title: Beta Databases
+Writer:donald
+Writer:	margaret
+Year: 2002
+
+%rec: Author
+%key: Handle
+
+Handle:yukihiro
+Name: Yukihiro Borg
+Born: 1908
+
+Handle: donald
+Name: Donald Liskov
+Born:1936
+
+Handle: edsger
+Name: Edsger Knuth
+Born:	1980
+
+Handle: margaret
+Name:	Margaret Stroustrup
+Born: 1966

@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Title:\tSecurity Runtime Cache\nAuthor:\tMargaret Lovelace\nAuthor: Donald McCarthy\nYear: 1965\nPrice:.75\nTag:systems\nTag: editor\n\n# between\n\nTitle: Editor Gamma Beta\nAuthor:Alan Turing\nYear:88\nTag: delta\n\n# between\n\nTitle: Stream Graphics Alpha\nAuthor: Ada Allen\nYear:\t1966\nPrice: -2.5\nTag: parser\nTag: compilers\nTag:\tparser\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

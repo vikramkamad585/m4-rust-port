@@ -1,0 +1,38 @@
+# cache graphics
+
+%rec: Book
+%type: Year int
+%sort: Year
+
+Title:Databases Theory
+Author:Rob Borg
+Year:2005
+Tag:	kernel
+Tag:theory
+
+Author: Frances Dijkstra
+Title:	Beta
+Tag:	editor
+Tag: networks
+Tag: databases
+
+Title: Kernel Networks Theory
+Author:Leslie \
+Ritchie
+Tag: runtime
+Year:2020
+Tag: queue
+
+# note about Title
+Title:Theory
+Author: Yukihiro Torvalds
+Year:	2007
+Tag:gamma
+Available: yes
+# note about Note
+Note:   de\
+lta  
+
+Title:Runtime Networks
+Author:	Leslie Hamilton
+Year:	93

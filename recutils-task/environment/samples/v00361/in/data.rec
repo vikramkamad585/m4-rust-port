@@ -1,0 +1,70 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id:	1
+Name: Grace Matsumoto
+Age: 36
+Salary:70000
+Dept:Ops
+
+# between
+
+Id: 2
+Name:Frances van Rossum
+Age:	23
+Dept:	Ops
+Level: 2
+Email: ken@example.org
+Email:bjarne@example.org
+
+# between
+
+Id:3
+Name:	Alan M\
+cCarthy
+Age: 70
+Salary: 198000.50
+Dept: Research
+Level: 4
+
+# between
+
+Id:	4
+Name:	Barbara van Rossum
+Age:59
+Dept: Sales
+City: Pa\
+ris
+
+# between
+
+Id: 5
+Name: Alan Pike
+Age: 38
+Salary: 66000
+Dept:	Ops
+Email: linus@example.org
+
+# between
+
+Id: 6
+Name:Radia Wirth
+Age: 20
+Dept: Sales
+Level:	8
+City: Berlin
+
+# between
+
+Id: 7
+Name:	Dennis Lamport
+Age: 61
+Dept:	Legal
+Level: 9
+Email:	barbara@example.org

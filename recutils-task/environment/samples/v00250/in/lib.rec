@@ -1,0 +1,46 @@
+# security security editor databases
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title:	Cache Security
+Writer: nobody
+Writer: radia
+Year:	1953
+
+Title: Queue
+Writer: radia
+Writer: radia
+Year: 1967
+
+Title:Cache
+Writer:radia
+Writer: bjarne
+Year:2004
+
+Title: Graphics Systems
+Writer:	radia
+Year:	1998
+
+Title:Stream
+# note about Writer
+Writer: nobody
+Writer:bjarne
+Year: 1994
+
+Title: Networks Beta Kernel
+Writer:radia
+Writer: radia
+Year:1990
+
+%rec: Author
+%key: Handle
+
+Handle: bjarne
+Name:	Bjarne Matsumoto
+Born: 1901
+
+Handle: radia
+Name:Radia Matsumoto
+Born:	1945

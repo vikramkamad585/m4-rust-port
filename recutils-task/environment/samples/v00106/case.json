@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-C",
+  "-t",
+  "Staff",
+  "-p",
+  "Dept[2],Level[0]",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

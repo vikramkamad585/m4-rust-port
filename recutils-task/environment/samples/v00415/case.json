@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Year + 1}}, {{Price * 2}}\n\n"
+ ],
+ "stdin": "Title: Editor Editor\nAuthor:Frances Hopper\nPrice: 552.43\nTag: edi\\\ntor\nTag: gamma\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

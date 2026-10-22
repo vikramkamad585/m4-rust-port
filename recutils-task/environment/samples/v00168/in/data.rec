@@ -1,0 +1,75 @@
+# compilers editor compilers alpha
+
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+Title:	Systems Runtime Networks
+Author: Niklaus Ritchie
+Year:	1987
+# note about Price
+Price: .75
+# note about Tag
+Tag:	security
+Tag: cache
+
+Title:	Delta Cache Cache
+Author:	Rob van Rossum
+Year: 2002
+Price: 0.5
+Note: delta\graphics
+
+Title: Databases Systems Systems
+Author: Donald Perlman
+Author: Ada Pike
+Year: 1959
+Price: 198.71
+Tag:	security
+Tag:networks
+Tag: databases
+
+Title: Kernel Graphics
+Author: Margaret Hopper
+Year:	1996
+Price: 845.10
+Available: maybe
+
+Available: yes
+Author:Linus van Rossum
+Author: Linus Lovelace
+Tag: kernel
+# note about Year
+Year: 1992
+Title: Graphics
+
+Title:	Queue Graphics Systems
+Author: Linus Thompson
+Author:	Dennis Thompson
+Year:1986
+Price:0.5
+Note: parser queue databases
+
+Title: Delta Alpha
+Author:	Dennis Dijkstra
+Author: Anita Hamilton
+Year:2014
+Price: 0.5
+Available: false
+
+Title:Networks Security
+Author: Frances Hamilton
+Price:37
+Tag:beta
+Tag: gamma
+Tag:	queue
+Available:false
+
+Author: Bjarne Borg
+Title:	Systems Graphics Queue
+Price:	357.42
+Available: no
+Author:Bjarne Pike
+# note about Year
+Year: 62
+Tag:	networks

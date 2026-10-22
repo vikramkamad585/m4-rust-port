@@ -1,0 +1,26 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title: Gamma
+Writer: barbara
+Year: 2002
+
+Title: Delta Compilers
+Writer: niklaus
+Writer: barbara
+Year: 1952
+
+Title: Parser Stream
+Writer: niklaus
+Year: 1988
+
+Title: Databases
+Writer: barbara
+Writer: barbara
+Year: 1958
+
+Title: Beta
+Writer: nobody
+Writer: barbara
+Year: 1958

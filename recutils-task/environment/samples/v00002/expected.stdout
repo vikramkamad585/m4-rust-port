@@ -1,0 +1,31 @@
+Id: 1
+Name: Ada Borg
+Age: 47
+Dept: Ops
+Level: 7
+Email: edsger@example.org
+Email: edsger@example.org
+
+Id: 3
+Name: Ken Torvalds
+Age: 26
+Salary: 164000
+Dept: Legal
+Email: guido@example.org
+Email: donald@example.org
+
+Id: 2
+Name: Linus Hamilton
+Age: 61
+Salary: 195000
+Dept: Research
+Level: 3
+Email: radia@example.org
+Email: grace@example.org
+
+Id: 4
+Name: Yukihiro Lamport
+Age: 47
+Salary: 86000.50
+Dept: Sales
+City: Berlin

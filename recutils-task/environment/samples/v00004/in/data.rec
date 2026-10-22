@@ -1,0 +1,35 @@
+Author:	Dennis McCarthy
+Title: Editor
+Price: 1e3
+Year: 1976
+Tag: parser
+
+# between
+
+Title:Networks Databases
+Author: Dennis Allen
+Year:	1995
+Tag: alpha
+Tag: beta
+Available:	true
+# note about Note
+Note: databases\queue
+
+# between
+
+Title:	Gamma Databases Security
+Author:	Donald Lamport
+Year: 2012
+Price: 1e3
+Tag:	theory
+
+# between
+
+Title:	Str\
+eam
+Author: Dennis Hamilton
+Year: 0
+Price: 435.90
+Tag: gamma
+# note about Tag
+Tag: theory

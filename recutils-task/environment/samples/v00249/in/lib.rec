@@ -1,0 +1,59 @@
+# cache editor editor
+
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title:	Security Stream
+Writer: niklaus
+Writer:nik\
+laus
+Year: 1983
+
+Title: Parser Compilers Queue
+Writer: bjarne
+Year:1972
+
+Title: Alpha Beta
+Writer: bja\
+rne
+Year:	1971
+
+Title: Alpha Theory Networks
+Writer: niklaus
+Year:1986
+
+Title:Systems Networks
+Writer: dennis
+Year:	1996
+
+Title: Databases
+Year: 1964
+
+Title:Kernel Security Beta
+Writer: frances
+Writer: frances
+Year: 1955
+
+%rec: Author
+%key: Handle
+
+
+Handle:frances
+Name: Frances Lamport
+Born: 1912
+
+
+Handle: bjarne
+Name:Bjarne Stroustrup
+Born: 1906
+
+
+Handle:	niklaus
+Name:	Niklaus Pike
+Born: 1939
+
+
+Handle: dennis
+Name: Dennis Thompson
+Born: 1956

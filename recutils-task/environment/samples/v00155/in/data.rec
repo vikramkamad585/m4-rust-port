@@ -1,0 +1,36 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%key: Title
+
+# between
+
+Title:Cache Databases Queue
+Author:Ken Lamport
+Year: 1955
+Price:	.75
+Tag:al\
+pha
+Tag: gamma
+Tag: sys\
+tems
+
+# between
+
+Title:	Graphics Cache
+Author:John van Rossum
+Year: 1950
+Tag: networks
+Note:	runtime security
++ stream
+
+# between
+
+Title: Gamma
+Author:Niklaus van Rossum
+Author:	Edsger Liskov
+Year: 1951
+Price:0.5
+Tag:networks
+Note:	say "stream"

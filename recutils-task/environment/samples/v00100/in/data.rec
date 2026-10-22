@@ -1,0 +1,94 @@
+# compilers delta
+
+# between
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Title: Alpha Security Alpha
+Author:	Guido Hopper
+Price:	-2.5
+# note about Tag
+Tag: databases
+
+# between
+
+Available: 0
+Tag: alpha
+Tag:beta
+Year: 2006
+Price: 0.5
+Title: Graphics Runtime Cache
+Tag:	security
+Author:	Edsger van Rossum
+
+# between
+
+Title: Beta
+Author:	Bjarne Ritchie
+Year: 2020
+Price: 0.5
+Tag:	gamma
+
+# between
+
+Title:Kernel Delta Theory
+Author: Guido Pike
+Year:
+Price: 1e3
+Tag: stream
+Tag: theory
+
+# between
+
+Title: Systems Stream
+Author: Leslie Torvalds
+Year:1958
+Price: 1e3
+Tag:	beta
+Tag: theory
+Tag: theory
+Available: 0
+
+# between
+
+Title: Kernel Parser
+Author: Dennis Ritchie
+Author: Ada Stroustrup
+Year: 88
+Tag: stream
+Tag:	databases
+Available: 0
+
+# between
+
+Title: Delta Systems
+Author: Bjarne Wirth
+Year: 1975
+Price:	.75
+Tag: beta
+Tag: systems
+
+# between
+
+Price:	492
+Author:	Leslie Thompson
+Note: DATABASES
+Title:	Networks Security
+Year: 2019
+Available: 1
+
+# between
+
+Tag:alpha
+Author: Ken Dijkstra
+Tag:alpha
+Author: Edsger\
+ Allen
+Note:   security  
+Year:  1
+Title: Delta Parser
+Tag:security

@@ -1,0 +1,51 @@
+%rec: Book
+%type: Year int
+%sort: Price
+
+# between
+
+Tag: security
+Tag: systems
+Year:1955
+# note about Price
+Price: 483.80
+Author: Ken van Rossum
+Title:Editor Parser
+Available:maybe
+
+# between
+
+Title: Graphics
+Author:Donald Matsumoto
+Price: 0.5
+Tag: gamma
+Tag: queue
+
+# between
+
+Title: Alpha
+Author: Bjarne\
+ Liskov
+Year: 16
+Price:	-2.5
+Tag:	secu\
+rity
+Tag:databases
+Tag:gamma
+Note: cache security
++ parser networks
+
+# between
+
+Title: Databases
+Author: Yukihiro Liskov
+Author: Grace Wirth
+Year: 61
+Price: 1e3
+Tag: theory
+
+# between
+
+Title: Theory
+Author: Radia Turing
+Author:	Rob Lovelace

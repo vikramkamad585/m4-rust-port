@@ -1,0 +1,11 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+
+# between
+
+Title: Graphics Stream Editor
+Author: Ada Perlman
+Year: 25
+Tag:databases

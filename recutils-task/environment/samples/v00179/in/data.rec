@@ -1,0 +1,73 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:1
+Name:	Barbara Matsumoto
+Age: 38.35
+Salary:-2.5
+Dept:Sales
+Level: 8
+Email:	radia@ex\
+ample.org
+City: Cairo
+
+Id:2
+Name:	Bjarne van Rossum
+Age: 24
+Salary:	88000
+Dept:	Support
+City:Austin
+
+Id: 3
+Name: Margaret Torvalds
+Salary:	450
+Dept: Eng
+Level: 5
+Email: grace@example.org
+Email: leslie@example.org
+City: Austin
+
+Id:4
+Name:	Donald Lovelace
+Salary:	92000
+Dept: Eng
+
+Id: 5
+# note about Name
+Name: Guido McCarthy
+Age:	34
+Dept:	Support
+Email: radia@example.org
+City: Oslo
+
+Id: 6
+Name: Dennis Dijkstra
+Age:66
+Salary: 92000.50
+Dept:Eng
+City: Berlin
+
+Id:7
+Name: Frances Torvalds
+Age:  3
+Salary: 161000.50
+Dept: Ops
+Level: 6
+City: Cairo
+
+Id: 8
+Name:Barbara Ritchie
+Age: 69
+Salary: -2.5
+Dept: Sales
+Email: margaret@example.org
+Email:	margaret@example.org
+
+Id:	9
+Name:Niklaus Hamilton
+Age: 46
+Dept:	Legal
+Level:5
+Email: grace@example.org
+Email: frances@example.org

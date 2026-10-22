@@ -1,0 +1,9 @@
+{
+ "tool": "recinf",
+ "args": [
+  "db.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "recinf"
+}

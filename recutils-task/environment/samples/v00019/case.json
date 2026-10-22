@@ -1,0 +1,7 @@
+{
+ "tool": "recsel",
+ "args": [],
+ "stdin": "%rec: Book\n%type: Year int\n%type: Price real\n%type: Available bool\n%sort: Year\n\n# note about Title\nTitle:Stream\nAuthor:\tEdsger Lamport\nAuthor: Edsger Ritchie\nYear:  4\nPrice:130\n\nTitle: Theory Delta\nTag:\tkernel\nAvailable: true\nYear: 1962\nTag: beta\nTag:\tgraphics\nAuthor:Donald Pike\n\nAvailable: 0\nNote: alpha parser\nTitle: Editor\nYear:\t1963\nAuthor: Guido Lovelace\n\nTitle:\tSecurity Networks Runtime\nAuthor: Barbara Hopper\nYear:\t1967\nPrice:1e3\nTag: delta\nTag: networks\nTag:\tkernel\nAvailable:yes\nNote:compilers\n+kernel\n\nTitle: Compilers Gamma\nAuthor: Bjarne McCarthy\nYear:1957\nPrice: 346\nTag: systems\nTag:\tcompilers\nAvailable: maybe\n\nTitle: Parser Systems\nAuthor:Yukihiro Knuth\n# note about Tag\nTag:parser\nNote:\tqueue\\alpha\n",
+ "compare_stderr": false,
+ "group": "parse"
+}

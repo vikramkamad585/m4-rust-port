@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "--uniq",
+  "--collapse",
+  "data.rec",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "cli"
+}

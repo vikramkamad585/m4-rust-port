@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Title:Parser\nAuthor: Ken Lovelace\nYear: 116\nPrice: 137.00\nTag: systems\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

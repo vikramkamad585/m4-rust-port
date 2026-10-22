@@ -1,0 +1,14 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title: Stream
+Year: 1951
+
+Title: Alpha
+Writer: nobody
+Writer: edsger
+Year: 1972
+
+Title: Kernel Security
+Year: 1996

@@ -1,0 +1,41 @@
+%rec: Book
+%type: Year int
+
+Title:Networks Theory
+Author: Ada Liskov
+Year:1954
+Price: 74.05
+Tag:beta
+Tag:cache
+Tag: compilers
+
+Title: Queue
+Author: Barbara Knuth
+Author:Grace Hamilton
+Year:1975
+Tag:graphics
+Tag:runtime
+Tag:	security
+
+Title:Systems Gamma
+Author: Radia van Rossum
+Year: 2023
+Price: 83
+Tag:cache
+# note about Note
+Note: queue kernel
+
+Title: Parser Theory
+Author:Linus Lovelace
+Year: 1989
+# note about Price
+Price: 286
+Tag: alpha
+Tag:theory
+Tag: compilers
+Available:	fa\
+lse
+
+%rec: Book2
+%type: Year int
+%type: Price real

@@ -1,0 +1,90 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Price
+%key: Title
+
+# between
+
+Title:	Cache Networks Theory
+Available: false
+Tag: delta
+# note about Author
+Author:Leslie van Rossum
+Price:1e3
+Author:	Frances Wirth
+Tag:databases
+# note about Year
+Year: 2005
+
+# between
+
+Title:Kernel \
+Systems
+Author: Guido M\
+cCarthy
+Year: 1951
+Price:	.75
+Available:	true
+
+# between
+
+# note about Author
+Author: Frances Dijkstra
+Tag:systems
+Author: Anita Hamilton
+Tag: theory
+Year:2016
+Title: Parser
+Price:	155
+
+# between
+
+Author: Radia Allen
+Year: 31.51
+Title: Databases Parser
+
+# between
+
+Title: Stream
+Author:Grace Borg
+Year: 1992
+Tag: gamma
+
+# between
+
+Title:Alpha Security Compilers
+Author: Grace Torvalds
+Year: 4
+Price:	-2.5
+
+# between
+
+Title:Alpha Theory Cache
+Author: Radia Allen
+Year: 20
+Price: 0.5
+Tag: cache
+Tag: security
+Available:false
+
+# between
+
+Title: Networks Networks Networks
+Author:	Radia Lovelace
+Year:
+Tag: ca\
+che
+Tag: queue
+Available: no
+
+# between
+
+Title: Compilers
+Author:	Frances McCarthy
+Year: 2024
+Price: 1e3
+Tag: theory
+Tag: graphics
+Available:	yes

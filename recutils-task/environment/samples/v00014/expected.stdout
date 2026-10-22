@@ -1,0 +1,53 @@
+Id: 1
+Name: Linus Matsumoto
+Age: 49
+Salary: 1e3
+Dept: Legal
+Level: 8
+Email: frances@example.org
+Id: 2
+Name: Bjarne Ritchie
+Age: 90
+Salary: 0.5
+Dept: Support
+Level: 8
+Id: 3
+Name: Yukihiro Liskov
+Age: 47
+Salary: .75
+Dept: Legal
+Email: margaret@example.org
+Id: 4
+Name: Guido Ritchie
+Age: 101
+Salary: 110000.50
+Dept: Support
+Level: 4
+Email: donald@example.org
+Email: bjarne@example.org
+City: Lima
+Id: 5
+Name: Yukihiro Dijkstra
+Age: 38
+Salary: 797.89
+Dept: Support
+Email: dennis@example.org
+Id: 6
+Name: Grace Hamilton
+Age: 59
+Salary: .75
+Dept: Ops
+Id: 7
+Name: Margaret Hamilton
+Age: 46
+Salary: .75
+Dept: Support
+Level: 4
+Email: ken@example.org
+Email: grace@example.org
+Id: 8
+Name: Grace Matsumoto
+Age: 56
+Salary: 52000.50
+Dept: Legal
+City: Oslo

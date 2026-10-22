@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-U",
+  "-C",
+  "-t",
+  "Staff",
+  "-p",
+  "Id[1-1],City,Salary:out_name",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

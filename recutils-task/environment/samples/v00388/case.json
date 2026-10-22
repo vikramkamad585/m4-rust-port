@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Level}} {{Age * 1.5}} {{Salary}}\n"
+ ],
+ "stdin": "Id: 1\nName:\tLeslie Liskov\n# note about Age\nAge:18\nSalary: 107000.50\nDept: Legal\nLevel: 4\n# note about Email\nEmail: anita@example.org\n# note about Email\nEmail: edsger@example.org\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

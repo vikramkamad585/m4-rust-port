@@ -1,0 +1,18 @@
+(record 279 (
+(field 337 "Tag" "security")
+(field 353 "Tag" "databases")
+(field 367 "Tag" "gamma")
+(field 316 "Year" "16")))
+
+(record 194 (
+(field 245 "Tag" "gamma")
+(field 256 "Tag" "queue")))
+
+(record 428 (
+(field 509 "Tag" "theory")
+(field 489 "Year" "61")))
+
+(record 53 (
+(field 53 "Tag" "security")
+(field 67 "Tag" "systems")
+(field 80 "Year" "1955")))

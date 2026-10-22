@@ -1,0 +1,37 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id:1
+Name:Yukihiro Turing
+Age:	48
+Salary:	67000
+Dept: Legal
+Level: 1
+Email:	barbara@example.org
+Email: margaret@example.org
+
+Id: 2
+Name: Grace Stroustrup
+Salary: 45000.50
+Dept: Support
+Level: 3
+Email: margaret@example.org
+
+# note about Id
+Id:3
+Name: Donald Liskov
+Age: 61
+Salary:155000.50
+Dept: Sup\
+port
+Level:8
+
+Id:4
+Name:Anita McCarthy
+Salary: 1e3
+Dept:	Ops
+Level:6
+Email: john@example.org
+City: Tokyo

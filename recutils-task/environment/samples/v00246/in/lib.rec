@@ -1,0 +1,56 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+
+Title:Systems
+Writer: frances
+Year: 1951
+
+
+Title: Runtime Cache
+Writer:	frances
+Year: 1988
+
+
+Title:	Parser Systems Kernel
+Writer: linus
+Writer:	edsger
+Year: 1986
+
+
+Title: Gamma Queue
+Writer: nob\
+ody
+Writer: ada
+Year: 1977
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: linus
+Name: Linus Ritchie
+Born:	1920
+
+# between
+
+Handle:	frances
+Name:Frances Wirth
+Born: 1928
+
+# between
+
+Handle: ada
+Name: Ada Stroustrup
+Born: 1964
+
+# between
+
+Handle: edsger
+# note about Name
+Name: Edsger \
+Perlman
+# note about Born
+Born:1945

@@ -1,0 +1,13 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-t",
+  "Book",
+  "-S",
+  "Year",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

@@ -1,0 +1,41 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Salary
+
+Id:	1
+Name: Rob Knuth
+Age: 06
+Dept:	Eng
+
+Id: 2
+Name:	Guido Hamilton
+Age: 40
+Salary: 185000.50
+Dept:	Eng
+City:	Aus\
+tin
+
+Id: 3
+Name:Edsger Thompson
+Age:	60
+Salary:1e3
+Dept: Ops
+Level:	5
+Email: anita@example.org
+
+Id:	4
+Name:	Grace \
+Liskov
+Age:	70
+Salary: 41000.50
+Dept: Ops
+Email: rob@example.org
+
+Id: 5
+Name: Rob Hamilton
+Salary: 168000
+Dept: Eng
+Level:	5
+Email:	barbara@example.org
+Email:	donald@example.org

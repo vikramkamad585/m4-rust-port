@@ -1,0 +1,23 @@
+%rec: Item
+%type: V real
+
+
+Name:str\
+eam
+V: 30
+
+
+Name: editor
+V: 1
+
+
+Name: runtime
+V: 6
+
+
+Name: parser
+V:	21
+
+
+Name: delta
+V: 7

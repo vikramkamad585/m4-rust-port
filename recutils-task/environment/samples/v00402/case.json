@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Id:1\nName:Yukihiro McCarthy\nAge:54\nSalary:115000\nDept: Sales\nLevel: 7\nCity: Berlin\n\nId:\t2\nName: Bjarne Pike\nAge: 63\nSalary: 142000.50\nDept:\tSales\nEmail: yukihiro@example.org\nCity:\tCairo\n\nId:3\nName: Frances Dijkstra\nAge:\t37\nSalary:.75\nDept: Ops\nLevel: 1\n# note about Email\nEmail: anita@example.org\n\nId:4\nName:\tKen van Rossum\nAge:\t38\nSalary:\t.75\nDept:Research\nLevel:7\n\nId: 5\nName: Dennis Knuth\nAge:\t20\nSalary:92000.50\nDept: Research\nLevel: 1\nEmail: alan@example.org\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

@@ -1,0 +1,37 @@
+# databases kernel systems
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title:	Queue Gamma Graphics
+Writer: linus
+Writer:	john
+Year: 1990
+
+Title:Parser
+Writer: barbara
+Writer:	john
+Year: 1966
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: john
+Name: John McCarthy
+Born: 1988
+
+# between
+
+Handle: bar\
+bara
+Name: Barbara Liskov
+Born: 1900
+
+# between
+
+Handle:linus
+Name: Linus Pike
+Born: 1930

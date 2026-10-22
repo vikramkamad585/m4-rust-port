@@ -1,0 +1,87 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Level
+
+
+Id: 1
+Name:	Anita Pike
+Age: 66
+Dept: Sales
+# note about Email
+Email:	anita@example.org
+
+
+Id: 2
+Name: Grace Ritchie
+Age:	10
+Dept:Eng
+Level: 6
+City:Tokyo
+
+
+Id: 3
+Name:	Ada Lovelace
+Age: 0xB3
+Salary: 0.5
+Dept:	Ops
+Email: edsger@example.org
+
+
+Id: 4
+Name: Alan Stroustrup
+Age:	7abc
+Dept:	Legal
+Email:rob@example.org
+
+
+Id:5
+Name:Ken Thompson
+Age: 32
+Dept: Support
+Email:	donald@example.org
+Email:	margaret@example.org
+
+
+Id:6
+Name:Leslie Lovelace
+Age:20
+Salary: 79000
+Dept:Ops
+Level: 4
+Email: donald@example.org
+City: Pune
+
+
+Id: 7
+Name:	Radia Pike
+Age: 75
+Salary: 135000.50
+Dept:	Sales
+Email:niklaus@example.org
+
+
+Id: 8
+Name:	Frances Torvalds
+Age:0x15
+Salary: 71000
+Dept: Research
+Level:	5
+
+
+Id: 9
+Name:Donald Wirth
+Age: 34
+Salary:	156000
+Dept:	Eng
+
+
+Id:10
+Name: Ken Ritchie
+Age: 06
+Salary:75000
+Dept: Legal
+Level: 6
+Email: radia@ex\
+ample.org
+Email: edsger@example.org

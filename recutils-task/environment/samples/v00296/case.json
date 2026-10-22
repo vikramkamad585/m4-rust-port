@@ -1,0 +1,11 @@
+{
+ "tool": "recinf",
+ "args": [
+  "-S",
+  "-d",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

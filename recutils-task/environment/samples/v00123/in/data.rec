@@ -1,0 +1,71 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Name
+
+# between
+
+# note about Id
+Id: 1
+Name: Margaret van Rossum
+Age: 21
+Dept: Ops
+Email: ada@example.org
+Email:niklaus@e\
+xample.org
+
+# between
+
+Id:2
+Name: Leslie Ritchie
+Age:63
+Salary:	730.74
+# note about Dept
+Dept: Ops
+Level: 9
+
+# between
+
+Id: 3
+Name:Dennis Stroustrup
+Age: 21
+Salary:	30000
+Dept:	Sales
+City: Paris
+
+# between
+
+# note about Id
+Id: 4
+Name:	Niklaus Turing
+Age: 19
+Salary:	1e3
+Dept: Ops
+Level:	5
+Email:	john@example.org
+
+# between
+
+Id: 5
+Name: Grace Liskov
+Age: 54
+Salary:	-2.5
+Dept: Support
+Email: guido@example.org
+Email: donald@example.org
+
+# between
+
+Id:6
+Name: Edsger Ritchie
+Age:54
+Salary: 252.90
+Dept:Legal
+City: Paris
+
+# between
+
+Id: 7
+Name: Edsger Stroustrup
+Age: 66
+Dept:Support

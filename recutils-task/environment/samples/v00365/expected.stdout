@@ -1,0 +1,8 @@
+"Title","Author","Price","Year","Tag","Available","Author_2","Tag_2","Tag_3","Note"
+"Delta Compilers Parser","Radia Perlman","1e3",,,,,,,
+"Gamma Security","Ada Wirth",".75","1963","compilers","0",,,,
+"Compilers","Barbara Torvalds",".75","1950","delta","no","Alan Matsumoto",,,
+"Databases Runtime Theory","Bjarne Hopper","1e3"," 2","graphics",,,"systems","editor",
+"Beta Graphics","Rob Dijkstra",,"11","kernel","1",,"parser",,"DELTA"
+"Networks Editor","Ada Torvalds","1e3","1989","kernel",,,"systems","queue",
+"Alpha Networks Queue","Ken Borg",,"1955","theory",,,"parser","databases",

@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Item",
+  "-S",
+  "V,Name",
+  "-p",
+  "Name,V",
+  "items.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "typed"
+}

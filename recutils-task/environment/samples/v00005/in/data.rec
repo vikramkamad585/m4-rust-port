@@ -1,0 +1,74 @@
+Title:	Queue Beta Runtime
+Author: Ken Thompson
+Year: 2019
+Tag:kernel
+Tag: delta
+Tag:	gamma
+
+
+Title: Alpha Runtime Compilers
+Author:Margaret Borg
+Author: Grace Hopper
+Year: 1989
+Price: 1e3
+Tag: editor
+Tag: compilers
+Tag:editor
+Note:queue\networks
+
+
+Title: Stream Parser Editor
+# note about Year
+Year:2006
+Tag: editor
+Author: Linus Lovelace
+Price:-2.5
+
+
+Tag:networks
+Price:.75
+Tag:	delta
+Author: Linus Torvalds
+Year:8
+Title: Networks
+Tag:alpha
+
+
+Tag:cache
+Tag: cache
+Title: Stream Cache Parser
+Author:Barbara Wirth
+# note about Year
+Year: 0xB4
+Tag: networks
+
+
+Title: Delta Beta Security
+Author:	Yukihiro Liskov
+Author:Radia McCarthy
+Year:1950
+Price:	.75
+Tag: parser
+Tag: security
+Tag: gamma
+Note: theory cache
+
+
+Title: Delta
+Author:	Dennis Torvalds
+# note about Year
+Year:1968
+Price:0.5
+Tag: beta
+Tag: editor
+Tag:	netw\
+orks
+Note: NETWORKS
+
+
+Title: Delta Networks
+Author: Ada Wirth
+Year: 2007
+Tag: runtime
+Tag: editor
+Tag:systems

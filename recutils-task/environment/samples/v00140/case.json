@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-U",
+  "-C",
+  "-t",
+  "Book",
+  "-R",
+  "Tag,Note",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "print"
+}

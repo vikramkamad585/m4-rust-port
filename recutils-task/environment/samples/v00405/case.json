@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "- {{Year + 6}} {{Note}} {{Tag[1]}} {{Price * 1.5}};"
+ ],
+ "stdin": "Title:\tGamma Stream Security\nAuthor: Niklaus Liskov\nYear: 1954\nTag: alpha\nTag:security\nTag: kernel\nNote:   parser  \n\nTag:\tgamma\nPrice: 138\n# note about Available\nAvailable:\tno\nAuthor: Linus Wirth\nTitle: Runtime Kernel Queue\nYear: 2012\nTag: delta\nNote: editor stream editor\nTag:\tgraphics\n\nTitle: Editor Systems\nAuthor:Frances Hopper\nAuthor:\tMargaret Torvalds\n# note about Price\nPrice: -2.5\nTag: graphics\nTag: sys\\\ntems\nTag: kernel\nAvailable:\t1\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

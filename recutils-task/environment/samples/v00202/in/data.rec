@@ -1,0 +1,109 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title
+
+# between
+
+Title: Editor
+Author:Margaret Thompson
+Year: 1952
+# note about Price
+Price: 0.5
+Available: maybe
+
+# between
+
+Author: Dennis Wirth
+Tag: runtime
+Available: 0
+Note:	delta networks beta
+Title: Theory The\
+ory Theory
+Price:	390
+Tag: beta
+Year: 2010
+Tag: gamma
+
+# between
+
+Title: Graphics Databases
+Author: John Thompson
+Author:	Dennis\
+ Allen
+Price: 1e3
+Tag:stream
+
+# between
+
+Title:	Compilers
+Note:systems\runtime
+Price:735.28
+Year:68
+Author: Alan Dijkstra
+
+# between
+
+Title:Compilers Systems
+Author: Ken McCarthy
+Year: 1995
+Price: 0.5
+Tag: databases
+
+# between
+
+# note about Title
+Title: Databases Theory
+Author:Dennis Turing
+Author: Edsger Matsumoto
+Price: 829.84
+
+# between
+
+Title: Alpha
+Author: Radia Wirth
+Author: Dennis van Rossum
+Year:	98
+Note:delta\alpha
+
+# between
+
+Title: Runtime Systems
+Author:	Edsger Perlman
+Author:Yukihiro Borg
+Year:	1965
+Price: -2.5
+Tag: runtime
+Tag: security
+Tag: editor
+
+# between
+
+Author: Margaret Ritchie
+Tag: alpha
+Available: no
+Year: 8.30
+Price:0.5
+Note:THEORY
+Tag: queue
+Title:Stream Runtime Runtime
+Tag: stream
+
+# between
+
+Title: Queue
+Author: John Borg
+Year:2005
+Price:	.75
+Tag:graphics
+Available: maybe
+
+# between
+
+Title: Theory Kernel
+Author:	Donald Turing
+Year: 1983
+Price: 0.5
+Tag:cache
+Tag: kernel
+Tag: queue

@@ -1,0 +1,37 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+# between
+
+Title: Security
+Year: 1982
+
+# between
+
+Title: Graphics Cache Cache
+Year: 2003
+
+%rec: Author
+%key: Handle
+
+Handle: linus
+Name:Linus Torvalds
+Born:	1953
+
+Handle: dennis
+Name: Dennis\
+ Turing
+Born:1965
+
+Handle: ken
+Name: Ken Hamilton
+Born: 1919
+
+Handle:edsger
+Name: Edsger Liskov
+Born: 1927
+
+Handle: rob
+Name:Rob Stroustrup
+Born:	1986

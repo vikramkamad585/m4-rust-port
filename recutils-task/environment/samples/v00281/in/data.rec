@@ -1,0 +1,52 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name:Edsger Liskov
+Age:  6
+Salary: 60000
+Dept: Ops
+Level: 7
+Email: grace@example.org
+Email: john@example.org
+City:	Berlin
+
+
+Id:	2
+Name:Edsger Perlman
+Age: 73
+Salary: 1660\
+00.50
+Dept:	Sales
+Email:anita@example.org
+Email:dennis@example.org
+City: Austin
+
+
+Id: 3
+Name:	Ken Turing
+Salary: 20000.50
+Dept:	Eng
+
+
+Id:	4
+Name:	Grace Stroustrup
+Age: 11
+# note about Salary
+Salary:	22
+Dept:	Sales
+Level: 7
+Email: niklaus@example.org
+Email: leslie@example.org
+
+
+Id: 5
+Name: Ada Lovelace
+Age: 19
+Salary: 116000
+Dept:Legal
+Level:	9

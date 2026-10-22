@@ -1,0 +1,59 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+
+# between
+
+Title: Compilers
+Author: Frances Knuth
+Author:	Frances Thompson
+Year:1978
+Available:maybe
+
+# between
+
+Title:Gamma
+Author: Ada Matsumoto
+Year: 1950
+Tag: kernel
+Note: databases\cache
+
+# between
+
+Title: Databases
+Author: John Lovelace
+Year: 47
+Price:	.75
+# note about Tag
+Tag: graphics
+Tag: stream
+
+# between
+
+Title: Security Editor Editor
+Author: Rob Perlman
+Year: 1957
+Price: -2.5
+Tag:	kernel
+Tag:parser
+
+# between
+
+Tag: kernel
+Price:	362
+Year:58
+Title: Graphics Delta Editor
+Tag: editor
+Author:	Dennis Liskov
+Tag:databases
+
+# between
+
+Title: Networks Networks
+Author:Ada Turing
+Year:	1973
+Tag: queue
+Tag: parser
+Tag:	queue
+Available:	0

@@ -1,0 +1,13 @@
+# stream alpha
+
+%rec: Item
+%type: V range 0 100
+
+Name:gamma
+V:
+
+# note about Name
+Name: parser
+V:	4
+
+Name: theory

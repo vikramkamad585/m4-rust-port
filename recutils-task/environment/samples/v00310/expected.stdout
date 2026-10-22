@@ -1,0 +1,42 @@
+(record 48 (
+(field 48 "Id" "1")
+(field 54 "Name" "Niklaus Liskov")
+(field 91 "Age" "4abc")
+(field 101 "Salary" "134000.50")
+(field 119 "Dept" "Research")
+(field 134 "Level" "8")))
+
+(record 144 (
+(field 144 "Id" "2")
+(field 150 "Name" "Rob McCarthy")
+(field 169 "Age" "30")
+(field 177 "Dept" "Support")
+(field 192 "Level" "6")
+(field 201 "Email" "leslie@example.org")
+(field 227 "City" "Tokyo")))
+
+(record 240 (
+(field 240 "Id" "3")
+(field 246 "Name" "Rob Perlman")
+(field 263 "Age" "52")
+(field 270 "Salary" "-2.5")
+(field 282 "Dept" "Sales")
+(field 293 "Email" "linus@example.org")
+(field 318 "Email" "alan@example.org")
+(field 342 "City" "Lima")))
+
+(record 354 (
+(field 354 "Id" "4")
+(field 360 "Name" "Leslie Wirth")
+(field 379 "Dept" "Ops")
+(field 389 "Level" "9")
+(field 397 "Email" "edsger@example.org")))
+
+(record 424 (
+(field 424 "Id" "5")
+(field 430 "Name" "Edsger Knuth")
+(field 449 "Age" "76.53")
+(field 459 "Dept" "Support")
+(field 472 "Level" "8")
+(field 481 "Email" "alan@example.org")
+(field 505 "City" "Tokyo")))

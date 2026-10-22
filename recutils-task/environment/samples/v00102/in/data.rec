@@ -1,0 +1,39 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+
+Title: Security Compilers Security
+Author: Ken Hopper
+Year:  4
+Tag: alpha
+Tag: theory
+
+
+Title: Gamma Databases Delta
+Author: France\
+s Pike
+Author: Grace McCarthy
+Year: 1953
+Tag: alpha
+Tag:theory
+Tag: networks
+Available:	1
+
+
+Title: Queue Cache Gamma
+Author: Edsger Stroustrup
+Year: 1976
+Price: 1e3
+Tag:runtime
+
+
+Available: 0
+Author: Bjarne Ritchie
+Price:	0.5
+Year:1954
+Title:	Compilers Databases Stream
+Tag:stream
+Tag: beta
+Tag: alpha

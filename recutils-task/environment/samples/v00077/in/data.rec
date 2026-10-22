@@ -1,0 +1,63 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id:	1
+Name: Radia van Rossum
+Age: 68
+Salary:110000.50
+Dept:	Research
+City: Berlin
+
+
+Id: 2
+Name: Barbara Wirth
+Age:	39
+Salary: 140000
+Dept: Ops
+# note about Email
+Email:edsger@example.org
+City: Oslo
+
+
+Id: 3
+Name: Dennis Perlman
+Age: 5
+Salary: 93000.50
+Dept:Research
+Level: 4
+
+
+Id:4
+Name: Grace Matsumoto
+Age:	31
+Salary: 231
+Dept:	Sales
+City:Lima
+
+
+Id: 5
+Name:	Niklaus van Rossum
+Age:	45
+Salary:	269
+Dept: Support
+Email: frances@example.org
+
+
+Id: 6
+Name: Barbara Allen
+Age: 68
+Salary: 172000
+Dept: Support
+Level: 1
+
+
+Id: 7
+Name: Leslie McCarthy
+Age:	23
+Salary:51000.50
+Dept:Research

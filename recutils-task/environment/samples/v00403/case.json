@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Id: 1\nName:\tAnita Turing\nSalary:68000\nDept: Eng\nLevel: 6\n\n\nId:\t2\nName:Margaret Matsumoto\nAge:\t72\nSalary: 173000\nDept:\tOps\nLevel:\t2\n\n\nId: 3\nName: Bjarne Hamilton\nAge: 0x3D\nSalary: 1e3\nDept:\tOps\nEmail: bjarne@example.org\nEmail:ken@example.org\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

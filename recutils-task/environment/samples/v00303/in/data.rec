@@ -1,0 +1,16 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+
+# between
+
+Title:Kernel Networks Delta
+Note:   secu\
+rity  
+Tag:	delta
+Available:	no
+Price:-2.5
+Tag:runtime
+Year: 07
+Tag:	alpha
+Author: Frances McCarthy

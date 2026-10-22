@@ -1,0 +1,18 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title: Alpha Cache
+Author: Grace Ritchie
+Year: 2020
+Price:	0.5
+
+# note about Title
+Title:	Databases Beta
+Author: Rob Mc\
+Carthy
+Author:Guido Pike
+# note about Year
+Year:	1abc
+Price: -2.5
+Tag:systems

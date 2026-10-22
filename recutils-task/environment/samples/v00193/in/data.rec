@@ -1,0 +1,91 @@
+# queue beta gamma editor
+
+
+%rec: Book
+%type: Year int
+%type: Price real
+%key: Title
+
+
+Note:   queue  
+# note about Price
+Price:	-2.5
+Title: Kernel
+Author: Edsger Torvalds
+Year: 2001
+
+
+Title:	Ga\
+mma
+Year: 1964
+Tag:delta
+Price:.75
+Available: 1
+Tag: compilers
+Author:	Donald v\
+an Rossum
+
+
+Title: Editor
+Tag: parser
+Year: 1998
+Price: -2.5
+Note: gamma
+Tag: stream
+Tag: stream
+Author: Radia Wirth
+
+
+Title: Parser Queue
+Author:	Frances Lovelace
+Year:1977
+Price:	870.23
+Tag: graphics
+Tag: editor
+# note about Tag
+Tag: theory
+
+
+Title: Networks Cache
+Author: Grace Turing
+Year: 1962
+Price:	0.5
+Tag: theory
+
+
+Title:	Systems Alpha Compilers
+Author:Leslie M\
+atsumoto
+Year: 2004
+Price: 330
+Tag: graphics
+Tag:databases
+
+
+Title:Systems Runtime
+Author: Margaret Turing
+Year: 2006
+Price:.75
+Tag: kernel
+Tag: editor
+Tag:security
+
+
+Title: Databases Delta Runtime
+Author: Guido van Rossum
+Year: 2014
+Price:1e3
+Tag: networks
+Tag:edi\
+tor
+Available: no
+
+
+Title: Beta Kernel Parser
+Author:	Linus Knuth
+Year:	0x7B
+Price:-2.5
+Tag: theory
+Tag:	networks
+Note: run\
+time

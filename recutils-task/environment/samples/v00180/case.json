@@ -1,0 +1,17 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-G",
+  "Year",
+  "-p",
+  "Year,Min(Available):Result,Count(Price)",
+  "-S",
+  "Title",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

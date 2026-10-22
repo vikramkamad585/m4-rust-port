@@ -1,0 +1,47 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%key: Title
+
+# between
+
+Title:Security Databases Gamma
+Author: Yukihiro Hopper
+Year: 2015
+Price: 231
+Tag:alpha
+Tag: queue
+
+# between
+
+Title: Stream Theory
+Author: Radia McCarthy
+Price: 207
+
+# between
+
+Title:Beta Stream Theory
+Author: John Matsumoto
+Year: 1989
+
+# between
+
+Title:	Alpha Stream Databases
+Author: Grace van Rossum
+Year: 1962
+Price: -2.5
+Tag: security
+Tag:kernel
+Available: true
+
+# between
+
+Title: Beta Parser Networks
+Author: Radia Borg
+Year: -44
+Price: 57
+Tag: compilers
+Tag: kernel
+Tag:	editor
+Note: say "queue"

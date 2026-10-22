@@ -1,0 +1,13 @@
+(record 48 (
+(field 160 "City" "Tokyo")
+(field 109 "Email" "linus@example.org")
+(field 134 "Email" "frances@example.org")))
+
+(record 172 (
+(field 264 "Email" "john@example.org")
+(field 287 "Email" "john@example.org")))
+
+(record 312 (
+(field 435 "City" "Cairo")
+(field 385 "Email" "edsger@example.org")
+(field 411 "Email" "anita@example.org")))

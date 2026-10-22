@@ -1,0 +1,25 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Author:Rob Torvalds
+Year: 2005
+Title: Alpha
+Price: .75
+Author: Linus Matsumoto
+
+
+Title: Kernel Graphics Parser
+Author: Ken \
+Knuth
+Author:Radia Hopper
+Year: 1993
+Tag: compilers
+
+
+Title:	Stream Graphics Compilers
+Author: Barbara McCarthy
+Author:Yukihiro McCarthy
+Year:1967
+Price: 492

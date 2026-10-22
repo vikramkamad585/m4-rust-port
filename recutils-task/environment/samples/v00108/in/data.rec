@@ -1,0 +1,81 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: Anita Lamport
+Salary: 144000.50
+Dept: Eng
+Level:4
+
+Id:	2
+Name: John Turing
+Age:	66
+Salary: 17
+Dept: Ops
+Level: 8
+Email:	ken@example.org
+City:	Tokyo
+
+Id:	3
+Name:	Donald Ritchie
+Age: 35
+Salary: 130000
+Dept:Sales
+Level: 7
+
+Id: 4
+Name: Margaret Perlman
+Age: 70
+Salary:	41000.50
+Dept:Legal
+Level:	7
+Email: anita@example.org
+Email: ada@example.org
+
+Id:5
+Name:Dennis Turing
+Age:	70
+Salary:363
+Dept: Sales
+Email: alan@example.org
+
+Id:6
+Name: Grace van Rossum
+Age: 57
+Salary: 221
+Dept:	Sales
+Level: 8
+Email: linus@example.org
+
+Id:7
+Name: Yukihiro Wirth
+Age: 50
+Salary: 106000
+Dept:	Support
+Email: grace@example.org
+Email:alan@example.org
+City:	Tokyo
+
+Id: 8
+Name:Dennis van Rossum
+Age: 6abc
+Salary: .75
+Dept:Sales
+# note about Level
+Level:	3
+Email: donald@example.org
+Email:	margaret@example.org
+
+Id: 9
+Name:	Edsger Torvalds
+Age: 102
+Salary: 21000
+Dept:Eng
+Level: 9
+Email: ken@example.org
+Email: dennis@ex\
+ample.org

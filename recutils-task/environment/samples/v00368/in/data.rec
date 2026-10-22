@@ -1,0 +1,20 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id:1
+Name:Ken Ritchie
+Salary: 183000
+Dept:	Legal
+Level: 9
+
+# between
+
+Id: 2
+Name:Ken Wirth
+Age: 68
+Salary: 448
+Dept:Research

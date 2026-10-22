@@ -1,0 +1,94 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+Id: 1
+Name: Niklaus Hamilton
+Age: 
+Dept:	Support
+
+# between
+
+Id:	2
+Name:Leslie Wirth
+Age:	39
+Salary:128000
+Dept: Eng
+City:Cairo
+
+# between
+
+Id: 3
+Name: Radia Perlman
+Age: 89
+Salary: 51000.50
+Dept: Sales
+Level: 1
+Email: donald@example.org
+
+# between
+
+Id:4
+Name:	Yukihiro Lovelace
+Age:	48
+Salary: .75
+Dept: Research
+Level: 8
+Email:frances@example.org
+Email:radia@example.org
+
+# between
+
+Id: 5
+Name: Niklaus Lovelace
+Age: 114
+Dept:	Ops
+Email: ada@example.org
+Email:niklaus@example.org
+
+# between
+
+Id:6
+Name: Margaret van Rossum
+Age: 48
+Salary: -2.5
+Dept:	Eng
+Level:8
+Email:bjarne@example.org
+
+# between
+
+Id: 7
+Name:	Ada Dijkstra
+Age: 30
+Salary: .75
+Dept: Sales
+Level:8
+Email: frances@example.org
+Email: bjarne@example.org
+City: Paris
+
+# between
+
+Id:8
+Name: Radia Perlman
+Age: 46
+Dept: Ops
+Level: 2
+Email:	margaret@example.org
+# note about Email
+Email: frances@example.org
+
+# between
+
+Id:9
+Name: Anita Stroustrup
+Age:  5
+Salary: 164000.50
+Dept: Eng
+Email:	frances@example.org

@@ -1,0 +1,36 @@
+Title: Stream
+Author: John Stroustrup
+Year: 2000
+Tag: stream
+Tag: queue
+Tag: databases
+Note: say "stream"
+
+Tag: graphics
+Available: true
+Tag: runtime
+Tag: alpha
+Author: Dennis Perlman
+Price: -2.5
+Title: Gamma Kernel
+Year: 1986
+Author: Niklaus Borg
+
+Author: Leslie Perlman
+Tag: compilers
+Tag: security
+Title: Systems Queue
+Year: 102
+Author: Margaret Stroustrup
+Tag: kernel
+Price: 624.93
+
+Title: Beta Kernel
+Author: Yukihiro Ritchie
+Author: Niklaus Knuth
+Year: 1973
+Price: 389
+Tag: databases
+Tag: runtime
+Tag: cache
+Note: parser security

@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Price}}, {{Note}}, {{Title[1]}}\n"
+ ],
+ "stdin": "Title: Parser Databases Stream\nAuthor: Yukihiro Turing\nPrice:\t.75\nTag:\tqueue\nTag: compilers\n\n# between\n\nAuthor: Alan Thompson\nYear: 57\nPrice:-2.5\nAuthor:\tGrace Liskov\nAvailable: false\nTag:\truntime\n# note about Title\nTitle: Systems Queue Delta\n\n# between\n\nTitle:\tTheory\nAuthor:Linus Torvalds\nYear: 53\nPrice:84\nAvailable: yes\nNote:\tGAMMA\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

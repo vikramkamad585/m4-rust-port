@@ -1,0 +1,81 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+# between
+
+# note about Id
+Id:1
+Name:	Barbara Hopper
+Age: 67
+Dept: Support
+
+# between
+
+Id: 2
+Name:Margare\
+t Knuth
+Age: 64
+Salary: 163000.50
+# note about Dept
+Dept:Sales
+Level: 8
+City: Berlin
+
+# between
+
+Id: 3
+Name: Niklaus Liskov
+Age:	53
+Dept: Legal
+Level: 1
+City:	Berlin
+
+# between
+
+Id:4
+Name: John Hopper
+Age:38
+Dept:	Sales
+Level:7
+Email:ken@exa\
+mple.org
+
+# between
+
+Id:	5
+Name:	Rob Stroustrup
+Age: 0x6C
+Salary: 151000
+Dept:	Sales
+Email:	bjarne@example.org
+Email:	alan@example.org
+
+# between
+
+Id:	6
+Name: Anita Dijkstra
+# note about Age
+Age:	52
+Salary: 0.5
+Dept:	Research
+Level: 1
+# note about City
+City:	Pune
+
+# between
+
+# note about Id
+Id: 7
+Name: Bjarne Wirth
+Age: 30
+Salary: 405.26
+# note about Dept
+Dept:Support
+Level: 9
+# note about Email
+Email: john@example.org
+Email: grace@example.org

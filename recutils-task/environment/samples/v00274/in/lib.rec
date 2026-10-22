@@ -1,0 +1,47 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title: Alpha
+Writer: edsger
+Year:1983
+
+Title:Editor Runtime Gamma
+Writer:rob
+# note about Writer
+Writer:	niklaus
+Year: 1968
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle: edsger
+# note about Name
+Name:	Edsger Lamport
+Born: 1900
+
+# between
+
+Handle: rob
+Name: Rob Thompson
+Born:1989
+
+# between
+
+Handle: john
+Name:	John Perlman
+Born:	1964
+
+# between
+
+Handle: yukihiro
+Name:Yukihiro Turing
+Born: 1907
+
+# between
+
+Handle: niklaus
+Name:	Niklaus Ritchie
+Born: 1980

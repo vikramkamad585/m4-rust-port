@@ -1,0 +1,23 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Age
+
+
+Id:1
+Name:Dennis Turing
+Age: 20
+Salary: 339
+Dept: Le\
+gal
+
+
+Id: 2
+Name:Yukihiro Borg
+Age: 80
+Salary: 30000.50
+Dept: Ops
+Email: radia@example.org
+Email: frances@example.org
+City: Pune

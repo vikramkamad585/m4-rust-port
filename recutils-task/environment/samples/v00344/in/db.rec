@@ -1,0 +1,102 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title
+%key: Title
+
+
+Title: Compilers Gamma
+Author: Barbara Liskov
+Year:	1957
+Price:	-2.5
+Tag:	delta
+Tag: editor
+Available:yes
+
+
+Title: Parser
+Author: Ada Torvalds
+Year:1965
+Price: 215
+Tag: sys\
+tems
+Available:	maybe
+
+
+Title: Systems Theory
+Author: Anita Knuth
+Year:33
+Price: 147
+Note:	security cache systems
+
+
+Title: Runtime Cache
+Author: Dennis Turing
+Year: 2009
+Price:	560.24
+Tag:	gamma
+Tag: databases
+Available:true
+
+%rec: Book2
+%type: Year int
+%type: Price real
+%type: Available bool
+
+
+Title:	Gamma Cache
+Author:	Edsger Dijkstra
+Author: Donald Lovelace
+Year:	119
+
+
+Author: Frances Borg
+Title:Compilers
+
+
+Title:	Stream
+Author:	Barbara Torvalds
+Year: 1985
+Price:	1e3
+Tag:delta
+Available: maybe
+Note: gamma
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Level
+
+
+Id: 1
+Name: Yukihiro Stroustrup
+Age:	48
+Salary:175000
+Dept: Support
+Level: 6
+Email:dennis@example.org
+
+
+Id:2
+Name:	Edsger Hamilton
+Dept:Legal
+Email: edsger@example.org
+
+
+# note about Id
+Id: 3
+Name: Dennis Lamport
+Age: 32
+Salary: 751.25
+Dept: Ops
+Level: 5
+Email:ken@example.org
+City:	Lima
+
+
+# note about Id
+Id: 4
+Name:	Edsger McCarthy
+Age: 70.48
+Salary: 31000.50
+Dept:	Research

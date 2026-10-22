@@ -1,0 +1,33 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id: 1
+Name:Alan Borg
+Age: 49
+Salary: 119
+Dept: Le\
+gal
+Level:4
+Email:	alan@example.org
+
+Id: 2
+Name:	Grace Pike
+Age:52
+Salary:	123000.50
+Dept:	Ops
+City: Tokyo
+
+Id:3
+Name: Leslie Hopper
+Age:47.15
+Salary:58000.50
+Dept: Support
+Email: margaret@example.org
+Email: leslie@example.org
+
+Id: 4
+Name:Barbara Torvalds
+Salary: 139000.50
+Dept:Eng
+Email:barbara@example.org

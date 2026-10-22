@@ -1,0 +1,23 @@
+%rec: Item
+%type: V int
+
+Name: parser
+
+Name:	graphics
+V: -2
+
+Name:theory
+V:21
+
+Name: networks
+# note about V
+V: 0
+
+Name: editor
+V: 0
+
+# note about Name
+Name: parser
+
+Name: security
+V:	0

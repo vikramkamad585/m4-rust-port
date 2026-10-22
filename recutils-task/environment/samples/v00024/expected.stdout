@@ -1,0 +1,61 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Level
+
+Id: 1
+Name: Barbara Lovelace
+Age: 104
+Salary: 41000
+Dept: Support
+
+Id: 2
+Name: Yukihiro Lamport
+Age: 32
+Salary: 168000
+Dept: Legal
+
+Id: 7
+Name: Ada Pike
+Dept: Sales
+Email: anita@example.org
+
+Id: 8
+Name: Radia Thompson
+Age: 24
+Salary: 140000
+Dept: Legal
+Email: barbara@example.org
+City: Paris
+
+Id: 5
+Name: Ken Dijkstra
+Age: 25
+Salary: 123000.50
+Dept: Eng
+Level: 1
+
+Id: 3
+Name: Niklaus Lamport
+Age: 40
+Dept: Sales
+Level: 3
+Email: rob@example.org
+City: Tokyo
+
+Id: 4
+Name: Barbara Lovelace
+Age: 20.84
+Salary: 157000.50
+Dept: Ops
+Level: 3
+Email: leslie@example.org
+City: Austin
+
+Id: 6
+Name: Linus Lamport
+Age: 6abc
+Salary: 34000
+Dept: Sales
+Level: 7

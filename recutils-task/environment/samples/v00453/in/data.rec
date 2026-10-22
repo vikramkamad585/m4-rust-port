@@ -1,0 +1,37 @@
+%rec: Book
+%type: Year int
+%sort: Year
+
+
+Title:	Delta Theory
+Author: Ada Stroustrup
+Price:305
+Tag: compilers
+
+
+Year:	1995
+Title: Theory
+Tag: stream
+Tag: kernel
+Tag: networks
+Available: yes
+Author: Barbara Stroustrup
+Author: John Liskov
+
+
+# note about Title
+Title:Gamma Parser Compilers
+Author:	Donald Pike
+# note about Author
+Author: Donald Allen
+Year: 86.71
+Tag: runtime
+Tag: queue
+Note:queue
+
+
+Title: Editor
+Author:	Donald Lamport
+Year: 1954
+Price: -2.5
+Available: maybe

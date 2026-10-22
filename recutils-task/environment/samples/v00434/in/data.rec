@@ -1,0 +1,13 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:1
+Name: Linus Stroustrup
+Age:
+Salary: 24000.50
+Dept: Eng
+City: Lima

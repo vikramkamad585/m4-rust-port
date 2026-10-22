@@ -1,0 +1,33 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+%sort: Price
+
+
+Title:Delta Queue
+Tag:	compilers
+Author: Donald Turing
+Tag: databases
+Year:	8abc
+Author: Barbara Lovelace
+Tag: run\
+time
+
+
+Tag: graphics
+Price: 1e3
+Author: Margaret Torvalds
+# note about Author
+Author: Niklaus Perlman
+Title: Parser
+Year:23
+# note about Tag
+Tag: networks
+Available:	yes
+Tag:	alpha
+
+
+Title:	Editor
+Author: Alan Pike
+Year: 
+Price:333

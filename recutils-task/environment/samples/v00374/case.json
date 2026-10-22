@@ -1,0 +1,9 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

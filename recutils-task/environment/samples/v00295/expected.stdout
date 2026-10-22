@@ -1,0 +1,37 @@
+(record 41 (
+(field 41 "Title" "Graphics Compilers Networks")
+(field 76 "Author" "Dennis Perlman")
+(field 99 "Year" "95")
+(field 108 "Price" "227.74")
+(field 122 "Tag" "cache")
+(field 133 "Available" "no")))
+
+(record 148 (
+(field 148 "Price" "516.42")
+(field 162 "Tag" "delta")
+(field 173 "Title" "Runtime Delta")
+(field 212 "Year" "0x8F")
+(field 222 "Tag" "queue")
+(field 232 "Author" "Anita Knuth")))
+
+(record 253 (
+(field 253 "Title" "Theory Beta")
+(field 272 "Author" "Anita van Rossum")
+(field 297 "Year" "1963")
+(field 307 "Note" "beta\\stream")))
+
+(record 326 (
+(field 326 "Title" "Gamma Runtime Editor")
+(field 356 "Author" "Barbara Hamilton")
+(field 398 "Year" "8abc")
+(field 409 "Price" "0.5")
+(field 420 "Available" "0")
+(field 433 "Note" "beta graphics")))
+
+(record 454 (
+(field 454 "Title" "Graphics Stream")
+(field 496 "Author" "Radia Ritchie")
+(field 518 "Author" "Barbara Hamilton")
+(field 561 "Year" "2023")
+(field 572 "Price" "1e3")
+(field 582 "Available" "yes")))

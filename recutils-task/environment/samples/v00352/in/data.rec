@@ -1,0 +1,34 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Author: Rob Wirth
+Tag:	databases
+Tag: graphics
+Author: Alan Borg
+Note: beta\\
+queue
+Year: 1974
+Title: Cache
+Price: .75
+
+# between
+
+Title: Alpha Alpha Beta
+Author: Bjarne Dijkstra
+Year: 2022
+Price: .75
+
+# between
+
+Price:	1e3
+Author:Guido van Rossum
+Tag:	theory
+Note:beta queue
++parser
+Title: Runtime Editor
+Year:	1951
+Tag: ca\
+che

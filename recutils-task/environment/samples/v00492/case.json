@@ -1,0 +1,9 @@
+{
+ "tool": "recinf",
+ "args": [
+  "nofile.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "diag"
+}

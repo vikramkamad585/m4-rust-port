@@ -1,0 +1,83 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Title:Databases Editor Stream
+Author:	Ada Lovelace
+Year: 2013
+Price:	0.5
+Tag:	runtime
+# note about Tag
+Tag:parser
+
+# between
+
+Title: Runtime
+Author: Grace Thompson
+Year: 1960
+Price: .75
+Tag: theory
+Note:cache\theory
+
+# between
+
+Title: Stream Compilers Stream
+Author: Leslie Pike
+Year: 02
+Price: 0.5
+Tag:databases
+Tag: comp\
+ilers
+
+# between
+
+Title:Theory Networks
+Author: Radia Pike
+Year:1958
+Price:	-2.5
+Tag: parser
+Tag: cache
+Tag:	security
+Note: networks
+
+# between
+
+Title:Parser Databases
+Author:	Frances Ritchie
+Year: 0x75
+# note about Tag
+Tag:	alpha
+Tag:	delta
+Available:	maybe
+
+# between
+
+Title:	Queue
+Author:	Edsger Ritchie
+Year:2014
+Tag: databases
+Tag:	gamma
+Tag:beta
+Available: true
+
+# between
+
+Title:	Networks Systems Stream
+Author: Rob Hamilton
+Price:	1e3
+# note about Tag
+Tag:	gamma
+Tag: alpha
+# note about Tag
+Tag: databases
+Note:say "cache"
+
+# between
+
+Title: Systems Beta
+Author:	Rob Matsumoto
+Year:	2
+Price:700.80
+Available:true

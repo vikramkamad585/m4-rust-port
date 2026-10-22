@@ -1,0 +1,38 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name: John Lamport
+Salary: 179
+Dept: Support
+Level: 9
+
+Id:	2
+Name: Ada T\
+uring
+Age: 43
+Salary:152\
+000
+Dept:	Eng
+Email:alan@example.org
+Email:ken@example.org
+City:	Berlin
+
+Id:	3
+Name: Yukihiro Pike
+Age: 63
+Salary: 37000.50
+Dept: Ops
+Email: yukihiro@example.org
+Email: frances@e\
+xample.org
+
+Id: 4
+Name:John Matsumoto
+Age: -46
+Salary: 39000.50
+Dept: Sales
+Level: 6
+Email:	bjarne@example.org

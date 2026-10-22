@@ -1,0 +1,74 @@
+# runtime runtime
+
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+Id:	1
+Name: John Knuth
+Age: 70
+Salary: 337\
+.62
+Dept: Legal
+Level: 8
+Email: donald@example.org
+Email:	dennis@ex\
+ample.org
+City:Pune
+
+
+Id: 2
+Name:	Leslie Borg
+Age: 25
+Salary: 112000.50
+Dept: Eng
+Level:	1
+
+
+Id: 3
+# note about Name
+Name: John Pike
+Age:	117
+Salary: 131\
+000
+Dept: Research
+Level:2
+Email: ken@example.org
+Email: john@example.org
+
+
+Id: 4
+Name:Anita Stroustrup
+Age:68
+Dept: Eng
+Level: 2
+Email: frances@example.org
+
+
+Id:	5
+Name: Alan Stroustrup
+Age:	48
+Salary: 67000
+Dept: Eng
+Level:5
+Email: frances@example.org
+
+
+Id: 6
+Name: Grace Knuth
+Age:49
+Salary: 126000
+Dept: Support
+
+
+Id:	7
+Name: Margaret Ritchie
+Age: 06
+Salary:	58000
+Dept: Sup\
+port
+Level: 8
+City:	Cairo

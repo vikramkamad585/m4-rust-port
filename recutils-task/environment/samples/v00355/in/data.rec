@@ -1,0 +1,64 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+Id:1
+Name: Frances Thompson
+Age: 37
+Salary:	28000.50
+Dept:Support
+City: Pune
+
+# between
+
+Id: 2
+Name: John Torvalds
+Age:	33
+Salary:55000.50
+Dept:Legal
+Email:yukihiro@example.org
+
+# between
+
+Id:3
+Name: Rob Lovelace
+Age: 19
+Salary: 149000.50
+Dept:	Sales
+Level:6
+Email:ken@example.org
+Email:	barbara@example.org
+
+# between
+
+Id: 4
+Name:Ada \
+Borg
+Age: 68
+Dept: Sales
+Email: frances@example.org
+
+# between
+
+Id: 5
+Name:	Yukihiro\
+ Ritchie
+Age: 33
+Salary:	63000.50
+Dept: Sales
+Level: 6
+Email: rob@example.org
+
+# between
+
+Id: 6
+Name:	Ada Wirth
+Age: 25
+Salary: 127000.50
+Dept: Sales
+Level: 8
+Email: yukihiro@example.org
+City: Lima

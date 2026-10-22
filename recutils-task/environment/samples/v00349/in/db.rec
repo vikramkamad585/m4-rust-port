@@ -1,0 +1,25 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%sort: Dept Age
+
+Id: 1
+Name: Frances van Rossum
+Age:  4
+Salary:120000.50
+Dept:Sales
+Level: 1
+# note about Email
+Email: grace@example.org
+
+Id:	2
+Name: Leslie McCarthy
+Age:	25
+Salary: 106000.50
+Dept:Eng
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title

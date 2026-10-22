@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Note[1]}}, {{Year * 7}}\n"
+ ],
+ "stdin": "# networks kernel\n\n# between\n\nTitle:\tTheory Queue\nAuthor: Linus Dijkstra\nAuthor:Leslie Hamilton\nYear: 2023\n# note about Price\nPrice: 912.85\nAvailable: true\nNote: cache\\gamma\n\n# between\n\nTitle:\tBeta\nAuthor: John Knuth\n# note about Tag\nTag:databases\nTag: de\\\nlta\nYear: 1998\nNote: systems\n\n# between\n\nTitle: Networks Gamma\nAuthor: John Borg\nYear:\t0x1F\nPrice: 116\n\n# between\n\nTag:compilers\nTitle:Alpha Gamma\nTag:networks\nAuthor:\tGuido Hamilton\nYear:\t02\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

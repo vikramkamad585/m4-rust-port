@@ -1,0 +1,27 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+Title: Runtime
+Writer: john
+Year: 1998
+
+Title: Gamma Kernel
+Writer: dennis
+Writer: dennis
+Year: 1999
+
+Title: Queue Delta
+Year: 2012
+
+Title: Graphics
+Writer: barbara
+Year: 1981
+
+Title: Graphics
+Writer: grace
+Year: 1984
+
+Title: Stream
+Writer: dennis
+Year: 1971

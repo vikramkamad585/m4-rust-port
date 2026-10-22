@@ -1,0 +1,31 @@
+%rec: Book
+%type: Year int
+
+# between
+
+Tag:queue
+Tag: stream
+Title: Stream Stream
+Year: 2022
+Price: .75
+Author:Radia Liskov
+Author: Donald Stroustrup
+
+# between
+
+Title: Alpha Networks Gamma
+Author: Niklaus Wirth
+Author:Grace Wirth
+Year: 1983
+Tag:parser
+Tag:	networks
+Tag:beta
+Note:compilers
+
+# between
+
+Title:Beta Stream Queue
+Author: Donald Knuth
+Year: 1993
+Tag:	theory
+Available: 1

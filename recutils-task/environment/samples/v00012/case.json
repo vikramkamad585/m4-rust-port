@@ -1,0 +1,7 @@
+{
+ "tool": "recsel",
+ "args": [],
+ "stdin": "%rec: Staff\n%type: Age int\n%type: Salary real\n\nId:\t1\nName:\tLinus Turing\nAge:84\nSalary: -2.5\n# note about Dept\nDept: Legal\nLevel: 4\nEmail:\trob@example.org\nCity: Austin\n\nId: 2\nName: Rob Lamport\nAge: 115\nSalary: 116000.50\nDept:\tSupport\nEmail: linus@example.org\n\nId:3\nName: Margaret Thompson\nAge:53.14\nSalary:\t49000\nDept:Rese\\\narch\nLevel: 7\nEmail:margaret@example.org\nEmail:leslie@example.org\n",
+ "compare_stderr": false,
+ "group": "parse"
+}

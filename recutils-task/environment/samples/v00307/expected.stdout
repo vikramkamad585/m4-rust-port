@@ -1,0 +1,4 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9

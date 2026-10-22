@@ -1,0 +1,72 @@
+# graphics queue
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id:1
+Name: Bjarne Lamport
+Age:53
+Salary:682.11
+Dept: Sales
+Email:	barbara@example.org
+Email: linus@ex\
+ample.org
+
+Id: 2
+Name:John Turing
+Age:06
+Salary: 35000
+Dept:	Legal
+
+Id: 3
+Name:	Anita Wirth
+Age:24
+Salary: 111000
+Dept: Research
+
+Id: 4
+Name: Niklaus McCarthy
+Age:  0
+Salary: 59000
+Dept:Rese\
+arch
+Level: 2
+Email: linus@example.org
+Email:	dennis@example.org
+City:	Ca\
+iro
+
+Id:	5
+Name: Leslie Pike
+Age:54
+Salary:.75
+Dept:	Legal
+# note about Email
+Email:grace@example.org
+Email:leslie@example.org
+
+Id: 6
+Name: Dennis Stroustrup
+Age: 
+Salary:84000.50
+Dept:	Ops
+Level: 9
+
+Id:7
+Name: Alan Pike
+Age:	57
+Salary:.75
+Dept:	Eng
+Email: bjarne@example.org
+
+Id: 8
+Name: Ken Hopper
+Age: 0x81
+Salary: 21000.50
+Dept: Research
+Level: 1
+Email: leslie@example.org
+Email: anita@example.org
+City: Paris

@@ -1,0 +1,102 @@
+%rec: Book
+%type: Year int
+%type: Available bool
+
+# between
+
+Available: 1
+Tag:	networks
+# note about Author
+Author: Radia Matsumoto
+Tag: kernel
+Note:	cache beta networks
+Title: Databases Beta Runtime
+Year: -7
+Author: Barbara Allen
+
+# between
+
+Title:	Alpha Compilers
+Author: John Hamilton
+Author: Margaret Pike
+Year:1964
+Tag: security
+Available: 1
+
+# between
+
+Title: Security Parser
+Author: Anita Liskov
+Author: Niklaus Torvalds
+Year: 2011
+Price: .75
+Tag:	stream
+
+# between
+
+Year:	93
+Title: Systems
+Note: compilers editor
+Tag: networks
+Price: .75
+Tag: cache
+Author: Leslie Lovelace
+
+# between
+
+Title: Queue
+Author: John Borg
+Year: 04
+Tag: delta
+Note:graphics databases
+
+# between
+
+Available: true
+Price: .75
+Tag:kernel
+Title:	Editor
+Author: Guido van Rossum
+Note: editor queue gamma
+Year:	1980
+
+# between
+
+Title:Gamma
+Author: Yukihiro\
+ Lovelace
+Year:	1974
+Note:	delta
+
+# between
+
+Title:	Alpha
+Author:	Guido Turing
+Author:	Niklaus Thompson
+Year: 1987
+Price: -2.5
+Tag: databases
+Tag: editor
+Available: true
+
+# between
+
+Title:	Compilers Networks Gamma
+Author: Barbara Hopper
+Year: 1982
+Price:	97
+Tag: compilers
+Tag: kernel
+Available: maybe
+Note: delta editor
+
+# between
+
+Tag: compilers
+Note:   parser  
+Year:44
+Available:	no
+Title:	Security Delta Databases
+Tag:	cache
+Author:	Rob Hopper
+Price: -2.5

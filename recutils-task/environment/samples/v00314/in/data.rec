@@ -1,0 +1,33 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year Title
+
+Title: Runtime
+Author: Linus Stroustrup
+Author: Dennis Pike
+# note about Year
+Year:1984
+Available: true
+Note: databases
+
+Title: Beta Editor Kernel
+Author: Ada Ritchie
+Author:Alan Liskov
+Year: 1957
+Price:1e3
+
+Title: Databases Editor
+Author: Barbara Ritchie
+Year:1961
+Available: maybe
+Note: editor
++ cache editor
+
+Title: Systems
+Author:Ken Wirth
+Year:2021
+# note about Price
+Price:0.5
+Tag: systems
+Tag: graphics

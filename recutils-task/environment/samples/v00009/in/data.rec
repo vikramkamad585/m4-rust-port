@@ -1,0 +1,31 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name:Dennis Thompson
+Age:  2
+Salary: 1e3
+Dept:	Legal
+Level:7
+Email: linus@example.org
+City:Cairo
+
+Id: 2
+Name:	Donald Perlman
+Age: 22
+Salary: 1920\
+00.50
+Dept:Research
+Level: 5
+
+Id: 3
+Name: Rob Hopper
+Age:	64
+Salary: 1e3
+Dept:Sales
+Level:5
+Email:	ken@example.org
+Email: edsger@example.org
+City:Pune

@@ -1,0 +1,47 @@
+%rec: Book
+%type: Writer line
+%type: Year int
+
+
+Title: Parser
+Writer:donald
+Writer:	nobody
+# note about Year
+Year:1967
+
+
+Title: Editor Databases
+Writer: donald
+Writer: grace
+Year:	2014
+
+
+Title: Kernel
+Year: 1952
+
+
+Title: Gamma Delta Beta
+Writer:	grace
+Writer: donald
+Year: 1990
+
+# queue databases stream alpha
+
+# between
+
+%rec: Author
+%key: Handle
+
+# between
+
+Handle:grace
+# note about Name
+Name: Grace Liskov
+Born: 1939
+
+# between
+
+Handle:	donald
+Name: Donald Dijkstra
+# note about Born
+Born: 1904

@@ -1,0 +1,7 @@
+(record 94 (
+(field 148 "Salary" "90000.50")
+(field 120 "Age" "64")))
+
+(record 231 (
+(field 266 "Salary" "107000.50")
+(field 258 "Age" "10")))

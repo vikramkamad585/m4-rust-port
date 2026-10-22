@@ -1,0 +1,32 @@
+%rec: Book
+%type: Year int
+
+# between
+
+Title:Alpha
+Author: Edsger Hopper
+# note about Year
+Year:  2
+Price: .75
+Tag:	beta
+Tag:runtime
+Tag: systems
+
+# between
+
+Price: 142.94
+Available: maybe
+Author: Linus Liskov
+Title:Run\
+time
+Tag: theory
+Author: Alan Thompson
+
+# between
+
+Title: Parser Editor Beta
+Year:	8abc
+Price: .75
+Author:Ken Knuth
+Tag:	stream
+Author: Linus Stroustrup

@@ -1,0 +1,15 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-t",
+  "Staff",
+  "-S",
+  "Salary",
+  "-d",
+  ";",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "csv"
+}

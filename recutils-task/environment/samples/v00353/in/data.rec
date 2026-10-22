@@ -1,0 +1,34 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+Id: 1
+Name: Guido Hopper
+Age:41
+Salary:0.5
+Dept: Legal
+Level: 6
+City: Cairo
+
+Id: 2
+Name:Guido Thompson
+Age: 0x19
+Salary: 190000.50
+Dept: Sa\
+les
+City: Cairo
+
+Id: 3
+Name:	Grace Dijkstra
+Dept: Ops
+Level: 2
+Email: donald@example.org
+Email: alan@example.org
+
+Id: 4
+Name: John Perlman
+Age:	58
+Salary: 59000.50
+Dept: Support
+Level: 9

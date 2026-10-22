@@ -1,0 +1,33 @@
+(record 65 (
+(field 65 "Id" "1")
+(field 70 "Name" "Linus Turing")
+(field 89 "Age" "66")
+(field 97 "Salary" "1e3")
+(field 108 "Dept" "Legal")
+(field 120 "Level" "9")
+(field 129 "Email" "dennis@example.org")
+(field 155 "Email" "ken@example.org")))
+
+(record 195 (
+(field 195 "Id" "2")
+(field 201 "Name" "Bjarne Hopper")
+(field 221 "Age" "29")
+(field 229 "Salary" ".75")
+(field 241 "Dept" "Support")
+(field 255 "Email" "bjarne@example.org")))
+
+(record 281 (
+(field 281 "Id" "3")
+(field 287 "Name" "Alan Stroustrup")
+(field 309 "Age" " 3")
+(field 317 "Dept" "Ops")
+(field 327 "Level" "2")
+(field 336 "City" "Austin")))
+
+(record 350 (
+(field 350 "Id" "4")
+(field 356 "Name" "Frances Lovelace")
+(field 379 "Age" "41")
+(field 387 "Dept" "Ops")
+(field 397 "Email" "barbara@example.org")
+(field 424 "Email" "margaret@example.org")))

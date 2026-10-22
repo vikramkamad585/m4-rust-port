@@ -1,0 +1,14 @@
+{
+ "tool": "recsel",
+ "args": [
+  "--print-sexps",
+  "-t",
+  "Book",
+  "-p",
+  "Author,Year",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "sexp_desc"
+}

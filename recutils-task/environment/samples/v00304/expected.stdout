@@ -1,0 +1,32 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: Margaret Pike
+Age: 85
+Dept: Eng
+Level: 1
+
+Id: 2
+Name: Guido Stroustrup
+Age: 88
+Salary: 0.5
+Dept: Support
+Level: 7
+Email: grace@example.org
+Email: yukihiro@example.org
+
+Id: 3
+Name: Radia Hamilton
+Salary: 20000
+Dept: Support
+
+Id: 4
+Name: Alan McCarthy
+Age: 59
+Salary: 39000
+Dept: Eng
+Email: ken@example.org

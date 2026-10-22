@@ -1,0 +1,37 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%sort: Year Title
+
+
+Title: Kernel Graphics
+Author:John Turing
+# note about Author
+Author: Guido Lamport
+Year: 2013
+Price: .75
+Tag:	editor
+Tag: runtime
+Tag: gamma
+Available:	yes
+Note: SYSTEMS
+
+
+Title:	Gamma Editor Networks
+Author: Anita Knuth
+Year: 2007
+Price:	0.5
+Tag:compilers
+Tag: beta
+
+
+Title:	Theory Editor
+Author:Dennis Matsumoto
+Author: Guido Dijkstra
+Year: 1998
+Price: 1e3
+Tag: sys\
+tems
+Tag:	cache
+Tag: databases

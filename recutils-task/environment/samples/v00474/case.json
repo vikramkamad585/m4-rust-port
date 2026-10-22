@@ -1,0 +1,15 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Item",
+  "-G",
+  "V",
+  "-p",
+  "V,Count(Name)",
+  "items.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "typed"
+}

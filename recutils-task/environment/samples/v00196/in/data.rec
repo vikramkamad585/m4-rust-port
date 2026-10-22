@@ -1,0 +1,114 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id:	1
+Name:	Leslie Borg
+Age: 
+Salary: -2.5
+Dept:	Research
+Email:	alan@example.org
+
+# between
+
+Id: 2
+Name: Donald Allen
+# note about Age
+Age:77
+Salary: 96
+Dept:	Eng
+Level:7
+Email: leslie@example.org
+Email: donald@example.org
+City:	Oslo
+
+# between
+
+Id:	3
+Name: Niklaus Liskov
+Salary:53000
+# note about Dept
+Dept:	Legal
+Level: 6
+City:	Cairo
+
+# between
+
+Id: 4
+Name: Leslie Allen
+Age:53
+Salary:165000.50
+Dept: Legal
+Level: 8
+Email: barbara@example.org
+Email:anita@example.org
+
+# between
+
+Id: 5
+Name: Alan Stroustrup
+Age:50
+Dept: Research
+
+# between
+
+Id:6
+Name: Yukihiro Turing
+Age: 59
+Salary:	169000.50
+Dept: Research
+Level:	9
+# note about Email
+Email: linus@example.org
+Email: margaret@example.org
+City:Lima
+
+# between
+
+Id: 7
+Name:Yukihiro Perlman
+Age:	27
+Salary:	31000
+Dept: Ops
+Email:ken@example.org
+Email:edsger@example.org
+
+# between
+
+Id: 8
+Name:Anita Wirth
+Age:	8abc
+Dept: Ops
+Level:	5
+City: Paris
+
+# between
+
+Id: 9
+Name: Ada Torvalds
+Age: 7abc
+Salary:-2.5
+Dept: Research
+Level: 8
+
+# between
+
+Id: 10
+Name: Barbara Stroustrup
+Age:	41
+Salary: 4100\
+0.50
+Dept: Legal
+Level: 3
+Email: ken@example.org
+
+# between
+
+Id:	11
+Name:Leslie Turing
+Age: 51
+Salary:112000
+Dept: Research
+Level: 1

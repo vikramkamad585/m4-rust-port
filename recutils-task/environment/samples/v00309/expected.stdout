@@ -1,0 +1,42 @@
+(record 49 (
+(field 49 "Id" "1")
+(field 54 "Name" "Edsger Dijkstra")
+(field 76 "Age" "29")
+(field 84 "Salary" "212")
+(field 95 "Dept" "Ops")
+(field 105 "Level" "8")
+(field 114 "Email" "barbara@example.org")
+(field 140 "Email" "linus@example.org")))
+
+(record 167 (
+(field 167 "Id" "2")
+(field 173 "Name" "Radia Dijkstra")
+(field 194 "Age" "85")
+(field 202 "Salary" "200000")
+(field 217 "Dept" "Support")
+(field 231 "City" "Cairo")))
+
+(record 245 (
+(field 245 "Id" "3")
+(field 250 "Name" "Yukihiro Torvalds")
+(field 274 "Age" "39.50")
+(field 285 "Dept" "Research")
+(field 300 "Level" "6")
+(field 309 "Email" "ada@example.org")))
+
+(record 333 (
+(field 333 "Id" "4")
+(field 338 "Name" "Ada Perlman")
+(field 355 "Age" "31")
+(field 363 "Salary" "188000.50")
+(field 399 "Dept" "Legal")
+(field 411 "Email" "anita@example.org")
+(field 436 "City" "Paris")))
+
+(record 450 (
+(field 450 "Id" "5")
+(field 455 "Name" "John Matsumoto")
+(field 476 "Age" "43")
+(field 483 "Salary" "1e3")
+(field 495 "Dept" "Ops")
+(field 505 "Level" "7")))

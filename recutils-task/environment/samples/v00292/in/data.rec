@@ -1,0 +1,44 @@
+# runtime runtime stream
+
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+
+Id: 1
+Name: Ken Liskov
+Age: 56
+Salary: 153
+Dept:	Research
+Level:	7
+City:	Cairo
+
+
+Id:2
+Name:	Ada Matsumoto
+Age:21
+# note about Dept
+Dept:	Ops
+Email: yukihiro@example.org
+Email:	radia@example.org
+City:Pune
+
+
+Id: 3
+Name:Dennis McCarthy
+Age: 27
+Salary:83000.50
+Dept:Eng
+Email: ken@example.org
+
+
+Id: 4
+Name: Anita Turing
+Age:93
+Salary:	158000
+Dept:Ops
+Level: 4
+City: Berlin

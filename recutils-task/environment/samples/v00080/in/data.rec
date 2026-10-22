@@ -1,0 +1,59 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+
+Title: Security
+Author: Ada Lovelace
+Author: Rob Wirth
+Year: 53
+Available: yes
+Note: graphics
+
+Title:	Parser
+Author: Barbara Dijkstra
+Author:Ken Perlman
+Year:54.42
+Price:1e3
+
+Title: Systems
+# note about Author
+Author: Yukihiro Hopper
+Year:1979
+Tag: theory
+Tag:compilers
+Tag:	editor
+
+Title: Networks Alpha Stream
+Author:Alan Hopper
+Year: 1978
+Price:	.75
+
+Title: Gamma Networks Editor
+Author: John Torvalds
+Year: 1969
+Tag: graphics
+Tag:runtime
+Available: 1
+
+# note about Title
+Title:	Stream Cache Queue
+Author:	Bjarne Torvalds
+Year:	1960
+Price:.75
+Tag:graphics
+
+Price:	421.37
+Available:	0
+Year: 0x77
+Tag: systems
+Author:Guido \
+Hopper
+Tag: theory
+Title:	Theory
+
+Title: Stream Systems Databases
+Author:Barbara Lamport
+Year:1966
+Tag:	editor
+Note:	say "parser"

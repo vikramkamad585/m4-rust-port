@@ -1,0 +1,65 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Salary
+
+
+# note about Id
+Id: 1
+Name: Rob Ritchie
+# note about Age
+Age: 42.67
+Salary:	.75
+Dept: Sales
+Level: 9
+Email:	linus@example.org
+
+
+Id: 2
+Name: Ken Lamport
+Age: 40
+Salary: 0.5
+Dept: Legal
+
+
+Id: 3
+Name: Frances McCarthy
+Age:	49
+Salary: 64000
+Dept: Ops
+
+
+Id: 4
+Name: Alan Pike
+Age: 
+Dept: Sales
+Email:	rob@example.org
+Email: ada@example.org
+
+
+Id:5
+Name:Radia van Rossum
+Salary: .75
+Dept: Ops
+Email:	donald@example.org
+
+
+Id: 6
+Name: Rob Ritchie
+Age: 59
+Salary:	87\
+000
+Dept:Legal
+Level: 2
+Email: anita@example.org
+
+
+Id: 7
+Name: Rob Torvalds
+Age: 41
+Dept: Support
+Level: 4
+Email: ada@example.org
+Email:	bjarne@example.org

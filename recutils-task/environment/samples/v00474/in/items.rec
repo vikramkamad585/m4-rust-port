@@ -1,0 +1,21 @@
+%rec: Item
+%type: V int
+
+Name: alpha
+V: 13
+
+Name: editor
+V: 16
+
+Name: queue
+V: -0
+
+Name: stream
+# note about V
+V: -1
+
+Name: alpha
+V: 11
+
+Name: security
+V: 15

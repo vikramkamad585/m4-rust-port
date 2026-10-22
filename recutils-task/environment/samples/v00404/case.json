@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{Salary}}, {{#Salary}}\n"
+ ],
+ "stdin": "Id:\t1\nName: Dennis van Rossum\nSalary:\t200000\nDept:\tOps\nLevel:4\nEmail: donald@example.org\nCity:\tOslo\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

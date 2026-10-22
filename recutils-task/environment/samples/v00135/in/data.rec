@@ -1,0 +1,45 @@
+# stream networks kernel
+
+
+%rec: Book
+%type: Year int
+
+
+Title: Kernel
+# note about Author
+Author:	Anita van Rossum
+Author:Guido Hopper
+Year: 2022
+Price:	.75
+Tag: runtime
+Tag:runtime
+Tag: gamma
+
+
+Title: Theory Delta Cache
+Author:	Dennis Allen
+Year: 1982
+Tag: kernel
+Tag: databases
+Tag: graphics
+
+
+Title: Parser Editor
+Author:	John Matsumoto
+Author: John Borg
+Year: 1963
+Tag:grap\
+hics
+# note about Tag
+Tag: networks
+Tag:	beta
+
+
+Title: Stream
+Author: Niklaus Lovelace
+Year: 80
+Price: 135
+Tag: gamma
+Tag: cache
+Tag:parser
+Note:   theory  

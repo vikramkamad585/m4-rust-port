@@ -1,0 +1,19 @@
+# security kernel
+
+%rec: Item
+%typedef: Num line
+%type: V Num
+
+Name:delta
+
+Name:	systems
+V: 3
+
+Name:compilers
+V: 25
+
+Name:runtime
+V:	yes
+
+Name: stream
+V: 19

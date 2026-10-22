@@ -1,0 +1,58 @@
+# gamma security beta
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:	1
+Name:	Linus Hopper
+Age:	72
+Dept:	Research
+
+Id:	2
+Name:Ada Hamilton
+Age:  6
+Salary: 210
+Dept:Research
+Level:	6
+# note about Email
+Email: grace@example.org
+
+Id: 3
+Name: Donald Turing
+Age: 42
+Salary: 0.5
+Dept:	Research
+Level:8
+Email:	dennis@example.org
+Email:margaret@example.org
+
+Id:	4
+Name: Ken Allen
+# note about Age
+Age: 0xD7
+Salary: 1e3
+Dept: Research
+Level:1
+Email:grace@example.org
+Email:grace@example.org
+# note about City
+City: Cairo
+
+Id: 5
+Name:	Dennis Allen
+Age: 80
+Salary:	150000.50
+Dept: Research
+Level: 8
+Email:	dennis@example.org
+City:	Pune
+
+Id:	6
+Name:	Alan Wirth
+Age: 38
+Salary: 160000
+Dept: Eng
+# note about Level
+Level: 4
+Email: radia@example.org

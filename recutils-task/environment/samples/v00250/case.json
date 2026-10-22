@@ -1,0 +1,13 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Book",
+  "-j",
+  "Writer",
+  "lib.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "join"
+}

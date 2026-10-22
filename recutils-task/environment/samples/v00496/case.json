@@ -1,0 +1,10 @@
+{
+ "tool": "recsel",
+ "args": [
+  "x.rec",
+  "y.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "diag"
+}

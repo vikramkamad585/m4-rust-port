@@ -1,0 +1,80 @@
+# graphics graphics security kernel
+
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Price
+
+Title: Gamma Stream
+Author:Rob Borg
+Price: 1e3
+Tag: systems
+Tag: queue
+
+Title: Delta Cache Stream
+Author: Margaret Torvalds
+Year:	96\
+.91
+Price: 311
+Tag: editor
+
+Title:	Graphics Alpha
+Author: Ada Stroustrup
+Year:	50
+Price: 1e3
+Tag: security
+# note about Tag
+Tag: networks
+Tag: cache
+Available: 1
+Note: cache compilers
+
+Title: Systems Alpha
+Author: Rob Dijkstra
+Year: 1981
+Price: 0.5
+
+Title:Stream
+# note about Author
+Author: Bjarne Ritchie
+# note about Year
+Year:	1964
+Price:.75
+Tag: theory
+Available:	0
+
+Year:1955
+Title: Queue Networks Alpha
+Price:61
+Note: gamma
+Tag: kernel
+# note about Tag
+Tag:	editor
+Author:Ken Ritchie
+
+Title:Alpha Beta
+Author:	Niklaus Torvalds
+Year:2016
+Tag:	systems
+
+Author: Frances Liskov
+Tag: beta
+Tag: theory
+Title:	Beta
+
+Tag: parser
+Title:	Cache Graphics Stream
+Note:gamma alpha
++ compilers alpha
+Tag: beta
+Year:	2018
+Author: Margaret van Rossum
+Price:	0.5
+
+Title:	Alpha Systems Beta
+Author: Niklaus Ritchie
+Tag: editor
+# note about Tag
+Tag:gamma
+Tag:alpha
+Available: no

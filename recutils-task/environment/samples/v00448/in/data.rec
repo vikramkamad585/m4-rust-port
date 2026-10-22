@@ -1,0 +1,23 @@
+# queue stream
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title: Kernel
+Author:Ken Lovelace
+Year:82.22
+Price:290.01
+Tag:compilers
+Tag:kernel
+Available: no
+Note:   networks  
+
+Title:Parser
+Author:	Ken Allen
+Year:2005
+Tag:	delta
+Tag:cache
+# note about Tag
+Tag: par\
+ser

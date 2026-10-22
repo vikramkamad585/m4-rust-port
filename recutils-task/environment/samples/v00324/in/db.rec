@@ -1,0 +1,75 @@
+Loose: record
+
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+Title:Networks Editor
+Author: Leslie Matsumoto
+Year: 62
+Price: 0.5
+Tag: compilers
+Author:	Frances McCarthy
+Tag:kernel
+
+Title: Gamma Networks
+Author: Radia Pike
+Author: Guido Ritchie
+Year:1974
+Price:782.43
+Tag:theory
+Tag: delta
+Tag: alpha
+Available:	no
+
+%rec: Book2
+%type: Year int
+%type: Price real
+
+
+Title: Beta Security
+Price: 91
+Tag: theory
+Available: no
+Author: Edsger Borg
+Tag:editor
+Year:1996
+
+
+Price: 711.54
+Tag: beta
+Author: Ada Wirth
+Year: 07
+Title: Kernel
+Tag: secu\
+rity
+Note: security theory cache
+
+
+Title: Delta Kernel Networks
+Author:Yukihiro Perlman
+Author:Bjarne Liskov
+Year:  0
+Price: .75
+Tag: cache
+Tag:beta
+Tag: cache
+Available: no
+Note: databases parser alpha
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Name
+
+Id:	1
+Name:Margaret McCarthy
+Age: 58
+Salary: 114000
+Dept: Eng
+Level: 9
+Email:grace@example.org
+Email:john@example.org

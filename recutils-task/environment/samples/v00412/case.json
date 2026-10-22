@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "Id: 1\nName: Dennis Dijkstra\nAge: 37\nSalary:134000\nDept:Legal\nLevel:9\n\n\nId: 2\nName: Alan Turing\nAge: 5abc\nSalary: 35000.50\nDept:Legal\n# note about Level\nLevel:3\nCity: Berlin\n\n\nId:3\nName: Alan Knuth\nAge: 65\nSalary:463\nDept: Research\nLevel: 7\nEmail: ada@example.org\nEmail: anita@example.org\nCity: Lima\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

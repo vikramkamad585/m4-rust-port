@@ -1,0 +1,28 @@
+# networks stream
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Age
+
+Id: 1
+Name: Ada McCarthy
+Age:	15
+Salary: 552.15
+Dept:	Sales
+Level: 9
+Email:donald@example.org
+Email: dennis@example.org
+# note about City
+City: Austin
+
+Id:2
+Name: Anita Dijkstra
+Age: 
+Salary:103000.50
+Dept:Support
+Level: 7
+Email: frances@example.org
+Email: dennis@example.org

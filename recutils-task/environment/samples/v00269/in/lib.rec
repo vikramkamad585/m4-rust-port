@@ -1,0 +1,47 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title:	Queue Databases
+Year: 1993
+
+Title:Runtime Stream
+Writer: grace
+Year:1959
+
+Title: Queue
+Year: 2015
+
+Title: Stream Theory Delta
+Year: 1998
+
+# compilers networks runtime theory
+
+
+%rec: Author
+%key: Handle
+
+
+Handle: niklaus
+Name:	Niklaus Liskov
+Born: 1921
+
+
+Handle:yukihiro
+Name:Yukihiro Stroustrup
+Born:	1979
+
+
+Handle:	leslie
+Name: Leslie Lovelace
+Born:	1976
+
+
+Handle: bjarne
+Name: Bjarne Wirth
+Born: 1922
+
+
+Handle:	grace
+Name:Grace Thompson
+Born: 1987

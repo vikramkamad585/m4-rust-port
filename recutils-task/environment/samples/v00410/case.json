@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "{{Id}} {{Age * 1}} {{Age}}\n\n"
+ ],
+ "stdin": "Id: 1\nName: Margaret Turing\nSalary: 194000.50\nDept: Support\nEmail: bjarne@example.org\n\n# between\n\nId: 2\nName:Edsger Borg\nAge: 36\n# note about Salary\nSalary:\t82000.50\nDept: Research\nEmail: frances@example.org\nCity: Tokyo\n\n# between\n\nId:\t3\nName: Grace Ritchie\n# note about Age\nAge:18\nSalary: 35000\nDept: Eng\nEmail:frances@example.org\nCity: Tokyo\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

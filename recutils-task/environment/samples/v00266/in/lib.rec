@@ -1,0 +1,52 @@
+# databases cache gamma queue
+
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+
+Title: Security
+Year: 1953
+
+
+Title:	Systems Systems Stream
+Writer:rob
+Writer: edsger
+Year:	1992
+
+
+Title:	Graphics Networks
+Writer:edsger
+Year: 1978
+
+
+Title: Beta Queue
+Writer:margaret
+Year: 2013
+
+
+Title: Parser Kernel
+Writer: rob
+Writer:	edsger
+Year: 1973
+
+
+Title: Gamma Theory
+Writer: edsger
+Year:	2008
+
+%rec: Author
+%key: Handle
+
+Handle: edsger
+Name:	Edsger Dijkstra
+Born:1952
+
+Handle: margaret
+Name:Margaret McCarthy
+Born: 1969
+
+Handle: rob
+Name: Rob Stroustrup
+Born:	1971

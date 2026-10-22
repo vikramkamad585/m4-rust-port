@@ -1,0 +1,15 @@
+# queue stream databases
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Level
+
+Id: 1
+Name:	Margaret Matsumoto
+Age:	06
+Salary:.75
+Dept: Research
+Level: 2
+Email:linus@example.org
+Email: barbara@example.org

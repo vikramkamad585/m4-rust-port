@@ -1,0 +1,74 @@
+# runtime gamma gamma beta
+
+%rec: Book
+%type: Year int
+%sort: Title
+
+Tag:	kernel
+Tag: alpha
+Tag: stream
+Note:	THEORY
+Year:  0
+Author:	Ada Matsumoto
+Title: The\
+ory
+
+Title: Delta Networks
+Author:	Ada Liskov
+Year: 2024
+Price: .75
+Tag:	cache
+
+Title: Security
+Author:	Linus Torvalds
+Year:	1993
+Tag: queue
+Tag:	security
+Tag: delta
+Available:no
+
+Title:Stream Compilers
+Author: Niklaus Turing
+Author: Alan Allen
+Year:1958
+Price: .75
+
+Title: Editor Alpha Databases
+Author: Grace Perlman
+
+Title: Queue Compilers Alpha
+Author:	Alan Hopper
+# note about Year
+Year:1981
+Price:1e3
+Tag: theory
+Note: theory databases
++ gamma security
+
+Title:	Gamma
+Author: Linus Lovelace
+Year:	2021
+Price: .75
+Tag: gamma
+Available:1
+Note:gamma
+
+Title: Systems Stream Databases
+Author: Donald Hamilton
+Year: 101
+Price:	-2.5
+# note about Tag
+Tag:	parser
+Tag: theory
+
+Title: Gamma Cache
+Author: Yukihiro Lamport
+Year:	2019
+Price:824.82
+
+Title: Databases Graphics
+Author: Grace Allen
+Year: 1971
+# note about Price
+Price:	-2.5
+Tag:beta

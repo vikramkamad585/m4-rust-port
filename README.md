@@ -1,4 +1,14 @@
-# gnu-m4-1419-rust-reimpl
+# Frontier task bundles
+
+## recutils-recsel-rs (current submission)
+
+Reimplement GNU recutils 1.9's query tools (`recsel`, `recinf`, `recfmt`,
+`rec2csv`) as one dependency-free Rust binary, `recrs`. The binary is graded
+byte-for-byte against the real tools on 1,795 sealed invocations; the
+reference solution scores 1.0. The bundle is in `recutils-task/` (zip:
+`recutils-recsel-rs.zip`) and the authoring scripts are in `authoring/rec/`.
+
+## gnu-m4-1419-rust-reimpl (retired: too similar to an existing task)
 
 A long-horizon software-engineering task: **port GNU m4 1.4.19 to a
 dependency-free Rust binary** that is byte-compatible with the real tool. It

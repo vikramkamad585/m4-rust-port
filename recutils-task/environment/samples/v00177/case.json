@@ -1,0 +1,17 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-G",
+  "Level",
+  "-p",
+  "Level,Max(Age)",
+  "-S",
+  "Email",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

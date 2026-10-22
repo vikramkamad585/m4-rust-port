@@ -1,0 +1,44 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id:	1
+Name: Grace St\
+roustrup
+Age: 8abc
+Salary: 72000.50
+# note about Dept
+Dept: Sa\
+les
+Level: 9
+
+Id:	2
+Name:Bjarn\
+e Borg
+Age: 53
+Salary: .75
+Dept:Ops
+# note about Email
+Email: bjarne@example.org
+Email: yukihiro@example.org
+
+Id:3
+# note about Name
+Name:	Ken Torvalds
+Age:	56
+Salary: 140000
+Dept: Research
+Level:4
+Email: leslie@example.org
+# note about Email
+Email: margaret@example.org
+
+Id:	4
+Name:	Dennis Knuth
+Age:-23
+Salary:114000
+Dept: Ops
+Level: 3
+Email:	edsger@example.org

@@ -1,0 +1,53 @@
+# compilers runtime
+
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title:	Graphics Runtime Kernel
+Writer:barbara
+Year: 1969
+
+Title: Parser Theory
+Year:	1984
+
+Title: Delta Cach\
+e Networks
+Writer: nobody
+Year: 2002
+
+Title: Delta S\
+ecurity
+Year:	1987
+
+Title:	Beta Networks
+Year: 2020
+
+Title: Systems
+Year: 1966
+
+Title:Databases Theory
+Year:	2006
+
+%rec: Author
+%key: Handle
+
+Handle: rob
+Name: Rob Borg
+Born:	1930
+
+Handle:grace
+Name: Grace Pike
+Born:	1990
+
+Handle:edsger
+Name: Edsger Wirth
+Born:1935
+
+Handle:barbara
+Name: Barbara Liskov
+Born:1935
+
+Handle: margaret
+Name:Margaret Lamport
+Born: 1967

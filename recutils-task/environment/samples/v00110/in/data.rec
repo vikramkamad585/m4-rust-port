@@ -1,0 +1,70 @@
+# delta editor
+
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+Title: Kernel
+Author:	Guido Dijkstra
+Year: 1965
+Price: -2.5
+Tag:networks
+Tag: gamma
+Note: gamma stream
++ security
+
+Tag: cache
+Available: yes
+Title: Sys\
+tems
+Year: 2005
+Author:	Barbara Knuth
+Author: Lesli\
+e Borg
+Tag:queue
+Price: 439
+
+Title:Compilers
+Author:	Donald Liskov
+Author: Ken van Rossum
+Year: 88
+
+Title: Cache Parser Theory
+Author: Anita Dijkstra
+Author: Radia Knuth
+Year: 1966
+Price:1e3
+Tag:	grap\
+hics
+Tag: runtime
+Note: systems kernel
++ systems
+
+Title:	Alpha
+Author: Anita Pike
+Year:	1998
+Price: 0.5
+Available: true
+
+Title: Networks Networks Databases
+Year: 2006
+# note about Price
+Price: -2.5
+Author:Rob Pike
+Note: graphics compilers editor
+
+Title: Databases
+Author: Yukihiro Wirth
+Author: Guido McCarthy
+Year: 2019
+Price:	.75
+Tag: editor
+
+Title:	Graphics
+Author: Frances Turing
+Year:9abc
+Price: .75
+Tag:alpha
+Tag:compilers
+Tag: graphics

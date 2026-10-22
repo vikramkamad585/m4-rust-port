@@ -1,0 +1,10 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "-f",
+  "tmpl.txt"
+ ],
+ "stdin": "# beta cache gamma\n\nTitle:Runtime Systems\nAuthor:John D\\\nijkstra\nAuthor: Margaret Stroustrup\nYear:\t83.62\n# note about Price\nPrice: .75\nTag: theory\nTag:\tparser\nTag: parser\nAvailable: 1\n\nTitle: Kernel\nAuthor: Grace Lovelace\nYear:4abc\nPrice:1e3\nTag: alpha\nTag:\tgraphics\nTag: networks\nAvailable:yes\n\nTitle:\tCache\nAuthor: Frances Perlman\nYear:1979\nPrice: .75\nTag: run\\\ntime\nTag: security\nNote: databases\n\nTitle:\tDelta Queue\nAuthor: Dennis Stroustrup\nYear:\t3abc\nPrice:\t1e3\nTag:gamma\nTag:cache\n\nYear:\t1973\nTitle:\tBeta Gamma\nNote: gamma\\parser\nAuthor: Leslie Wirth\nTag:\tedi\\\ntor\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

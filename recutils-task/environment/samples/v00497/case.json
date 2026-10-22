@@ -1,0 +1,11 @@
+{
+ "tool": "rec2csv",
+ "args": [
+  "-S",
+  "1x",
+  "d.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "diag"
+}

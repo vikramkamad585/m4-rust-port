@@ -1,0 +1,79 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Title: Runtime Parser
+Author:	Yukihiro Lamport
+Year: 84
+Price: .75
+Tag:	delta
+Tag: databases
+Tag:	compilers
+# note about Note
+Note: RUNTIME
+
+
+Title: Graphics Theory Compilers
+Available: true
+Author:	Niklaus Wirth
+Year: 1970
+Author: John Perlman
+Price:-2.5
+Tag: systems
+
+
+Tag: graphics
+Author: Donald Stroustrup
+Tag: theory
+Title:	Theory Systems
+Price: -2.5
+Author: Grace Hopper
+Tag:networks
+
+
+Year:1988
+Title: Kernel
+Tag:	run\
+time
+Note:say "runtime"
+Author: Guido Pike
+
+
+Title: Delta
+Author:Alan Lovelace
+Year:1978
+Tag: runtime
+Tag:	parser
+Tag: networks
+
+
+Title: Compilers
+Author: Niklaus Hamilton
+Year:1962
+Price: 864\
+.85
+Available: true
+Note: queue\gamma
+
+
+Title:	Systems Beta
+Author: Ada Borg
+# note about Author
+Author: Rob Wirth
+Year:1978
+Price:-2.5
+Tag:stream
+Tag:	alpha
+Tag: al\
+pha
+
+
+Available:1
+Note:	security graphics
+Tag:queue
+Tag: runtime
+Tag: alpha
+Year: 1980
+Title:Alpha
+Author:	Edsger Hopper

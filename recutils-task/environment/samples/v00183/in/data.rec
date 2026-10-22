@@ -1,0 +1,89 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%sort: Year
+
+# between
+
+Title:Networks
+Author: John Matsumoto
+Author:Ken Thompson
+Year:05
+Available:	1
+Price: 874.97
+
+# between
+
+Title: Theory Gamma
+Price:	.75
+Tag:	alpha
+Tag:	delta
+Year: 7abc
+# note about Author
+Author:Leslie Ritchie
+
+# between
+
+Title: Alpha Theory
+Author: Radia Lamport
+Year: 35
+Price:	240
+Tag:	theory
+Available: false
+
+# between
+
+Price: -2.5
+Author: Dennis Turing
+Year:0x2E
+Note: theory graphics gamma
+Tag: databases
+Tag: compilers
+Title: Databases
+Available: 1
+
+# between
+
+Title: Theory Kernel Networks
+Author:Guido Wirth
+Year:	59
+Price: 1e3
+Note:systems
++ security
+
+# between
+
+Tag:theory
+Title:Queue Queu\
+e Databases
+Author:	Grace Hopper
+Year: 1963
+Price: 226
+
+# between
+
+Title: Security Graphics Security
+Author:Ada McCarthy
+Author: Linus Wirth
+Year: 2014
+Tag: alpha
+Tag: cache
+Tag:security
+Available: 0
+Note: say "delta"
+
+# between
+
+Title: Networks
+Author: Guido Turing
+Year:	1967
+Price:0.5
+Tag:beta
+Note:queue
++ beta stream
+
+# between
+
+Title: Queue Databases
+Author: John Matsumoto
+Tag:	stream

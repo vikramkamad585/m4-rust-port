@@ -1,0 +1,7 @@
+{
+ "tool": "recsel",
+ "args": [],
+ "stdin": "Id:1\n# note about Name\nName: Leslie Stroustrup\nAge:\t40\nSalary:\t143000.50\nDept: Ops\nEmail:\tguido@example.org\nEmail: leslie@example.org\n\n# between\n\nId: 2\nName: Niklaus Liskov\nDept: Le\\\ngal\n\n# between\n\nId: 3\nName:Barbara Liskov\nAge: 03\nSalary: .75\nDept:Research\nLevel:6\nCity:\tTokyo\n\n# between\n\n# note about Id\nId:\t4\nName:\tJohn Turing\nAge:02\nSalary:52000.50\nDept:Sales\nLevel: 7\nEmail: barbara@example.org\n\n# between\n\nId:\t5\nName: Guido Matsumoto\nAge: 56\nSalary: 0.5\nDept: Research\nLevel: 4\nEmail:\tfrances@example.org\nEmail: john@example.org\n\n# between\n\nId: 6\nName:John Thompson\nAge: 107\nSalary:167000.50\nDept: Sales\nEmail:\tniklaus@example.org\n\n# between\n\nId:7\nName: Rob Stroustrup\nAge:34\nSalary: 121000\nDept: Sales\nEmail:margaret@example.org\nCity: Tokyo\n\n# between\n\nId: 8\nName: Margaret\\\n Dijkstra\nAge: 8abc\n# note about Salary\nSalary:\t39000\nDept: Sales\nEmail: grace@example.org\nCity:Tokyo\n",
+ "compare_stderr": false,
+ "group": "parse"
+}

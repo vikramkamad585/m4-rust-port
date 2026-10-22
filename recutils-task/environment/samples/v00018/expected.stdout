@@ -1,0 +1,59 @@
+Title: Runtime
+Author: Ada Knuth
+Year: -34
+
+Title: Kernel Theory
+Author: John Knuth
+Year: 1970
+Price: -2.5
+Available: no
+Note: RUNTIME
+
+Tag: cache
+Price: -2.5
+Author: Linus Liskov
+Year: 06
+Tag: networks
+Tag: kernel
+Author: Dennis Allen
+Title: Queue Editor Networks
+
+Price: 358
+Available: 0
+Title: Editor Delta Theory
+Tag: parser
+Author: Rob Dijkstra
+
+Price: 1e3
+Title: Systems
+Year: 1997
+Tag: gamma
+Author: Ada Lamport
+
+Title: Beta Stream Cache
+Author: Rob Lovelace
+Year: 56
+Price: .75
+Tag: parser
+Note: beta delta
++ stream
+
+Tag: parser
+Title: Gamma Graphics Theory
+Year: 1975
+Available: 0
+Tag: gamma
+Author: Anita Dijkstra
+Price: .75
+Note: networks runtime compilers
+
+Title: Stream Runtime Networks
+Author: Niklaus Hopper
+Author: Dennis McCarthy
+Year: 93
+Price: .75
+
+Title: Stream Beta Networks
+Author: Ken Wirth
+Year: 1988
+Tag: cache

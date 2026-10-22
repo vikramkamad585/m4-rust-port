@@ -1,0 +1,27 @@
+%rec: Item
+%typedef: Num Other
+%type: V Num
+
+
+Name:compilers
+# note about V
+V:	27
+
+
+Name: theory
+
+
+Name: graphics
+
+
+Name:security
+V:18
+
+
+Name: delta
+# note about V
+V: 0
+
+
+Name: parser
+V:	25

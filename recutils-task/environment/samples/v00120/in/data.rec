@@ -1,0 +1,32 @@
+%rec: Book
+%type: Year int
+
+Title:Delta
+Author:John Lamport
+Year: 92
+Price:	109
+Tag:	systems
+Tag: delta
+# note about Tag
+Tag:	graphics
+Note: delta
+
+Title: Alpha Theory Alpha
+# note about Author
+Author: Leslie Pike
+Author:Ken Knuth
+Year: 2002
+Price: 1e3
+
+Price: 1e3
+Author: Anita Wirth
+Title:	Alpha Databases
+Author:Grace Borg
+Year:	0xE3
+
+Title: Databases Gamma Systems
+Author: Edsger Matsumoto
+Year: 1958
+Tag: security
+Available:1
+Note:	runtime security

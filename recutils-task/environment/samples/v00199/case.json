@@ -1,0 +1,17 @@
+{
+ "tool": "recsel",
+ "args": [
+  "-t",
+  "Staff",
+  "-G",
+  "City",
+  "-p",
+  "City,count(Salary),Avg(Age)",
+  "-S",
+  "Id",
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "group"
+}

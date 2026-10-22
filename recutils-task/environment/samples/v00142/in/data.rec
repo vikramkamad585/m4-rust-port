@@ -1,0 +1,53 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Age
+
+Id: 1
+Name: Ken Lovelace
+Age:	65
+Salary:	46000.50
+Dept:Research
+
+Id: 2
+Name: Rob Hamilton
+Age: 52
+Salary: -2.5
+Dept: Legal
+Email: frances@example.org
+Email:	frances@example.org
+
+Id:	3
+Name: Leslie Hamilton
+Age: 8abc
+Salary:	1e3
+Dept:Ops
+Email: edsger@example.org
+Email:	john@example.org
+
+Id: 4
+Name:	Ada Matsumoto
+Age:33
+Dept: Research
+Email:	niklaus@example.org
+
+Id: 5
+Name:Ken Pike
+Age: 
+Dept: Legal
+# note about Level
+Level: 7
+
+Id: 6
+Name: Linus Allen
+Salary: 105000.50
+Dept: Eng
+
+Id: 7
+Name: Edsger Torvalds
+Age: 24
+Salary: 792.32
+Dept:Sales
+City: Paris

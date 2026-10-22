@@ -1,0 +1,33 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+Title: Stream Kernel Cache
+Author: Grace Pike
+Author:Frances Lamport
+Year:2018
+Price: 1e3
+Tag:compilers
+Tag: kernel
+Available: yes
+
+Title: Security Stream
+Author: Linus Stroustrup
+Year:	117
+Price:805.71
+Tag: systems
+Tag:queue
+Available:1
+
+Title:	Runtime Gamma Runtime
+Author: Edsger Turing
+Author: Guido van Rossum
+Year: 1978
+Price: -2.5
+Tag:parser
+Tag:editor
+Tag:gamma
+# note about Available
+Available: true
+Note:	systems compilers

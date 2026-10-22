@@ -1,0 +1,82 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+
+Id: 1
+Name: Alan Hopper
+Salary:	187000.50
+Dept: Support
+City:	Tokyo
+
+Id: 2
+Name: Margaret Turing
+Age: 32
+Salary: 124000
+Dept:	Sales
+
+# note about Id
+Id: 3
+Name: Grace van Rossum
+Age: 57
+Salary: 0.5
+Dept: Eng
+Level:	9
+City: Pune
+
+Id: 4
+Name: Edsger Turing
+Age:55
+Salary:126\
+000
+Dept: Research
+Email: ken@example.org
+Email: yukihiro@example.org
+
+Id:	5
+Name:	Donald Liskov
+Age:  0
+Salary: 197000
+Dept: Sales
+Level: 5
+Email: guido@example.org
+City: Tokyo
+
+Id: 6
+# note about Name
+Name:Donald Knuth
+Age: 9abc
+Salary: 174000.50
+Dept:Legal
+Level:2
+Email: ada@example.org
+
+Id:	7
+Name: Frances Matsumoto
+Age:56
+Salary: .75
+Dept: Support
+
+Id:8
+Name: Donald Pike
+Age: 28
+Salary: 97\
+000
+Dept:Sales
+Email: yukihiro@example.org
+Email:guido@example.org
+
+Id:	9
+Name: Ken van Rossum
+Age: 39
+Salary:	131000.50
+Dept: Sales
+
+Id: 10
+Name:Margaret Perlman
+Age:	39
+Dept: Legal
+Email: guido@example.org
+Email: niklaus@example.org

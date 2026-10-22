@@ -1,0 +1,32 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id: 1
+Name: Barbara Dijkstra
+Age: 66
+Salary: 187000.50
+Dept: Eng
+Email:john@example.org
+
+# between
+
+Id:	2
+Name: Margaret Borg
+Age: 59.79
+Salary:	37000
+Dept: Support
+Level:3
+Email: edsger@example.org
+Email: grace@example.org
+
+# between
+
+Id: 3
+Name:Yukihiro Thompson
+Age:	24
+Salary: 72000.50
+Dept: Ops
+Email:leslie@example.org

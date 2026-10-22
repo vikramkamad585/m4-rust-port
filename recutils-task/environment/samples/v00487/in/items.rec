@@ -1,0 +1,14 @@
+%rec: Item
+%type: V reals
+
+Name:	gamma
+V: 2
+
+Name: networks
+V: 0
+
+Name:	gamma
+V:	-2
+
+Name:	runtime
+V:	1

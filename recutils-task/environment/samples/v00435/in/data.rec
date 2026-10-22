@@ -1,0 +1,13 @@
+# parser graphics
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:1
+Name:Niklaus Liskov
+Age: 27
+Salary: 91000
+Dept:	Legal
+Level: 6
+City:	Oslo

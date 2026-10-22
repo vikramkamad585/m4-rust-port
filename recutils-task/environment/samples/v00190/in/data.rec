@@ -1,0 +1,39 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title:Kernel
+Author: Alan Dijkstra
+# note about Year
+Year: 1952
+# note about Tag
+Tag: alpha
+Tag:delta
+Tag: gamma
+
+Title: Delta
+Author: Margaret Thompson
+Year:2011
+Price: .75
+Tag: beta
+
+Title: Networks Runtime
+Author: Grace Hamilton
+Year: 2001
+Price: .75
+Available: true
+Note: ALPHA
+
+Author:Frances Matsumoto
+Tag: ga\
+mma
+Tag: networks
+Tag: queue
+Year: 87
+Title: Alpha Queue Kernel
+
+Title: Security Compilers Editor
+Author:Anita Wirth
+# note about Year
+Year: 0x3
+Price: 472

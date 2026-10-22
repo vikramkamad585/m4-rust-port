@@ -1,0 +1,4 @@
+(record 0 (
+(field 0 "%rec" "Book")
+(field 12 "%type" "Year int")
+(field 28 "%sort" "Title")))

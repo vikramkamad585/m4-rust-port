@@ -1,0 +1,9 @@
+{
+ "tool": "recfmt",
+ "args": [
+  "* {{#Year}} {{Price[1]}};"
+ ],
+ "stdin": "# delta systems delta systems\n\nTitle: Gamma Editor Editor\n# note about Author\nAuthor: Bjarne Pike\n# note about Year\nYear:1985\nPrice: 543.29\n\nTitle:Security Alpha Alpha\nAuthor: Rob Wirth\nYear: 1972\n\nTitle: Networks\nAuthor:Rob Lamport\nAuthor:\tAda Ritchie\nYear:1990\nPrice: 0.5\nTag:\tstream\n\nTitle:Delta Parser\nAuthor:\tGuido Allen\nAuthor: Niklaus Matsumoto\nYear:81\nPrice: 196\nTag: stream\nTag:stream\nAvailable: 1\n",
+ "compare_stderr": false,
+ "group": "recfmt"
+}

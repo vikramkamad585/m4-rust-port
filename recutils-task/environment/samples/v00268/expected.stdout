@@ -1,0 +1,25 @@
+%rec: Book_Writer
+
+Title: Kernel
+Year: 1965
+Writer_Handle: radia
+Writer_Name: Radia McCarthy
+Writer_Born: 1990
+
+Title: Networks
+Year: 2014
+Writer_Handle: radia
+Writer_Name: Radia McCarthy
+Writer_Born: 1990
+
+Title: Queue Databases
+Year: 1963
+Writer_Handle: radia
+Writer_Name: Radia McCarthy
+Writer_Born: 1990
+
+Title: Queue Databases
+Year: 1963
+Writer_Handle: leslie
+Writer_Name: Leslie Turing
+Writer_Born: 1914

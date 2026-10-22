@@ -1,0 +1,68 @@
+# queue parser
+
+# between
+
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+%key: Title
+
+# between
+
+Title: Editor Gamma
+Author: Yukihiro \
+Stroustrup
+Available:1
+Price:-2.5
+Note: cache gamma
+
+# between
+
+Title: Systems Compilers
+Author: Alan McCarthy
+Year: 105
+# note about Price
+Price: 351
+Tag: delta
+
+# between
+
+Title: Systems Compilers Cache
+Author: Barbara Perlman
+Year: 78
+Price: 0.5
+Note:   gamma  
+
+# between
+
+Title: Security Delta
+Author:Frances Liskov
+Year:	39
+Price:	103
+Tag: gamma
+Tag: graphics
+Tag: parser
+Available:true
+
+%rec: Book2
+%type: Year int
+%type: Price real
+%key: Title
+
+# between
+
+Title: Security
+Author:	Radia Hopper
+Year: 1981
+Tag:	queue
+Available: false
+
+# between
+
+Author: Margaret Perlman
+Price:0.5
+Note: compilers compilers delta
+Tag: systems
+Title: Systems Compilers
+Year:	2018

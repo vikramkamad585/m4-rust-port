@@ -1,0 +1,76 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id:1
+# note about Name
+Name:Margaret Hopper
+Age: 66
+Salary:	144000
+Dept: Legal
+
+Id: 2
+Name:	Ken McCarthy
+Age:	63
+Salary: 46000.50
+Dept: Ops
+City: Lima
+
+Id:3
+Name:Leslie Liskov
+Age:	67
+Dept:	Support
+Level:8
+Email:dennis@example.org
+
+Id:	4
+Name:Edsger Thompson
+Age:	66
+Salary:0.5
+Dept: Ops
+Email: alan@example.org
+
+Id: 5
+Name: John Perlman
+Age:  3
+Salary: 109000
+Dept: Ops
+Email: yukihiro@example.org
+
+Id: 6
+Name: Guido Wirth
+Age:28
+Salary:	222
+Dept: Support
+# note about Level
+Level: 4
+Email:	ken@example.org
+Email: ken@exa\
+mple.org
+
+Id: 7
+Name:	Niklaus Hamilton
+Age: 38
+Dept: Le\
+gal
+Email:	dennis@example.org
+Email:niklaus@example.org
+
+Id:8
+Name: John Hamilton
+Salary:	1e3
+Dept: Ops
+Level:5
+Email: john@exa\
+mple.org
+City:	Ber\
+lin
+
+Id:9
+# note about Name
+Name:	John Allen
+Age: 03
+Salary: 155000.50
+# note about Dept
+Dept: Research
+Level: 4

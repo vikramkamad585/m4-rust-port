@@ -1,0 +1,44 @@
+%rec: Book
+%type: Writer rec Author
+%type: Year int
+
+Title:	Editor Security Systems
+Writer: yukihiro
+Year: 1981
+
+Title:	Gamma
+Writer:yukihiro
+Year: 1976
+
+Title: Runtime Editor Gamma
+Writer: ada
+Writer:	bjarne
+# note about Year
+Year: 1968
+
+Title: Stream Theory Queue
+Writer:nobody
+Year: 1965
+
+Title:Networks Runtime
+Writer: yukihiro
+Year:	2003
+
+%rec: Author
+%key: Handle
+
+Handle: bjarne
+Name: Bjarne Stroustrup
+Born: 1925
+
+Handle:	yukihiro
+Name:Yukihiro Knuth
+Born:1965
+
+Handle: ada
+Name:	Ada Turing
+Born: 1969
+
+Handle:	dennis
+Name: Dennis Liskov
+Born: 1951

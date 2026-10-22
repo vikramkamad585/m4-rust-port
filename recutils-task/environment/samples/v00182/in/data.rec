@@ -1,0 +1,102 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+
+Title: Graphics
+Author:	Dennis Borg
+Year: 2abc
+
+
+Tag: parser
+Author:	Leslie Allen
+Year: 87
+Tag: systems
+Price: .75
+Tag: runtime
+# note about Title
+Title: Databases Beta Networks
+
+
+Title: Parser Gamma
+Author: Dennis Torvalds
+Year: 1995
+Price:-2.5
+Tag: editor
+
+
+Title: Delta Parser Alpha
+Author: Frances Wirth
+Author: Anita Liskov
+Year: 06
+Price:341
+Tag: systems
+Tag: queue
+Available:true
+
+
+Title: Networks Security
+# note about Author
+Author:	Radia Turing
+Year: 1954
+Tag: networks
+Tag: beta
+Note:   kernel  
+
+
+Title:	Parser Delta Security
+Author:Ken van Rossum
+Author:Dennis Wirth
+Year:85
+Note: systems\security
+
+
+Note: BETA
+Title: Theory Al\
+pha Alpha
+Price:	.75
+Year:	1957
+Tag: parser
+Tag: beta
+Tag: networks
+Author: Dennis Thompson
+Author:Grace M\
+atsumoto
+
+
+Title:	Databases
+Author: Barbara Liskov
+Author: Leslie Hopper
+Price: -2.5
+Year: 1993
+
+
+Title:	Theory Networks Security
+Author: Alan Ritchie
+Author: Frances Wirth
+Year: 1958
+Price: 0.5
+Tag: theory
+# note about Tag
+Tag:stream
+Tag: runtime
+
+
+Year:	1968
+Author:Frances Ritchie
+Tag: editor
+Title:	Networks Kernel
+
+
+Title: Compilers
+Author: Frances Stroustrup
+Year:100
+Price: 420.68
+Tag: systems
+Tag:	stream
+
+
+Title: Delta Compilers Networks
+Year:  5
+Price:-2.5
+Author:	John Torvalds

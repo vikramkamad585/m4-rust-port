@@ -1,0 +1,26 @@
+# compilers stream
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+# between
+
+Id:1
+Name: Donald van Rossum
+Age: 06
+Salary:0.5
+Dept:Ops
+Email: barbara@example.org
+Email:	frances@example.org
+
+# between
+
+Id:	2
+Name: Edsger Ritchie
+Age:	06
+Salary: 150000.50
+Dept: Eng
+Level:	2

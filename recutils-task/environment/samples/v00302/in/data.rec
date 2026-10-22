@@ -1,0 +1,29 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%sort: Age
+
+# between
+
+Id:1
+Name: Ada Dijkstra
+Age:59
+Salary: 62000
+Dept: Support
+
+# between
+
+Id:	2
+Name:Yukihiro Torvalds
+Age:43
+Dept:	Ops
+Level: 2
+
+# between
+
+Id:	3
+Name: Leslie Perlman
+Age: 5abc
+Salary: 235.08
+# note about Dept
+Dept: Eng

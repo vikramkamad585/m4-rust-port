@@ -1,0 +1,45 @@
+%rec: Book
+%type: Year int
+%type: Price real
+
+Title:	Networks Beta
+Author: Guido Hopper
+Author: Margaret Liskov
+Year:	1953
+Price:.75
+Tag:	gamma
+Available:	false
+Note:delta compilers
+
+Title: Graphics
+Author:Yukihiro Borg
+Year: 50.38
+Price:	-2.5
+Tag: graphics
+Tag: cache
+Tag: beta
+
+Title: Runtime
+Author: Margaret Hopper
+Year:	1950
+Price:-2.5
+Tag: delta
+Available:	0
+Note: alpha alpha
+
+Title:Cache Graphics Networks
+Tag:	theory
+Available: false
+Tag:systems
+Price:	155
+Tag: compilers
+Note: systems networks stream
+Author: Alan Torvalds
+
+Title: Beta Beta Runtime
+Author: Linus Allen
+Year: 2020
+Price:	.75
+Tag: systems
+Tag: graphics
+Tag: delta

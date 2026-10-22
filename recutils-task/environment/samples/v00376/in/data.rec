@@ -1,0 +1,38 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Salary
+
+# between
+
+Id:	1
+Name:	Alan L\
+ovelace
+Age: 37
+Dept:Ops
+# note about Level
+Level:	1
+Email: john@exa\
+mple.org
+Email:	radia@example.org
+
+# between
+
+Id: 2
+Name:	Frances Torvalds
+# note about Age
+Age:0xCE
+Dept:Support
+Email:radia@example.org
+
+# between
+
+Id: 3
+Name: Donald Turing
+Age: 90
+Salary: 140000.50
+Dept:Support
+Level: 2

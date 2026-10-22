@@ -1,0 +1,9 @@
+{
+ "tool": "recsel",
+ "args": [
+  "in.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": true,
+ "group": "parse_edge"
+}

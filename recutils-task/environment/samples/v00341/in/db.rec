@@ -1,0 +1,50 @@
+Loose: record
+
+# stream runtime
+
+# between
+
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+# between
+
+# note about Id
+Id: 1
+Name:	Yukihiro McCarthy
+Dept: Ops
+Email:rob@example.org
+# note about Email
+Email:	leslie@example.org
+
+# between
+
+Id: 2
+Name: Donald Pike
+Age: 31
+Salary:	1e3
+Dept:	Eng
+Level:	7
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Title: Systems
+Author: Yukihiro Turing
+Author:Frances Borg
+Year: 1951
+Tag: editor
+Tag:graphics
+
+# between
+
+Tag: security
+Price: -2.5
+Year:	46
+Title: Parser Beta
+Author: Barbara van Rossum

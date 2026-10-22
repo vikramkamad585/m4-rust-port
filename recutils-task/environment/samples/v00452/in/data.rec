@@ -1,0 +1,34 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+%typedef: Dept_t enum Eng Ops Sales Research Support Legal
+%type: Dept Dept_t
+%sort: Dept Age
+
+
+Id: 1
+Name: Barbara Pike
+Age:	22
+# note about Salary
+Salary: 182000
+Dept:Research
+Email: donald@example.org
+City:	Austin
+
+
+Id:	2
+Name:	Radia Ritchie
+Age:
+Salary: 510.46
+Dept: Research
+
+
+Id: 3
+Name: Alan Matsumoto
+Age: 22
+Salary: -2.5
+Dept:Eng
+Email:dennis@example.org
+Email: leslie@ex\
+ample.org

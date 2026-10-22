@@ -1,0 +1,32 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+
+Id: 1
+Name:Grace Wirth
+Age:  0
+Salary:94000.50
+Dept:Research
+Email: linus@example.org
+Email:frances@example.org
+City:Tokyo
+
+Id: 2
+Name: Niklaus Dijkstra
+Age:	81
+# note about Salary
+Salary: 57000
+Dept: Sales
+Level: 6
+Email:john@example.org
+Email: john@example.org
+
+Id: 3
+Name:Edsger Liskov
+Age:	07
+Salary:	131000.50
+Dept:	Support
+Level:9
+Email: edsger@example.org
+Email:anita@example.org
+City: Cairo

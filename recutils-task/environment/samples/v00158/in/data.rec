@@ -1,0 +1,81 @@
+%rec: Book
+%type: Year int
+%type: Price real
+%type: Available bool
+
+
+Title: Security
+Author:Leslie Perlman
+Year: 2012
+Price: -2.5
+Note:   stream  
+
+
+Title: Databases Alpha
+Author: Donald van Rossum
+Note: theory beta stream
+Year:	1982
+
+
+Title:	Kernel D\
+atabases
+Tag: editor
+Price: 240.39
+Tag: cache
+Year: 3abc
+Author:	Anita Lamport
+# note about Available
+Available: yes
+
+
+Title: Systems Compilers Delta
+Price: -2.5
+Author: Dennis Pike
+Year: 1967
+Note:	say "theory"
+
+
+Title: Kernel
+Author:Donald Lamport
+Year: -23
+Price: 0.5
+
+
+Title:	Systems Kernel Theory
+Author:Ada Liskov
+Year:1968
+Tag:delta
+Tag: cache
+Note: editor
+
+
+Title: Gamma Theory
+Author:Leslie Hamilton
+Tag: security
+Tag: systems
+Price:134.12
+Year:96
+
+
+Title: Compilers Kernel Alpha
+Author:Radia Knuth
+Author: Niklaus Lovelace
+Year:2001
+Price: 0.5
+Tag: beta
+Available: true
+
+
+Title: Alpha
+Author:	Guido Torvalds
+Author:	Edsger Lovelace
+Year: 06
+Price: 195.74
+Available: 1
+
+
+Title:	Graphics Security Editor
+Author: Linus Borg
+Year:	79
+Tag:parser
+Note:   delta  

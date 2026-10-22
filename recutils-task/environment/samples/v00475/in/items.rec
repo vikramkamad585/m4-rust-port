@@ -1,0 +1,24 @@
+%rec: Item
+%type: V range MIN MAX
+
+
+Name: stream
+V:21
+
+
+Name: de\
+lta
+# note about V
+V: 3
+
+
+Name:systems
+V: 13
+
+
+Name: networks
+V:	28
+
+
+Name:kernel
+V: 1

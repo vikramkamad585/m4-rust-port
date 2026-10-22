@@ -1,0 +1,9 @@
+{
+ "tool": "recsel",
+ "args": [
+  "data.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "parse"
+}

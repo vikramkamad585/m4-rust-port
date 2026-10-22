@@ -1,0 +1,37 @@
+%rec: Book
+%type: Year int
+
+Title: Networks Delta Runtime
+Author:Niklaus Perlman
+Year: 8abc
+Price: 500
+Tag: compilers
+Tag: kernel
+Tag:	beta
+Available: 1
+
+Title:	Stream Databases
+Author:	Guido Matsumoto
+Year: 1978
+Price:337.91
+
+Available:	0
+Note: editor editor parser
+Title: Compilers
+Author: Ken Ritchie
+
+Available:no
+Price:	938.27
+Author: Ken McCarthy
+Year: 1989
+# note about Tag
+Tag:databases
+Title: Parser Alpha Graphics
+Author: Yukihiro Wirth
+
+Title:Security P\
+arser Queue
+Author: Linus Knuth
+Year: 76
+Price: 1e3
+Available: 1

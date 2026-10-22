@@ -1,0 +1,59 @@
+Id: 1
+Name: Leslie Stroustrup
+Age: 40
+Salary: 143000.50
+Dept: Ops
+Email: guido@example.org
+Email: leslie@example.org
+
+Id: 2
+Name: Niklaus Liskov
+Dept: Legal
+
+Id: 3
+Name: Barbara Liskov
+Age: 03
+Salary: .75
+Dept: Research
+Level: 6
+City: Tokyo
+
+Id: 4
+Name: John Turing
+Age: 02
+Salary: 52000.50
+Dept: Sales
+Level: 7
+Email: barbara@example.org
+
+Id: 5
+Name: Guido Matsumoto
+Age: 56
+Salary: 0.5
+Dept: Research
+Level: 4
+Email: frances@example.org
+Email: john@example.org
+
+Id: 6
+Name: John Thompson
+Age: 107
+Salary: 167000.50
+Dept: Sales
+Email: niklaus@example.org
+
+Id: 7
+Name: Rob Stroustrup
+Age: 34
+Salary: 121000
+Dept: Sales
+Email: margaret@example.org
+City: Tokyo
+
+Id: 8
+Name: Margaret Dijkstra
+Age: 8abc
+Salary: 39000
+Dept: Sales
+Email: grace@example.org
+City: Tokyo

@@ -1,0 +1,31 @@
+%rec: Staff
+%type: Age int
+%type: Salary real
+%type: Level range 1 9
+
+
+# note about Id
+Id: 1
+Name:	Anita Lovelace
+Age: 93
+Salary: 156000.50
+Dept: Research
+Level: 2
+Email:	john@example.org
+Email: yukihiro@example.org
+
+
+Id:2
+Name: Anita Hopper
+Age: 42
+Dept: Research
+Email:	edsger@example.org
+
+
+Id: 3
+Name: Barbara Dijkstra
+Age: 42
+Dept: Support
+# note about Email
+Email: barbara@example.org
+Email:grace@example.org

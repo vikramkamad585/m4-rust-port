@@ -1,0 +1,32 @@
+Loose:record
+
+%rec: Book
+%type: Year int
+%type: Price real
+
+# between
+
+Author: Ada Hamilton
+Year:	84
+Title: Compilers Systems Runtime
+Note: kernel\beta
+Price:	.75
+Author: Leslie Knuth
+
+# between
+
+Title: Runtime Gamma
+Author: Niklaus Turing
+Year: 23
+Tag:systems
+Tag:	databases
+
+# between
+
+Author:Yukihiro Knuth
+Tag: networks
+Title: Databases Beta
+Tag: theory
+Note: cache
+Author: Linus Wirth
+Tag:	cache

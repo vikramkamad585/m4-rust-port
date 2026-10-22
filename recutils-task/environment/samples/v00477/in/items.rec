@@ -1,0 +1,22 @@
+%rec: Item
+%type: V line
+
+Name: beta
+V: 6
+
+Name: compilers
+V: 9
+
+Name: stream
+V: 28
+
+Name:	theory
+V:25
+
+Name:	graphics
+V: 9
+
+Name: security
+V: 20
+
+Name:	delta

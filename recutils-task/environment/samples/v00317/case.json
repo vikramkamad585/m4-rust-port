@@ -1,0 +1,12 @@
+{
+ "tool": "recinf",
+ "args": [
+  "-t",
+  "Staff",
+  "-d",
+  "db.rec"
+ ],
+ "stdin": "",
+ "compare_stderr": false,
+ "group": "recinf"
+}

@@ -1,0 +1,12 @@
+%rec: Item
+%type: V line
+
+Name: alpha
+V:16
+
+Name:	compilers
+V: 8
+
+Name: cache
+# note about V
+V:	2
