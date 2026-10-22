@@ -1,0 +1,80 @@
+US1MIOW0061  43.0529  -86.2276  192.6 MI GRAND HAVEN 0.2 SW                          
+US1MOGS0004  38.2523  -91.4809  266.7 MO OWENSVILLE 6.7 S                            
+US1ORCC0115  45.4540 -122.5609  185.6 OR HAPPY VALLEY 1.4 WNW                        
+US1TXRL0023  29.7356  -99.7725  528.8 TX LEAKEY 1.0 NW                               
+USC00021059  34.2000 -112.1500  762.9 AZ BUMBLE BEE                                  
+USC00021295  33.8500 -112.2667  488.0 AZ LAKE PLEASANT                               
+USC00033235  35.4419  -92.9008  166.4 AR HECTOR 4 SE                                 
+USC00042294  38.5350 -121.7761   18.3 CA DAVIS 2 WSW EXP FARM               HCN      
+USC00042402  39.8717 -121.6108  826.0 CA DE SABLA                                    
+USC00046328  41.8392 -122.8503  603.5 CA OAK KNOLL W C                               
+USC00048992  33.6583 -117.5894  295.7 CA TRABUCO CANYON                              
+USC00049582  38.3775 -120.5453  845.8 CA W PT                                        
+USC00061844  41.3167  -73.0833   21.0 CT DERBY SHELTON                               
+USC00096650  31.5953  -83.2472   30.5 GA OCILLA WTP                                  
+USC00099186  31.2514  -82.3128   44.2 GA WAYCROSS 4 NE                      HCN      
+USC00105414  44.0828 -115.6186 1194.8 ID LOWMAN                                      
+USC00107561  45.7875 -115.1994 1524.0 ID RED RIVER HOT SPRINGS                       
+USC00111992  37.6167  -88.8333  153.0 IL CREAL SPRINGS                               
+USC00129113  38.7386  -87.4878  137.8 IN VINCENNES 5 NE                     HCN      
+USC00129222  41.4439  -86.9294  224.0 IN WANATAH 2 WNW                               
+USC00143093  39.3664 -101.7003 1114.3 KS GOODLAND WFO                                
+USC00143490  39.5111  -96.0781  365.2 KS HAVENSVILLE                                 
+USC00147195  37.5500 -100.8500 -999.9 KS SANTA FE                                    
+USC00166324  31.6667  -92.9000   31.1 LA MONTGOMERY                                  
+USC00171430  46.4925  -69.2864  284.7 ME CHURCHILL DAM                               
+USC00176597  46.0167  -68.4667  304.8 ME PATTEN                                      
+USC00183715  39.4667  -76.8000  213.4 MD GLYNDON                                     
+USC00193549  42.6667  -72.8167  484.6 MA HEATH                                       
+USC00206744  46.2833  -87.4667 -999.9 MI GWINN 1 W                                   
+USC00238902  37.9500  -93.4000 -999.9 MO WHEATLAND                                   
+USC00240408  48.1403 -104.1319  615.1 MT BAINVILLE 4 E                               
+USC00247214  46.4381 -108.5319  975.4 MT ROUNDUP                                     
+USC00253621  42.8000 -103.7833 -999.9 NE HARRISON 10 NE                              
+USC00262296  39.7086 -116.0494 1795.3 NV DIAMOND VALLEY - EUREKA 14NNW               
+USC00263205  39.0753 -119.9411 1935.5 NV GLENBROOK                                   
+USC00268977  38.7500 -119.3667 1476.1 NV WELLINGTON RS                               
+USC00270980  44.2667  -71.4500  502.9 NH BRETTON WOODS                               
+USC00273359  43.4500  -71.4167  313.9 NH GILMANTON                                   
+USC00279091  43.8669  -71.9164  199.0 NH WENTWORTH                                   
+USC00285195  40.1317  -74.0600   17.1 NJ MANASQUAN 1 NW                              
+USC00291332  34.9039 -103.4428 1396.0 NM CAMERON                                     
+USC00293420  35.5333 -108.6500 2012.9 NM GALLUP 5 E                                  
+USC00296138  33.5167 -105.6833 2169.0 NM NOGAL LAKE 1 S                              
+USC00296955  34.5000 -103.0833 1280.2 NM PLEASANT HILL                               
+USC00303773  42.7747  -77.6083  274.9 NY HEMLOCK                            HCN      
+USC00305676  42.3114  -78.9083  606.6 NY NEW ALBION 2                                
+USC00308906  41.5514  -74.1628  115.8 NY WALDEN 1 ESE                       HCN      
+USC00309691  43.2500  -79.0500   91.4 NY YOUNGSTOWN                                  
+USC00311663  35.5667  -82.9000 1311.9 NC CHAMBERS MTN                                
+USC00313638  35.6400  -77.3983    9.8 NC GREENVILLE                                  
+USC00320941  48.8217 -100.4528  493.5 ND BOTTINEAU                          HCN      
+USC00330581  39.9833  -80.9833  406.0 OH BELMONT 4 SE                                
+USC00335543  39.2833  -84.5667  259.1 OH MT HEALTHY EXP FARM                         
+USC00350138  42.3667 -122.7667  396.2 OR ALOHA RANCH                                 
+USC00351077  44.3833 -122.9833  100.9 OR BROWNSVILLE                                 
+USC00352230  42.9167 -124.4667   11.9 OR DENMARK 1 NNW                               
+USC00362466  40.4833  -78.7167  637.0 PA EBENSBURG                                   
+USC00365216  41.3167  -76.9167  183.2 PA LOYALSOCK                                   
+USC00367217  40.9500  -79.0000  396.2 PA PUNXSUTAWNEY                                
+USC00388922  32.8850  -80.6761   17.1 SC WALTERBORO 1 SW                             
+USC00402648  35.4500  -88.1500  164.9 TN DUNBAR                                      
+USC00404609  36.1167  -83.5000  366.1 TN JEFFERSON CITY EVAP                         
+USC00405600  35.4667  -86.0667  320.0 TN MANCHESTER TVA                              
+USC00408515  35.8147  -85.4244  269.7 TN SPENCER 5NE                                 
+USC00410443  33.6247  -94.8075  118.9 TX AVERY 5 NNW                                 
+USC00415821  34.7258 -100.5378  629.4 TX MEMPHIS                                     
+USC00419845  32.1000  -99.9000  601.1 TX WINTERS 9 NNE                               
+USC00420716  39.8667 -111.5333 1743.2 UT BIRDSEYE                                    
+USC00437607  44.6258  -73.3031   32.9 VT S HERO                             HCN      
+USC00440766  37.2039  -80.4144  641.0 VA BLACKSBURG NWSO                    HCN      
+USC00447501  36.8833  -81.7667  524.9 VA SALTVILLE                                   
+USC00451350  47.8342 -120.0003  363.9 WA CHELAN                                      
+USC00472209  45.0500  -92.1333  299.0 WI DOWNING 1 E                                 
+USC00488157  44.7600 -106.9694 1202.4 WY SHERIDAN GIRLS SCHOOL                       
+USC00502280  66.9333 -156.8667   82.0 AK DAHL CREEK                                  
+USC00505879  65.2000 -147.2000  267.9 AK MILE 41 STEESE                              
+USW00004808  41.7714  -88.4814  213.7 IL CHICAGO AURORA MUNI AP                      
+USW00012810  27.8500  -82.5167    7.9 FL MACDILL AFB                            74788
+USW00023057  35.0500 -107.7167 2007.1 NM ACOMITA CAA AP                              
+USW00025331  61.5950 -149.0917   71.0 AK PALMER AP                              70274

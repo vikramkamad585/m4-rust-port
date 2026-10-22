@@ -14,3 +14,10 @@ authoring/recutils-1.9.tar.gz
 authoring/rec/out/
 authoring/rec/ref/target/
 authoring/rec/scratch/
+ghcn-task/jobs/
+ghcn-task/environment/data/
+ghcn-task/tests/hidden/
+authoring/ghcn/raw/
+authoring/ghcn/ghcnd-stations.txt
+authoring/ghcn/ref/codec
+authoring/ghcn/base/codec

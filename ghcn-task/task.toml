@@ -1,0 +1,30 @@
+version = "1.0"
+
+[task]
+name = "afterquery/ghcn-daily-codec"
+description = "Design a lossless compressor for NOAA GHCN-Daily station files; scored by compression ratio on sealed stations from other networks and regions, gated on an exact round trip."
+
+[metadata]
+paradigm = "research"
+compute = "cpu"
+languages = ["cpp"]
+category = "compression"
+difficulty = "frontier"
+tags = ["lossless-compression", "context-mixing", "arithmetic-coding", "climate-data", "out-of-distribution"]
+oracle_reward_threshold = 1.0
+reward_cap = "uncapped"
+
+[agent]
+timeout_sec = 28800
+
+[verifier]
+timeout_sec = 3600
+
+[environment]
+allow_internet = false
+cpus = 4
+memory_mb = 8192
+gpus = 0
+
+[environment.env]
+TASK_BUDGET_SECS = "28800"

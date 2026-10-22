@@ -1,6 +1,16 @@
 # Frontier task bundles
 
-## recutils-recsel-rs (current submission)
+## ghcn-daily-codec (current submission)
+
+Research task: a lossless codec for NOAA GHCN-Daily station files (US,
+public domain). It is scored by compression ratio on 70 sealed stations from
+other networks and regions (airport, CoCoRaHS, AK/HI/territories), with
+an exact round-trip gate. The zlib starting point reaches 9.05×; the
+reference context-mixing codec reaches 20.98×. The bundle is in
+`ghcn-task/` (zip: `ghcn-daily-codec.zip`). The station data is not
+committed; `ghcn-task/tests/authoring/fetch.py` re-downloads it.
+
+## recutils-recsel-rs (retired: too similar to an existing task)
 
 Reimplement GNU recutils 1.9's query tools (`recsel`, `recinf`, `recfmt`,
 `rec2csv`) as one dependency-free Rust binary, `recrs`. The binary is graded
