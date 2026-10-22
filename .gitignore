@@ -1,0 +1,10 @@
+authoring/out/
+*.zip
+target/
+__pycache__/
+.DS_Store
+m4-rust-port/jobs/
+authoring/refbuild/
+authoring/m4-1.4.19/
+authoring/m4-1.4.19.tar.xz
+authoring/probe.m4

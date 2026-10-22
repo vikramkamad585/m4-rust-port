@@ -1,0 +1,29 @@
+version = "1.0"
+
+[task]
+name = "afterquery/m4-rust-port"
+description = "Port the GNU m4 1.4.19 macro processor to a dependency-free Rust binary; graded by byte-exact differential comparison against GNU m4 on 2,175 sealed programs."
+
+[metadata]
+paradigm = "implementation"
+compute = "cpu"
+languages = ["rust"]
+category = "language-implementation"
+difficulty = "frontier"
+tags = ["m4", "macro-processor", "interpreter", "regex", "printf", "port", "differential-testing"]
+oracle_reward_threshold = 1.0
+
+[agent]
+timeout_sec = 28800
+
+[verifier]
+timeout_sec = 3600
+
+[environment]
+allow_internet = false
+cpus = 4
+memory_mb = 8192
+gpus = 0
+
+[environment.env]
+TASK_BUDGET_SECS = "28800"
